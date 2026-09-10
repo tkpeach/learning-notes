@@ -1,0 +1,4 @@
+interface:
+  display_name: "学习资料分析"
+  short_description: "分析论文、书籍、新闻、日报和 Prompt 实践，提炼证据、差异、不确定性与行动价值"
+  default_prompt: "请使用 $learning-material-analysis 分析我提供的学习资料，并区分事实、推断、经验和待验证假设。"
