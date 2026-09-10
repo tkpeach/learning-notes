@@ -31,27 +31,27 @@
 
 ## OpenAI News
 
-- last_seen_item: An Alien Mind
-- last_seen_publish_time: 2026-09-06
-- last_successful_scan: 2026-09-08T10:06:07+08:00
+- last_seen_item: How GPT-5.6 Sol helps run quantum computing experiments
+- last_seen_publish_time: 2026-09-08
+- last_successful_scan: 2026-09-10T01:01:28+08:00
 
 ## OpenAI Index
 
-- last_seen_item: An Alien Mind
-- last_seen_publish_time: 2026-09-06
-- last_successful_scan: 2026-09-08T10:06:07+08:00
+- last_seen_item: How GPT-5.6 Sol helps run quantum computing experiments
+- last_seen_publish_time: 2026-09-08
+- last_successful_scan: 2026-09-10T01:01:28+08:00
 
 ## OpenAI Product
 
-- last_seen_item: GPT-6 Astra: A new generation of intelligence
-- last_seen_publish_time: 2026-09-03
-- last_successful_scan: 2026-09-08T10:06:07+08:00
+- last_seen_item: Introducing ChatGPT Images 2.5
+- last_seen_publish_time: 2026-09-08
+- last_successful_scan: 2026-09-10T01:01:28+08:00
 
 ## OpenAI Research
 
-- last_seen_item: Research acceleration: The view inside OpenAI Research
-- last_seen_publish_time: 2026-09-06
-- last_successful_scan: 2026-09-08T10:06:07+08:00
+- last_seen_item: On the Navier–Stokes Millennium Prize Problem
+- last_seen_publish_time: 2026-09-08
+- last_successful_scan: 2026-09-10T01:01:28+08:00
 
 ## OpenAI Engineering
 
@@ -61,9 +61,9 @@
 
 ## OpenAI Safety
 
-- last_seen_item: An Alien Mind
-- last_seen_publish_time: 2026-09-06
-- last_successful_scan: 2026-09-08T10:06:07+08:00
+- last_seen_item: Funding grants for new research into AI and teen development
+- last_seen_publish_time: 2026-09-08
+- last_successful_scan: 2026-09-09T01:01:54+08:00
 
 ## OpenAI Security
 
@@ -81,25 +81,25 @@
 
 - last_seen_item: Introducing Gemini 3.8 Flash and 3.8 Flash Cyber
 - last_seen_publish_time: 2026-09-02
-- last_successful_scan: 2026-09-08T10:06:07+08:00
+- last_successful_scan: 2026-09-10T01:01:28+08:00
 
 ## Anthropic Newsroom
 
 - last_seen_item: Introducing Claude Fable 5.1 and Claude Mythos 5.1
 - last_seen_publish_time: 2026-09-01
-- last_successful_scan: 2026-09-08T10:06:07+08:00
+- last_successful_scan: 2026-09-10T01:01:28+08:00
 
 ## Claude Blog
 
-- last_seen_item: A guide to the anatomy of effective commerce agents
-- last_seen_publish_time: 2026-09-02
-- last_successful_scan: 2026-09-08T10:06:07+08:00
+- last_seen_item: Reducing cost and improving performance with Claude Platform
+- last_seen_publish_time: 2026-09-08
+- last_successful_scan: 2026-09-10T01:01:28+08:00
 
 ## DeepSeek Updates
 
 - last_seen_item: DeepSeek-V4-Flash-Vision-Exp Release
 - last_seen_publish_time: 2026-08-21
-- last_successful_scan: 2026-09-08T10:06:07+08:00
+- last_successful_scan: 2026-09-10T01:01:28+08:00
 
 ## DeepSeek Homepage
 
@@ -123,7 +123,7 @@
 
 - last_seen_item: qwen3.8-max-0902
 - last_seen_publish_time: 2026-09-02
-- last_successful_scan: 2026-09-08T10:06:07+08:00
+- last_successful_scan: 2026-09-10T01:01:28+08:00
 
 ## ModelScope Qwen
 
@@ -141,25 +141,25 @@
 
 - last_seen_item: Kimi K3
 - last_seen_publish_time: 2026-07-16
-- last_successful_scan: 2026-09-08T10:06:07+08:00
+- last_successful_scan: 2026-09-10T01:01:28+08:00
 
 ## Moonshot Platform Blog
 
 - last_seen_item: Kimi 开放平台：新功能发布记录
 - last_seen_publish_time: 2025-11-07
-- last_successful_scan: 2026-09-08T10:06:07+08:00
+- last_successful_scan: 2026-09-10T01:01:28+08:00
 
 ## ByteDance Seed Blog
 
 - last_seen_item: SeedRealtime 音视频全双工大模型发布：走向全模态自然交互
 - last_seen_publish_time: 2026-08-05
-- last_successful_scan: 2026-09-08T10:06:07+08:00
+- last_successful_scan: 2026-09-10T01:01:28+08:00
 
 ## MiniMax Blog
 
 - last_seen_item: MiniMax Music 3.0：新一代开放权重、生产级全能音乐模型
 - last_seen_publish_time: 2026-08-13
-- last_successful_scan: 2026-09-08T10:06:07+08:00
+- last_successful_scan: 2026-09-10T01:01:28+08:00
 
 ## MiniMax News
 
@@ -171,7 +171,7 @@
 
 - last_seen_item: MiniMax H3
 - last_seen_publish_time: 2026-07-31
-- last_successful_scan: 2026-09-08T10:06:07+08:00
+- last_successful_scan: 2026-09-10T01:01:28+08:00
 
 ## Tencent Hunyuan Research
 
@@ -195,19 +195,19 @@
 
 - last_seen_item: GSoC 2025: Advanced symbol resolution for Clang-Repl
 - last_seen_publish_time: 2026-01-19
-- last_successful_scan: 2026-09-08T10:06:07+08:00
+- last_successful_scan: 2026-09-10T01:01:28+08:00
 
 ## MaskRay
 
 - last_seen_item: Block frequency
 - last_seen_publish_time: 2026-08-23
-- last_successful_scan: 2026-09-08T10:06:07+08:00
+- last_successful_scan: 2026-09-10T01:01:28+08:00
 
 ## John Regehr
 
 - last_seen_item: Looking for Missed Alarm Bugs in a Formal Verification Tool
 - last_seen_publish_time: 2024-09-04
-- last_successful_scan: 2026-09-08T10:06:07+08:00
+- last_successful_scan: 2026-09-09T01:01:54+08:00
 
 ## Chris Lattner
 
@@ -219,13 +219,13 @@
 
 - last_seen_item: Mojo is now open source!
 - last_seen_publish_time: 2026-08-18
-- last_successful_scan: 2026-09-08T10:06:07+08:00
+- last_successful_scan: 2026-09-10T01:01:28+08:00
 
 ## PyTorch
 
 - last_seen_item: Alibaba Cloud, Ant Group, Cambricon and Huawei Come Together in Shanghai to Advance the Open Source AI Stack at PyTorch Conference China
 - last_seen_publish_time: 2026-09-07
-- last_successful_scan: 2026-09-08T10:06:07+08:00
+- last_successful_scan: 2026-09-10T01:01:28+08:00
 
 ## Triton
 
@@ -235,9 +235,9 @@
 
 ## MLIR / LLVM Project Updates
 
-- last_seen_item:
-- last_seen_publish_time:
-- last_successful_scan:
+- last_seen_item: LLVM 23.1.1
+- last_seen_publish_time: 2026-09-08
+- last_successful_scan: 2026-09-10T01:01:28+08:00
 
 ## vLLM
 
@@ -253,9 +253,9 @@
 
 ## CUDA / NVIDIA Developer Technical Updates
 
-- last_seen_item: Building a Memory-Driven Agent with NVIDIA NemoClaw
-- last_seen_publish_time: 2026-09-04
-- last_successful_scan: 2026-09-08T10:06:07+08:00
+- last_seen_item: Introducing CUDA Rust: Two Tracks for Writing GPU Kernels
+- last_seen_publish_time: 2026-09-08
+- last_successful_scan: 2026-09-10T01:01:28+08:00
 
 ## Lilian Weng
 
@@ -265,15 +265,24 @@
 
 ## Sebastian Raschka
 
-- last_seen_item:
-- last_seen_publish_time:
-- last_successful_scan:
+- last_seen_item: OpenAI Astra and Looped Transformers
+- last_seen_publish_time: 2026-09-02
+- last_successful_scan: 2026-09-10T01:01:28+08:00
 
 ## Chip Huyen
 
 - last_seen_item: Common pitfalls when building generative AI applications
 - last_seen_publish_time: 2025-01-16
 - last_successful_scan: 2026-09-08T10:06:07+08:00
+
+---
+
+# Codex Usage Monitor State
+
+- last_successful_scan: 2026-09-10T01:01:28+08:00
+- last_seen_announcement: Managing usage with GPT-6 Astra in Work and Codex
+- last_seen_publish_time: 2026-09-09
+- last_alerted_announcement: How banked Codex resets work — September 7 global reset and GPT-6 Astra rollout banked resets
 
 ---
 
@@ -390,6 +399,93 @@
   - 不同 router、负载分布和 skipping 比例下的稳定性
 - discovery_source: Hugging Face Daily Papers / arXiv recent
 
+## 2609.04010
+
+- title: Unlocking Lossless Speedups in LLMs via Discrete Diffusion
+- url: https://arxiv.org/abs/2609.04010
+- direction: LLM 推理 / speculative decoding / 离散扩散
+- first_seen: 2026-09-09
+- last_review: 2026-09-09
+- next_review: 2026-09-12
+- status: active
+- quality: B
+- maturity: M1
+- personal_value: high
+- main_evidence:
+  - Ψ-Spec 以离散扩散模型生成候选，并通过接受/拒绝机制保持原自回归模型的目标分布。
+  - 作者已公开训练、推理、评测代码与多个 checkpoint，并在 8B 规模报告最高约 3× 加速。
+- missing_evidence:
+  - 缺少第三方独立复现和生产 serving 集成。
+  - 不同 batch、KV-cache 压力、硬件和 sampler 下的完整端到端数据仍不足。
+  - 与既有 diffusion-augmented LLM 路线的创新差异仍需进一步核对。
+- known_assets:
+  - 论文
+  - 作者核心代码
+  - 训练与评测 recipe
+  - checkpoints
+- next_review_focus:
+  - 分布等价的独立验证
+  - 真实并发 serving 的延迟、吞吐与显存数据
+  - vLLM/SGLang 等生态集成和第三方复现
+- discovery_source: Hugging Face Daily Papers / arXiv / 作者项目页与 GitHub
+
+## 2609.08368
+
+- title: Miles v0.1: A Full-Stack Infrastructure for Large-Scale LLM Post-Training
+- url: https://arxiv.org/abs/2609.08368
+- direction: LLM 后训练 / 分布式系统 / RL infrastructure
+- first_seen: 2026-09-10
+- last_review: 2026-09-10
+- next_review: 2026-09-14
+- status: active
+- quality: B
+- maturity: M1
+- personal_value: high
+- main_evidence:
+  - 系统覆盖 SGLang rollout、Megatron-LM 或 PyTorch FSDP trainer、三种权重同步，以及 RL、LoRA RL、on-policy distillation、SFT 和 diffusion 路径。
+  - 作者给出 64 台 GB300、GLM-5.2 744B-A40B 的全异步 terminal-coding RL 案例，前 30 步中位 step time 为 263 秒。
+- missing_evidence:
+  - 大规模性能和稳定性主要来自作者自报，缺少第三方集群复现。
+  - 安装复杂度、故障恢复、资源利用率和不同后端组合的完整对照仍不足。
+- known_assets:
+  - 论文
+  - 成熟核心仓库
+  - 训练与异步 recipe
+  - 文档、测试和工具
+- next_review_focus:
+  - 第三方小规模与多节点复现
+  - 异步 rollout 的 staleness、故障恢复和可重复性
+  - 权重同步方式的通信开销及不同训练后端对照
+- discovery_source: Hugging Face Daily Papers / arXiv / 作者 GitHub
+
+## 2609.04971
+
+- title: BeaconKV: Training-Free KV Cache Compression via Representative Beacon Queries
+- url: https://arxiv.org/abs/2609.04971
+- direction: LLM Serving / KV cache / 长上下文推理
+- first_seen: 2026-09-10
+- last_review: 2026-09-10
+- next_review: 2026-09-13
+- status: active
+- quality: B
+- maturity: M1
+- personal_value: high
+- main_evidence:
+  - 通过代表性 beacon query 估计历史 token 被远距离重访的重要性，无需重新训练模型。
+  - 作者在四个开放推理模型上报告最高 5.8× 显存压缩、超过 4.3× 吞吐提升，并已公开核心实现和评测脚本。
+- missing_evidence:
+  - 仓库提交和外部采用仍少，缺少第三方复现与生产 serving 集成。
+  - 不同 batch、序列结构、硬件与 FlashAttention 版本下的收益稳定性未知。
+- known_assets:
+  - 论文
+  - 作者核心代码
+  - 评测脚本
+- next_review_focus:
+  - 独立长上下文与推理任务复现
+  - 真实 serving 的延迟、吞吐、显存和质量 Pareto
+  - vLLM/SGLang 集成及多种注意力后端兼容性
+- discovery_source: Hugging Face Daily Papers / arXiv / 作者 GitHub
+
 ---
 
 # Active GitHub
@@ -484,6 +580,158 @@
   - 第三方复现与真实模型 workload 结果
   - 完整搜索轨迹、成本、失败恢复和可重复性
   - 对 CUDA/Triton 或其他 kernel DSL 的扩展
+- discovery_source: Hugging Face Daily Papers / arXiv / GitHub
+
+## NVlabs/cuda-oxide
+
+- repo: NVlabs/cuda-oxide
+- url: https://github.com/NVlabs/cuda-oxide
+- direction: GPU 编译器 / Rust / CUDA SIMT kernel
+- first_seen: 2026-09-09
+- last_review: 2026-09-09
+- next_review: 2026-09-13
+- status: active
+- quality: B
+- personal_value: high
+- last_release: v0.2.1（2026-06-10）
+- last_commit_or_major_delta: 2026-09-08 NVIDIA 官方发布 CUDA Rust 双路线技术介绍
+- main_evidence:
+  - 仓库包含 rustc codegen backend、host runtime、device intrinsics、文档、示例和测试。
+  - 编译流水线可追到 Rust MIR → Pliron IR → LLVM IR → PTX，并提供类型化 launch 与内存安全约束。
+- missing_evidence:
+  - 仍属 experimental，依赖 pinned nightly Rust，平台与硬件兼容范围有限。
+  - 缺少跨 workload、跨硬件的独立性能与稳定性验证。
+- known_assets:
+  - core code
+  - runtime
+  - book/docs
+  - examples
+  - tests
+- next_review_focus:
+  - 稳定 release、Rust 版本与 CUDA 兼容性
+  - 编译质量和真实 kernel benchmark
+  - 跨语言互操作与生产采用
+- discovery_source: NVIDIA Developer Blog / GitHub
+
+## NVlabs/cutile-rs
+
+- repo: NVlabs/cutile-rs
+- url: https://github.com/NVlabs/cutile-rs
+- direction: GPU 编程 / Rust / tile-level DSL
+- first_seen: 2026-09-09
+- last_review: 2026-09-09
+- next_review: 2026-09-13
+- status: active
+- quality: B
+- personal_value: high
+- last_release: v0.3.1（2026-09-06）
+- last_commit_or_major_delta: 2026-09-08 NVIDIA 官方发布 CUDA Rust 双路线技术介绍
+- main_evidence:
+  - 仓库提供稳定 Rust 上的 tile DSL、CUDA Tile IR JIT、host-side ownership API、示例与文档。
+  - NVIDIA 官方文章确认 Hugging Face Grout 与 mistral.rs 已采用。
+- missing_evidence:
+  - 仍处早期阶段，API 会变化且当前要求 CUDA 13.3。
+  - 缺少独立的综合 benchmark 和生产稳定性证据。
+- known_assets:
+  - core code
+  - crate
+  - docs
+  - examples
+- next_review_focus:
+  - API 稳定性与 CUDA 版本兼容性
+  - 和 Triton/CUDA C++ 的可复现性能对照
+  - 生态采用与跨语言互操作
+- discovery_source: NVIDIA Developer Blog / GitHub
+
+## ifm-ai/uno
+
+- repo: ifm-ai/uno
+- url: https://github.com/ifm-ai/uno
+- direction: LLM 推理 / speculative decoding / 离散扩散
+- first_seen: 2026-09-09
+- last_review: 2026-09-09
+- next_review: 2026-09-12
+- status: active
+- quality: B
+- personal_value: high
+- last_release: 未发现稳定 release
+- last_commit_or_major_delta: 2026-09-03 论文、代码与 checkpoint 公开，本期按成熟证据补充纳入
+- main_evidence:
+  - 仓库包含 nano_vllm_uno 推理引擎、linear/tree sampler、conditional-LoRA 训练、评测脚本与示例。
+  - 已发布多个 checkpoint，可直接核对采样正确性和作者性能主张。
+- missing_evidence:
+  - 缺少第三方复现、稳定 release 与生产 serving 集成。
+  - 对真实 batch、KV-cache 压力、不同硬件和依赖版本的完整验证不足。
+- known_assets:
+  - core code
+  - training recipe
+  - evaluation
+  - examples
+  - checkpoints
+- next_review_focus:
+  - 分布等价与速度收益的独立复现
+  - 真实并发 serving 的延迟—吞吐 Pareto
+  - vLLM/SGLang 集成、依赖兼容性与稳定 release
+- discovery_source: Hugging Face Daily Papers / arXiv / 作者项目页与 GitHub
+
+## openai/NavierStokesAndEuler
+
+- repo: openai/NavierStokesAndEuler
+- url: https://github.com/openai/NavierStokesAndEuler
+- direction: AI Scientist / 形式化验证 / 数学
+- first_seen: 2026-09-10
+- last_review: 2026-09-10
+- next_review: 2026-09-13
+- status: active
+- quality: B
+- personal_value: high
+- last_release: 未发现稳定 release
+- last_commit_or_major_delta: 2026-09-08 OpenAI 公开 Navier–Stokes 与 Euler 的 Lean 形式化工程
+- main_evidence:
+  - 仓库包含 Lean 4.34.0-rc2 工程，按 NavierStokes、Euler 与 ComparatorChallenges 组织核心形式化内容。
+  - 提供 Mathlib 缓存和完整构建路径，可由外部研究者独立运行 proof kernel 检查。
+- missing_evidence:
+  - 只有一次公开提交，尚无独立数学审查或社区验证记录。
+  - Lean 证明项通过不能自动保证形式化陈述完整对应千禧年问题的预期语义。
+- known_assets:
+  - core formalization
+  - build instructions
+  - accompanying paper
+- next_review_focus:
+  - 流体力学专家与 Lean 社区的独立审查
+  - 自然语言论文和 Lean 定理在定义、假设、结论上的逐项对应
+  - 后续修订、issue 与可重复构建结果
+- discovery_source: OpenAI 官方研究发布 / GitHub
+
+## radixark/miles
+
+- repo: radixark/miles
+- url: https://github.com/radixark/miles
+- direction: LLM 后训练 / 分布式系统 / RL infrastructure
+- first_seen: 2026-09-10
+- last_review: 2026-09-10
+- next_review: 2026-09-14
+- status: active
+- quality: B
+- personal_value: high
+- last_release: Miles v0.1（2026-08）
+- last_commit_or_major_delta: 2026-09-08 v0.1 技术报告公开，仓库已有超过两千次提交的完整实现
+- main_evidence:
+  - 包含训练入口、同步与异步执行、SGLang rollout、Megatron-LM/FSDP trainer、三种权重同步、文档和测试。
+  - 作者展示 64 台 GB300 上 GLM-5.2 744B-A40B 的全异步 terminal-coding RL 案例。
+- missing_evidence:
+  - 超大规模性能、可靠性和资源效率仍主要来自作者自报。
+  - 缺少第三方跨集群复现、稳定性报告及不同后端组合的系统对照。
+- known_assets:
+  - core code
+  - training recipes
+  - async runtime
+  - docs
+  - tests
+- next_review_focus:
+  - 小规模可复现 recipe 与多节点第三方结果
+  - rollout staleness、容错和权重同步开销
+  - SGLang、Megatron-LM 与 FSDP 版本兼容性
 - discovery_source: Hugging Face Daily Papers / arXiv / GitHub
 
 ---
