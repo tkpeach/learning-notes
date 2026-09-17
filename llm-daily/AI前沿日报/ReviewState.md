@@ -31,81 +31,81 @@
 
 ## OpenAI News
 
-- last_seen_item: Rapidly scaling online storage to serve over 1 billion ChatGPT users
-- last_seen_publish_time: 2026-09-11
-- last_successful_scan: 2026-09-14T01:00:46+08:00
+- last_seen_item: Reimagining advertising with AI
+- last_seen_publish_time: 2026-09-16
+- last_successful_scan: 2026-09-17T01:09:00+08:00
 
 ## OpenAI Index
 
-- last_seen_item: Rapidly scaling online storage to serve over 1 billion ChatGPT users
-- last_seen_publish_time: 2026-09-11
-- last_successful_scan: 2026-09-14T01:00:46+08:00
+- last_seen_item: Reimagining advertising with AI
+- last_seen_publish_time: 2026-09-16
+- last_successful_scan: 2026-09-17T01:09:00+08:00
 
 ## OpenAI Product
 
-- last_seen_item: Now everyone can put data to work
-- last_seen_publish_time: 2026-09-10
-- last_successful_scan: 2026-09-14T01:00:46+08:00
+- last_seen_item: Reimagining advertising with AI
+- last_seen_publish_time: 2026-09-16
+- last_successful_scan: 2026-09-17T01:09:00+08:00
 
 ## OpenAI Research
 
 - last_seen_item: Build more natural voice experiences with GPT‑Live‑1 in the API
 - last_seen_publish_time: 2026-09-10
-- last_successful_scan: 2026-09-14T01:00:46+08:00
+- last_successful_scan: 2026-09-17T01:09:00+08:00
 
 ## OpenAI Engineering
 
 - last_seen_item: Rapidly scaling online storage to serve over 1 billion ChatGPT users
 - last_seen_publish_time: 2026-09-11
-- last_successful_scan: 2026-09-14T01:00:46+08:00
+- last_successful_scan: 2026-09-17T01:09:00+08:00
 
 ## OpenAI Safety
 
 - last_seen_item: Funding grants for new research into AI and teen development
 - last_seen_publish_time: 2026-09-08
-- last_successful_scan: 2026-09-14T01:00:46+08:00
+- last_successful_scan: 2026-09-15T01:06:56+08:00
 
 ## OpenAI Security
 
 - last_seen_item: Daybreak for Frontline Defenders
 - last_seen_publish_time: 2026-09-03
-- last_successful_scan: 2026-09-14T01:00:46+08:00
+- last_successful_scan: 2026-09-17T01:09:00+08:00
 
 ## OpenAI Global Affairs
 
-- last_seen_item: Expanding AI access across every level of US government
-- last_seen_publish_time: 2026-09-10
-- last_successful_scan: 2026-09-14T01:00:46+08:00
+- last_seen_item: Helping older adults use AI in everyday life
+- last_seen_publish_time: 2026-09-16
+- last_successful_scan: 2026-09-17T01:09:00+08:00
 
 ## Google DeepMind Blog
 
 - last_seen_item: Introducing Gemini 3.8 Flash and 3.8 Flash Cyber
 - last_seen_publish_time: 2026-09-02
-- last_successful_scan: 2026-09-14T01:00:46+08:00
+- last_successful_scan: 2026-09-17T01:09:00+08:00
 
 ## Anthropic Newsroom
 
 - last_seen_item: Detecting and countering misuse of AI: September 2026
 - last_seen_publish_time: 2026-09-10
-- last_successful_scan: 2026-09-14T01:00:46+08:00
+- last_successful_scan: 2026-09-16T01:07:36+08:00
 
 ## Claude Blog
 
-- last_seen_item: T. Rowe Price brings more of Claude to its investment process
-- last_seen_publish_time: 2026-09-10
-- last_successful_scan: 2026-09-14T01:00:46+08:00
+- last_seen_item: Claude Cowork and chat are now one Claude
+- last_seen_publish_time: 2026-09-16
+- last_successful_scan: 2026-09-17T01:09:00+08:00
 
 ## DeepSeek Updates
 
 - last_seen_item: DeepSeek-V4.1-Flash Release
 - last_seen_publish_time: 2026-09-10
-- last_successful_scan: 2026-09-14T01:00:46+08:00
+- last_successful_scan: 2026-09-17T01:09:00+08:00
 
 ## DeepSeek Homepage
 
 - last_seen_item: DeepSeek-V4.1-Flash 发布
 - last_seen_publish_time: 2026-09-10
-- last_successful_scan: 2026-09-14T01:00:46+08:00
+- last_successful_scan: 2026-09-17T01:09:00+08:00
 
 ## Qwen Blog
 
@@ -117,13 +117,13 @@
 
 - last_seen_item: Qwen3Guard：实时安全，逐词响应
 - last_seen_publish_time: 2025-09-23
-- last_successful_scan: 2026-09-14T01:00:46+08:00
+- last_successful_scan: 2026-09-17T01:09:00+08:00
 
 ## Aliyun Model Studio New Models
 
-- last_seen_item: qwen3.8-max-0902
-- last_seen_publish_time: 2026-09-02
-- last_successful_scan: 2026-09-14T01:00:46+08:00
+- last_seen_item: deepseek-v4.1-flash
+- last_seen_publish_time: 2026-09-13
+- last_successful_scan: 2026-09-17T01:09:00+08:00
 
 ## ModelScope Qwen
 
@@ -135,25 +135,25 @@
 
 - last_seen_item: GLM-5.3-Flash：前沿智能进入普惠时代
 - last_seen_publish_time: 2026-08-26
-- last_successful_scan: 2026-09-14T01:00:46+08:00
+- last_successful_scan: 2026-09-17T01:09:00+08:00
 
 ## Kimi Blog
 
 - last_seen_item: Kimi K3
 - last_seen_publish_time: 2026-07-16
-- last_successful_scan: 2026-09-14T01:00:46+08:00
+- last_successful_scan: 2026-09-17T01:09:00+08:00
 
 ## Moonshot Platform Blog
 
 - last_seen_item: Kimi 开放平台：新功能发布记录
 - last_seen_publish_time: 2025-11-07
-- last_successful_scan: 2026-09-14T01:00:46+08:00
+- last_successful_scan: 2026-09-17T01:09:00+08:00
 
 ## ByteDance Seed Blog
 
 - last_seen_item: SeedRealtime 音视频全双工大模型发布：走向全模态自然交互
 - last_seen_publish_time: 2026-08-05
-- last_successful_scan: 2026-09-14T01:00:46+08:00
+- last_successful_scan: 2026-09-17T01:09:00+08:00
 
 ## MiniMax Blog
 
@@ -171,7 +171,7 @@
 
 - last_seen_item: MiniMax H3
 - last_seen_publish_time: 2026-07-31
-- last_successful_scan: 2026-09-14T01:00:46+08:00
+- last_successful_scan: 2026-09-17T01:09:00+08:00
 
 ## Tencent Hunyuan Research
 
@@ -193,21 +193,21 @@
 
 ## LLVM Blog
 
-- last_seen_item: GSoC 2025: Advanced symbol resolution for Clang-Repl
-- last_seen_publish_time: 2026-01-19
-- last_successful_scan: 2026-09-14T01:00:46+08:00
+- last_seen_item: GSoC 2026: Extending Clang API Notes for C++: Overload-Specific Annotations for Functions and Methods
+- last_seen_publish_time: 2026-09-14
+- last_successful_scan: 2026-09-17T01:09:00+08:00
 
 ## MaskRay
 
 - last_seen_item: lld 23 ELF changes
 - last_seen_publish_time: 2026-09-12
-- last_successful_scan: 2026-09-14T01:00:46+08:00
+- last_successful_scan: 2026-09-17T01:09:00+08:00
 
 ## John Regehr
 
 - last_seen_item: Looking for Missed Alarm Bugs in a Formal Verification Tool
 - last_seen_publish_time: 2024-09-04
-- last_successful_scan: 2026-09-14T01:00:46+08:00
+- last_successful_scan: 2026-09-15T01:06:56+08:00
 
 ## Chris Lattner
 
@@ -219,55 +219,55 @@
 
 - last_seen_item: Mojo is now open source!
 - last_seen_publish_time: 2026-08-18
-- last_successful_scan: 2026-09-14T01:00:46+08:00
+- last_successful_scan: 2026-09-17T01:09:00+08:00
 
 ## PyTorch
 
 - last_seen_item: Helion x 🤗 HF Kernels: Building and Shipping Out-of-the-box Performant Kernels
 - last_seen_publish_time: 2026-09-11
-- last_successful_scan: 2026-09-14T01:00:46+08:00
+- last_successful_scan: 2026-09-17T01:09:00+08:00
 
 ## Triton
 
 - last_seen_item: Triton 3.8.0
 - last_seen_publish_time: 2026-08-28
-- last_successful_scan: 2026-09-14T01:00:46+08:00
+- last_successful_scan: 2026-09-17T01:09:00+08:00
 
 ## MLIR / LLVM Project Updates
 
 - last_seen_item: LLVM 23.1.1
 - last_seen_publish_time: 2026-09-08
-- last_successful_scan: 2026-09-13T01:00:43+08:00
+- last_successful_scan: 2026-09-17T01:09:00+08:00
 
 ## vLLM
 
-- last_seen_item: Following the Bottleneck: Optimizing MiniMax M3 Inference on AMD MI355X
-- last_seen_publish_time: 2026-09-10
-- last_successful_scan: 2026-09-13T01:00:43+08:00
+- last_seen_item: How we trained the fastest DSpark for Kimi-K3 using GB300 NVL72
+- last_seen_publish_time: 2026-09-15
+- last_successful_scan: 2026-09-17T01:09:00+08:00
 
 ## SGLang
 
 - last_seen_item: SGLang and Miles Add Day-0 Support for DeepSeek-V4.1
 - last_seen_publish_time: 2026-09-10
-- last_successful_scan: 2026-09-12T01:07:25+08:00
+- last_successful_scan: 2026-09-17T01:09:00+08:00
 
 ## CUDA / NVIDIA Developer Technical Updates
 
-- last_seen_item: How Full-Stack NIM Optimizations Deliver 2.5x More Users on Nemotron 3 Ultra
-- last_seen_publish_time: 2026-09-10
-- last_successful_scan: 2026-09-13T01:00:43+08:00
+- last_seen_item: Translating CUDA Tile Operations from Python to Rust Using Agentic AI
+- last_seen_publish_time: 2026-09-16
+- last_successful_scan: 2026-09-17T01:09:00+08:00
 
 ## Lilian Weng
 
 - last_seen_item: Harness Engineering for Self-Improvement
 - last_seen_publish_time: 2026-07-04
-- last_successful_scan: 2026-09-14T01:00:46+08:00
+- last_successful_scan: 2026-09-16T01:07:36+08:00
 
 ## Sebastian Raschka
 
 - last_seen_item: GPT-6 Astra, Looped Transformers, and Hidden Reasoning
 - last_seen_publish_time: 2026-09-09
-- last_successful_scan: 2026-09-14T01:00:46+08:00
+- last_successful_scan: 2026-09-15T01:06:56+08:00
 
 ## Chip Huyen
 
@@ -279,19 +279,19 @@
 
 - last_seen_item: GCC 13.5
 - last_seen_publish_time: 2026-09-11
-- last_successful_scan: 2026-09-14T01:00:46+08:00
+- last_successful_scan: 2026-09-17T01:09:00+08:00
 
 ## Linux Kernel Releases
 
-- last_seen_item: Linux 7.2.5
-- last_seen_publish_time: 2026-09-11
-- last_successful_scan: 2026-09-14T01:00:46+08:00
+- last_seen_item: Linux 7.2.6
+- last_seen_publish_time: 2026-09-14
+- last_successful_scan: 2026-09-17T01:09:00+08:00
 
 ---
 
 # Codex Usage Monitor State
 
-- last_successful_scan: 2026-09-14T01:00:46+08:00
+- last_successful_scan: 2026-09-17T01:09:00+08:00
 - last_seen_announcement: Managing usage with GPT-6 Astra in Work and Codex
 - last_seen_publish_time: 2026-09-09
 - last_alerted_announcement: How banked Codex resets work — September 7 global reset and GPT-6 Astra rollout banked resets
@@ -335,8 +335,8 @@
 - url: https://arxiv.org/abs/2609.05275
 - direction: 基础模型 / 训练效率 / 推理效率
 - first_seen: 2026-09-08
-- last_review: 2026-09-12
-- next_review: 2026-09-17
+- last_review: 2026-09-17
+- next_review: 2026-09-23
 - status: active
 - quality: A
 - maturity: M0
@@ -417,8 +417,8 @@
 - url: https://arxiv.org/abs/2609.04010
 - direction: LLM 推理 / speculative decoding / 离散扩散
 - first_seen: 2026-09-09
-- last_review: 2026-09-12
-- next_review: 2026-09-17
+- last_review: 2026-09-17
+- next_review: 2026-09-23
 - status: active
 - quality: B
 - maturity: M1
@@ -505,8 +505,8 @@
 - url: https://arxiv.org/abs/2609.10226
 - direction: AI 系统 / Coding Agent / Kernel / Runtime / Benchmark
 - first_seen: 2026-09-11
-- last_review: 2026-09-11
-- next_review: 2026-09-15
+- last_review: 2026-09-15
+- next_review: 2026-09-20
 - status: active
 - quality: B
 - maturity: M1
@@ -517,6 +517,7 @@
 - missing_evidence:
   - 刚发布，缺少第三方跨硬件复现、独立基准结果和长期防污染验证。
   - 部分性能 anchor 绑定 NVIDIA H20 或 Intel Sapphire Rapids，换硬件需要重新校准。
+  - 2026-09-15 复评未发现新的独立 Agent 复跑、跨硬件校准或稳定 release。
 - known_assets:
   - 论文
   - benchmark tasks
@@ -535,8 +536,8 @@
 - url: https://arxiv.org/abs/2609.08149
 - direction: Coding Agent / Evaluation / Benchmark Safety
 - first_seen: 2026-09-11
-- last_review: 2026-09-11
-- next_review: 2026-09-15
+- last_review: 2026-09-15
+- next_review: 2026-09-20
 - status: active
 - quality: B
 - maturity: M1
@@ -547,6 +548,7 @@
 - missing_evidence:
   - 需要外部团队独立复跑并审计任务修订准则和隔离设计。
   - 尚缺长期 leaderboard 采用、污染监控和不同 harness 的系统对照。
+  - 2026-09-15 复评仅发现解读文章与论文结果复述，未发现独立全量复跑或 leaderboard 迁移。
 - known_assets:
   - 论文
   - verified dataset
@@ -563,8 +565,8 @@
 - url: https://arxiv.org/abs/2609.09134
 - direction: Agent / Harness / Fine-tuning / On-policy correction
 - first_seen: 2026-09-11
-- last_review: 2026-09-11
-- next_review: 2026-09-16
+- last_review: 2026-09-16
+- next_review: 2026-09-21
 - status: active
 - quality: B
 - maturity: M0
@@ -575,6 +577,7 @@
 - missing_evidence:
   - 尚未确认公开代码、数据或可复现 harness 配置。
   - 缺少更多模型、任务、第三方复现及总训练和推理成本数据。
+  - 2026-09-16 复评仅发现领域索引收录，未发现作者代码、训练 recipe 或独立复跑。
 - known_assets:
   - 论文
 - next_review_focus:
@@ -589,8 +592,8 @@
 - url: https://arxiv.org/abs/2609.10715
 - direction: 基础模型 / 预训练 / Latent Language Model
 - first_seen: 2026-09-12
-- last_review: 2026-09-12
-- next_review: 2026-09-16
+- last_review: 2026-09-16
+- next_review: 2026-09-22
 - status: active
 - quality: B
 - maturity: M1
@@ -598,13 +601,16 @@
 - main_evidence:
   - 8.9B 参数模型在 5.73T Dolma-3 tokens 上联合训练 NTP 与离散 next-concept prediction，并提供参数对齐消融。
   - 作者报告以 51.3% 的 token 达到 OLMo-3-7B 最终预训练 loss，完整训练下游宏平均提升 2.45 分，并已公开模型 checkpoints。
+  - 新公开 `LUMIA-Group/ncp_olmo_eval` 0.1.1，提供 vLLM 插件、不可变模型注册、固定 seed/prompt 和 GSM8K、SciQ、Core88、RULER、HELMET 的 fail-closed 评测流程；17 个公开 checkpoint 已完成加载 smoke test。
 - missing_evidence:
   - 缺少独立复现、完整训练代码和端到端训练成本审计。
   - NCP 目标、额外参数与训练数据处理各自贡献仍需外部拆分验证。
+  - 新评测仓库仍属作者团队资产，且 load/route smoke 不等同于分数复现或原生后端等价。
 - known_assets:
   - 论文
   - 模型 checkpoints
   - 架构与消融结果
+  - vLLM 评测与长上下文 benchmark 工具
 - next_review_focus:
   - 完整训练 recipe 与代码是否发布
   - 参数对齐的第三方复现
@@ -617,8 +623,8 @@
 - url: https://arxiv.org/abs/2609.05903
 - direction: Agent / Safety / Harness / Tool Use
 - first_seen: 2026-09-12
-- last_review: 2026-09-12
-- next_review: 2026-09-17
+- last_review: 2026-09-17
+- next_review: 2026-09-23
 - status: active
 - quality: B
 - maturity: M1
@@ -646,8 +652,8 @@
 - url: https://arxiv.org/abs/2608.27875
 - direction: LLM Serving / Attention / KV cache / 低比特量化
 - first_seen: 2026-09-12
-- last_review: 2026-09-12
-- next_review: 2026-09-17
+- last_review: 2026-09-17
+- next_review: 2026-09-23
 - status: active
 - quality: B
 - maturity: M1
@@ -675,8 +681,8 @@
 - url: https://arxiv.org/abs/2609.11917
 - direction: 基础模型 / MoE / 数据效率 / 训练稳定性
 - first_seen: 2026-09-13
-- last_review: 2026-09-13
-- next_review: 2026-09-17
+- last_review: 2026-09-17
+- next_review: 2026-09-22
 - status: active
 - quality: B
 - maturity: M0
@@ -702,8 +708,8 @@
 - url: https://arxiv.org/abs/2609.11294
 - direction: Agent Infrastructure / Sandbox / Operating Systems / Memory
 - first_seen: 2026-09-13
-- last_review: 2026-09-13
-- next_review: 2026-09-17
+- last_review: 2026-09-17
+- next_review: 2026-09-22
 - status: active
 - quality: B
 - maturity: M0
@@ -722,6 +728,170 @@
   - 与写时复制、快照和常规内存压缩的完整对照
   - 高并发下的恢复尾延迟、CPU 成本与隔离安全
 - discovery_source: arXiv recent
+
+## 2609.13134
+
+- title: Rethinking Heterogeneous System Disaggregation for Subquadratic Attention
+- url: https://arxiv.org/abs/2609.13134
+- direction: LLM Serving / Heterogeneous Systems / Subquadratic Attention
+- first_seen: 2026-09-15
+- last_review: 2026-09-15
+- next_review: 2026-09-19
+- status: active
+- quality: B
+- maturity: M0
+- personal_value: high
+- main_evidence:
+  - SQD 按二次与次二次注意力的状态和算术强度拆分 decode，而非沿用 attention/FFN 的统一拆分。
+  - 作者在 8×B200 异构系统代理上报告 31%～56% token/J 提升，Rubin+LPX 解析模型报告最高 3.6 倍吞吐。
+- missing_evidence:
+  - 核心数据来自系统代理与解析模型，缺少真实异构集群的生产复现。
+  - 尚未确认公开调度器实现、端到端服务代码或独立评测。
+- known_assets:
+  - 论文
+  - 系统代理实验
+  - 解析模型
+- next_review_focus:
+  - 代码、模拟器和完整配置是否公开
+  - 真实 Rubin/LPX 或多机系统上的吞吐、能效和尾延迟
+  - 不同稀疏、线性、滑窗注意力模型的质量与调度敏感性
+- discovery_source: arXiv recent
+
+## 2609.12471
+
+- title: AMDKernelVault: Large-Scale Datasets and Agentic Training for AMD GPU Kernel Optimization
+- url: https://arxiv.org/abs/2609.12471
+- direction: AMD GPU / HIP / Triton / Kernel Agent / Training Data
+- first_seen: 2026-09-15
+- last_review: 2026-09-15
+- next_review: 2026-09-19
+- status: active
+- quality: B
+- maturity: M1
+- personal_value: high
+- main_evidence:
+  - 开放 62,153 个执行验证 HIP kernel、39,893 个 Triton kernel 与 2,377 个 ROCm Libraries QA 条目。
+  - Qwen3-8B 经 SFT 和执行感知 RL 后，在三项作者评测上获得对照模型中最高正确率，并公开数据与生成/训练代码。
+- missing_evidence:
+  - 当前主要是作者自评，缺少跨 AMD GPU 代际、编译器版本和外部团队复现。
+  - 正确率领先未转化为全面的编译率或速度领先。
+- known_assets:
+  - 论文
+  - 数据集
+  - kernel 生成流水线
+  - 训练代码
+- next_review_focus:
+  - 数据与代码的可运行性、许可证和去重污染审计
+  - 跨 MI300/MI350 等硬件与 ROCm 版本的复现
+  - correctness、compilation、speedup 三类指标的独立对照
+- discovery_source: arXiv recent / 作者 GitHub / Hugging Face
+
+## 2609.12742
+
+- title: Skill Issue: Lessons from Optimizing Repository SKILLs for Coding Agents
+- url: https://arxiv.org/abs/2609.12742
+- direction: Coding Agent / Repository Knowledge / SKILL Optimization / Evaluation
+- first_seen: 2026-09-15
+- last_review: 2026-09-15
+- next_review: 2026-09-19
+- status: active
+- quality: B
+- maturity: M0
+- personal_value: high
+- main_evidence:
+  - 从合并 PR 回退构造统一基线任务，以同一 Agent 有无 SKILL 文档的成对差值衡量收益。
+  - 三个 Kotlin 仓库上 GEPA 文档平均提升 4.9 个百分点，SkillOpt 仅提升 0.1 个百分点；作者明确指出样本量不足以区分前者与运行方差。
+- missing_evidence:
+  - 仅覆盖三个 Kotlin 仓库，任务量和语言、框架多样性不足。
+  - 尚未确认公开任务集、完整运行轨迹和跨 Agent 复现。
+- known_assets:
+  - 论文
+  - 真实 PR 回退式评测方法
+- next_review_focus:
+  - 数据、代码和重复运行轨迹是否公开
+  - 跨语言、跨 Agent 的 SKILL 收益与运行方差
+  - 文档可读性、维护成本与任务指标的相关性
+- discovery_source: arXiv recent
+
+## 2609.15989
+
+- title: Corrupt Plans, Clean Traces: Evading Chain-of-Thought Monitoring with Plan Injection
+- url: https://arxiv.org/abs/2609.15989
+- direction: Agent Safety / Chain-of-Thought Monitoring / Prompt Injection
+- first_seen: 2026-09-16
+- last_review: 2026-09-16
+- next_review: 2026-09-20
+- status: active
+- quality: B
+- maturity: M0
+- personal_value: high
+- main_evidence:
+  - 在多类 monitorability benchmark 上报告 25%～33% 的监控逃逸率，并扩展到 DeepSeek-R1。
+  - Actor 会把注入计划改写为自身推理；向 Monitor 提供更多上下文或预算有时反而降低检测。
+- missing_evidence:
+  - 缺少生产 Agent、真实工具调用与多轮记忆环境的第三方复现。
+  - 尚未确认公开代码、完整攻击集和稳健防御基线。
+- known_assets:
+  - 论文
+- next_review_focus:
+  - 代码与攻击数据是否公开
+  - 上下文来源标注、引用追踪和 Monitor 隔离的防御效果
+  - 跨模型、跨任务独立复现
+- discovery_source: arXiv cs.AI recent
+
+## 2609.15982
+
+- title: The Router Within: Eliciting Native Skill Routing from a Frozen LLM
+- url: https://arxiv.org/abs/2609.15982
+- direction: Agent / Skill Routing / Representation Probing / Context Efficiency
+- first_seen: 2026-09-16
+- last_review: 2026-09-16
+- next_review: 2026-09-20
+- status: active
+- quality: B
+- maturity: M0
+- personal_value: high
+- main_evidence:
+  - 以两个线性映射读取冻结 LLM 中间层状态，先召回 Skill、再用模型自身判断复排，避免把完整 Skill 元数据放入上下文。
+  - 作者报告 Qwen3-32B 相对带 1.2B～16B 外部参数的基线最高提升 13.4 分，中途触发 Skill 时最高提升 21.9 分。
+- missing_evidence:
+  - 缺少公开实现、SkillTraj 数据审计和独立跨模型复现。
+  - Skill 库漂移、安装态缓存成本和线性映射迁移成本尚不清楚。
+- known_assets:
+  - 论文
+  - SkillTraj benchmark 描述
+- next_review_focus:
+  - 代码与 372 条轨迹是否公开
+  - 跨 backbone 与动态 Skill 库的迁移稳定性
+  - 与低成本 embedding/retrieval 的等预算对照
+- discovery_source: arXiv cs.LG / cs.AI recent
+
+## 2609.15983
+
+- title: Stellar Colosseum: A Many-Agent Harness for Long-Horizon Research in Mathematics and Theoretical Computer Science
+- url: https://arxiv.org/abs/2609.15983
+- direction: Multi-Agent / Harness / Long-Horizon Research / Theorem Proving
+- first_seen: 2026-09-16
+- last_review: 2026-09-16
+- next_review: 2026-09-20
+- status: active
+- quality: B
+- maturity: M0
+- personal_value: high
+- main_evidence:
+  - 以并行策略探索、readiness gate、章节级依赖、定向反证和重叠随机采样树聚合组织长程证明。
+  - 作者报告 TCS-Bench 71.0%，并以带执行反馈的证明流水线解决 222 道 Codeforces 题中的 218 道。
+- missing_evidence:
+  - 所称开放问题新结果需要领域专家与正式评审确认。
+  - 缺少完整实现、推理成本、消融和不同模型的独立复现。
+- known_assets:
+  - 论文
+  - Google Antigravity Teamwork 中的 Long Proof 集成说明
+- next_review_focus:
+  - 代码、轨迹与研究产物是否公开
+  - TCS-Bench 污染、判分协议和成本对照
+  - 新数学结果的专家验证状态
+- discovery_source: arXiv cs.AI recent
 
 ---
 
@@ -765,8 +935,8 @@
 - url: https://github.com/tenstorrent/vllm-tt-plugin
 - direction: LLM Serving / 异构加速器 / vLLM plugin
 - first_seen: 2026-09-08
-- last_review: 2026-09-12
-- next_review: 2026-09-17
+- last_review: 2026-09-17
+- next_review: 2026-09-24
 - status: active
 - quality: B
 - personal_value: high
@@ -886,8 +1056,8 @@
 - url: https://github.com/ifm-ai/uno
 - direction: LLM 推理 / speculative decoding / 离散扩散
 - first_seen: 2026-09-09
-- last_review: 2026-09-12
-- next_review: 2026-09-17
+- last_review: 2026-09-17
+- next_review: 2026-09-24
 - status: active
 - quality: B
 - personal_value: high
@@ -978,19 +1148,20 @@
 - url: https://github.com/openai/codex
 - direction: Coding Agent / Harness / Sandbox / Developer Infrastructure
 - first_seen: 2026-09-11
-- last_review: 2026-09-11
-- next_review: 2026-09-16
+- last_review: 2026-09-16
+- next_review: 2026-09-23
 - status: active
 - quality: A
 - personal_value: high
-- last_release: 本期触发来自 Agents API 集成，不以普通版本 release 为依据
-- last_commit_or_major_delta: 2026-09-10 OpenAI 宣布 Agents API 由开源 Codex harness 驱动
+- last_release: 2026-09-14 可见 0.155.0-alpha.4 等预发布构建；普通 alpha release 不视为重大能力结论
+- last_commit_or_major_delta: 2026-09-10 OpenAI 宣布 Agents API 由开源 Codex harness 驱动；2026-09-16 复评未找到托管版本映射
 - main_evidence:
   - 成熟 Rust 主体仓库，包含 codex-rs、CLI、SDK、文档、工具、测试与长期提交历史。
   - 官方将其定位为 Agents API 的开源 harness 基础，可对照托管服务理解模型、工具、上下文和 sandbox 的边界。
 - missing_evidence:
   - 托管 API 与公开仓库不完全等价，服务端调度、隔离和运维实现并未全部开源。
   - 仍需核对具体 Agents API harness 版本与仓库 revision 的对应关系。
+  - 2026-09-16 可见高频 alpha 构建，但 release 页面没有提供足以验证上述映射的稳定说明。
 - known_assets:
   - core code
   - CLI
@@ -1009,8 +1180,8 @@
 - url: https://github.com/one2piece2hello/faibench_Frontier_InfraBench
 - direction: AI 系统 / Coding Agent / Kernel / Runtime / Benchmark
 - first_seen: 2026-09-11
-- last_review: 2026-09-11
-- next_review: 2026-09-15
+- last_review: 2026-09-15
+- next_review: 2026-09-20
 - status: active
 - quality: B
 - personal_value: high
@@ -1022,6 +1193,7 @@
 - missing_evidence:
   - 仓库和论文刚发布，缺少第三方复跑、跨硬件校准和稳定维护历史。
   - 部分性能任务的硬件 anchor 可迁移性有限，公开评分面也需要持续防污染。
+  - 2026-09-15 复评未发现新的独立评测、跨硬件复现或稳定 release。
 - known_assets:
   - benchmark
   - Docker environments
@@ -1040,8 +1212,8 @@
 - url: https://github.com/jerrysfls/HyQuant
 - direction: LLM Serving / Attention / KV cache / Triton
 - first_seen: 2026-09-12
-- last_review: 2026-09-12
-- next_review: 2026-09-17
+- last_review: 2026-09-17
+- next_review: 2026-09-24
 - status: active
 - quality: B
 - personal_value: high
@@ -1064,6 +1236,98 @@
   - vLLM/SGLang integration
   - batch、并发与跨硬件性能
 - discovery_source: Hugging Face Daily Papers / arXiv / GitHub
+
+## JustVugg/colibri
+
+- repo: JustVugg/colibri
+- url: https://github.com/JustVugg/colibri
+- direction: LLM Inference / MoE / Memory Hierarchy / Storage Streaming
+- first_seen: 2026-09-15
+- last_review: 2026-09-15
+- next_review: 2026-09-19
+- status: active
+- quality: B
+- personal_value: high
+- last_release: v1.11.0（仓库示例所示；待核对 release 时间线）
+- last_commit_or_major_delta: 2026-09-14 GitHub Explore 更新并进入当日推荐面
+- main_evidence:
+  - 纯 C 推理引擎把 VRAM、RAM 和 NVMe 作为统一层级，按 MoE 路由结果调度专家权重，并覆盖九类模型架构。
+  - Apache-2.0，约 31.4k stars；公开 benchmark protocol、质量检查、端到端数据和负面结果记录要求。
+- missing_evidence:
+  - 多数性能数据来自项目方与社区提交，缺少统一第三方硬件矩阵复现。
+  - 超大模型仍需数百 GB 至 TB 级存储，低内存可运行不等于达到实用交互速度。
+- known_assets:
+  - core C engines
+  - CLI and API gateway
+  - CUDA / Metal / Vulkan backends
+  - benchmark protocol and logs
+  - model conversion tools
+- next_review_focus:
+  - 独立硬件复现与端到端质量对照
+  - 路由热点缓存、预取和双 SSD 的受控 A/B
+  - release 稳定性、issue 关闭质量和多模型语义一致性
+- discovery_source: GitHub Explore / GitHub repository
+
+## NVIDIA/TileGym
+
+- repo: NVIDIA/TileGym
+- url: https://github.com/NVIDIA/TileGym
+- direction: GPU kernel / CUDA Tile IR / Agent 编译器工作流
+- first_seen: 2026-09-17
+- last_review: 2026-09-17
+- next_review: 2026-09-24
+- status: active
+- quality: B
+- personal_value: high
+- last_release: PyPI 可安装；Rust 后端仅源码 checkout 可用
+- last_commit_or_major_delta: 2026-09-16 NVIDIA 公开 24 个算子的 Agent 化 cuTile Rust 迁移与验证流程
+- main_evidence:
+  - 官方仓库提供转换 Skill、阶段校验器、CUDA Tile IR 对比、算子源码、测试与性能协议。
+  - NVIDIA 自测在 B200 的 347 组配对配置上取得 0.995 的设备时间几何平均性能比，所有 24 个算子均超过 0.95 门槛。
+- missing_evidence:
+  - 暂无独立重复运行结果；Rust 路径依赖 CUDA 13.1+、Rust 1.89+、tileiras 和性能测试用 Blackwell。
+  - CUPTI 设备时间不等于真实端到端延迟，部分算子仍使用不安全 API。
+- known_assets:
+  - core code
+  - agent skill and validators
+  - 24 converted operators
+  - tests and benchmarks
+- next_review_focus:
+  - 第三方复现和实际应用中的端到端收益
+  - Rust 安全 API 覆盖率与非 Blackwell 平台兼容性
+  - 自动转换失败案例与审计成本
+- discovery_source: NVIDIA Developer Blog / 官方 GitHub
+
+## alibaba/open-code-review
+
+- repo: alibaba/open-code-review
+- url: https://github.com/alibaba/open-code-review
+- direction: Coding Agent / Code Review / CI / Deterministic Harness
+- first_seen: 2026-09-15
+- last_review: 2026-09-15
+- next_review: 2026-09-19
+- status: active
+- quality: B
+- personal_value: high
+- last_release: 未发现稳定 release
+- last_commit_or_major_delta: 2026-09-14 GitHub Explore 更新并进入当日推荐面
+- main_evidence:
+  - 将文件覆盖、分组、规则匹配、评论定位和反思校验放入确定性流水线，Agent 负责跨文件语义判断。
+  - Apache-2.0，约 24.5k stars；提供 CLI、全文件扫描、主流 CI 集成与 200 个真实 PR 的 AACR-Bench。
+- missing_evidence:
+  - 约九分之一 token 和更高 Precision/F1 等结果主要来自项目方，缺少独立 benchmark 复跑。
+  - 官方明确以 Recall 换 Precision，真实团队能否接受漏报率需要按代码域验证。
+- known_assets:
+  - Go CLI
+  - review rules
+  - CI integrations
+  - AACR-Bench dataset
+  - docs and security policy
+- next_review_focus:
+  - AACR-Bench 的独立复现、污染与标注一致性
+  - 定位和反思模块的消融效果
+  - 私有仓库权限、遥测、模型端点数据边界与生产漏报率
+- discovery_source: GitHub Explore / GitHub repository
 
 ---
 

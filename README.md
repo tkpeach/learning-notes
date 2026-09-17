@@ -15,13 +15,22 @@
 ### 2026
 
 - [2026-08](2026/08.md)
+- [2026-09](2026/09.md)
 
 ## Topic Notes
 
 - [C++ Memory Model](topics/cpp-memory-model.md)
+- [C++ Language](topics/cpp-language.md)
 - [Logic Synthesis](topics/logic-synthesis.md)
 - [Compiler & LLVM](topics/compiler-llvm.md)
 - [EDA](topics/eda.md)
+- [Control-Flow Integrity](topics/control-flow-integrity.md)
+- [LLM Systems](topics/llm-systems.md)
+
+## Learning Plans
+
+- [学习专题目录与组织约定](learning-plans/README.md)
+- [MLIR：从零开始的学习计划、独立提示词与练习](learning-plans/mlir/README.md)
 
 ## Recording Rule
 
