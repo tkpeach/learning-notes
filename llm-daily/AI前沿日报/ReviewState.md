@@ -85,9 +85,9 @@
 
 ## Anthropic Newsroom
 
-- last_seen_item: Introducing Claude Opus 5.5
-- last_seen_publish_time: 2026-09-22
-- last_successful_scan: 2026-09-24T01:12:00+08:00
+- last_seen_item: Introducing Claude Sonnet 5.5
+- last_seen_publish_time: 2026-09-28
+- last_successful_scan: 2026-09-30T10:33:00+08:00
 
 ## Claude Blog
 
@@ -199,9 +199,9 @@
 
 ## MaskRay
 
-- last_seen_item: lld 23 ELF changes
-- last_seen_publish_time: 2026-09-12
-- last_successful_scan: 2026-09-21T01:06:00+08:00
+- last_seen_item: Linker I/O tricks and their downsides
+- last_seen_publish_time: 2026-09-20
+- last_successful_scan: 2026-09-30T10:33:00+08:00
 
 ## John Regehr
 
@@ -297,10 +297,10 @@
 
 # Codex Usage Monitor State
 
-- last_successful_scan: 2026-09-24T01:12:00+08:00
-- last_seen_announcement: GPT-6 Sol and GPT-6 Luna — higher Codex usage limits, exact increase not published
-- last_seen_publish_time: 2026-09-22
-- last_alerted_announcement: GPT-6 Sol and GPT-6 Luna — higher Codex usage limits, exact increase not published
+- last_successful_scan: 2026-09-30T10:33:00+08:00
+- last_seen_announcement: OpenAI Pro plans update — Pro 500 highest included usage and Astra Ultrafast; new non-grandfathered Pro 200 subscriptions have lower included usage, existing eligible Pro 200 allowance retained through 2026-10-29
+- last_seen_publish_time: 2026-09-30
+- last_alerted_announcement: OpenAI Pro plans update — Pro 500 highest included usage and Astra Ultrafast; new non-grandfathered Pro 200 subscriptions have lower included usage, existing eligible Pro 200 allowance retained through 2026-10-29
 
 ---
 
@@ -458,14 +458,15 @@
 - url: https://arxiv.org/abs/2609.08368
 - direction: LLM 后训练 / 分布式系统 / RL infrastructure
 - first_seen: 2026-09-10
-- last_review: 2026-09-19
-- next_review: 2026-09-26
+- last_review: 2026-09-29
+- next_review: 2026-10-06
 - status: active
 - quality: B
 - maturity: M1
 - personal_value: high
 - main_evidence:
   - 系统覆盖 SGLang rollout、Megatron-LM 或 PyTorch FSDP trainer、三种权重同步，以及 RL、LoRA RL、on-policy distillation、SFT 和 diffusion 路径。
+  - 2026-09-26 v0.1.1 release 增加 Qwen3.8-Flash-Next、GLM-5.3-Flash 的权重更新相等与短程 rollout/trainer 对数概率差记录；长训和跨集群结论仍未独立复现。
   - 作者给出 64 台 GB300、GLM-5.2 744B-A40B 的全异步 terminal-coding RL 案例，前 30 步中位 step time 为 263 秒。
   - 本次复评确认核心仓库持续活跃，已包含 NVFP4 fake-QAT 融合 kernel 与 routed-expert 限定等后续提交。
 - missing_evidence:
@@ -1105,8 +1106,8 @@
 - url: https://arxiv.org/abs/2609.26779
 - direction: Coding Agent / Context Compaction / Cost Efficiency / Reliability
 - first_seen: 2026-09-24
-- last_review: 2026-09-24
-- next_review: 2026-09-29
+- last_review: 2026-09-30
+- next_review: 2026-10-05
 - status: active
 - quality: B
 - maturity: M1
@@ -1117,7 +1118,7 @@
   - 官方 MIT 仓库提供透明 API 代理、Claude Code/Codex 配置、测试、shadow 模式和失败透传路径。
 - missing_evidence:
   - 结果仍为作者自报，仓库刚公开且规模较小，缺少跨模型、跨 harness 的第三方复跑。
-  - 长工具输出删除可能丢失关键证据，前缀稳定假设与客户端原生压缩的交互需实测。
+  - 长工具输出删除可能丢失关键证据，前缀稳定假设与客户端原生压缩的交互需实测；2026-09-30 复核仓库仍有核心代理、配置及 tests，但未见独立复跑。
 - known_assets:
   - 论文
   - 核心代理代码
@@ -1135,8 +1136,8 @@
 - url: https://arxiv.org/abs/2609.26777
 - direction: Coding Agent / LLM Serving / Systems Benchmark / SGLang
 - first_seen: 2026-09-24
-- last_review: 2026-09-24
-- next_review: 2026-09-29
+- last_review: 2026-09-30
+- next_review: 2026-10-05
 - status: active
 - quality: B
 - maturity: M1
@@ -1147,7 +1148,7 @@
   - NVIDIA 官方仓库公开任务、隐藏 verifier、参考解、Harbor runner、closed-book 网络隔离和三次运行配置。
 - missing_evidence:
   - benchmark 仅来自 SGLang，且 GPU 复跑需要 H100、较大磁盘和内存资源。
-  - 任务与榜单刚公开，尚缺独立复跑、verifier 缺陷审计和跨推理引擎迁移。
+  - 任务与榜单刚公开，2026-09-30 复核官方仓库后仍缺独立复跑、verifier 缺陷审计和跨推理引擎迁移。
 - known_assets:
   - 论文
   - 53 项 benchmark
@@ -1378,15 +1379,16 @@
 - url: https://github.com/radixark/miles
 - direction: LLM 后训练 / 分布式系统 / RL infrastructure
 - first_seen: 2026-09-10
-- last_review: 2026-09-19
-- next_review: 2026-09-26
+- last_review: 2026-09-29
+- next_review: 2026-10-06
 - status: active
-- quality: B
+- quality: A
 - personal_value: high
-- last_release: v0.1.0（2026-08-18），本次仍为最新
-- last_commit_or_major_delta: 2026-09-11 新增 fused NVFP4 fake-QAT QDQ kernels，并将 NVFP4 RL 限定到 routed experts
+- last_release: v0.1.1（2026-09-26）
+- last_commit_or_major_delta: 2026-09-26 v0.1.1：共置 RL 新模型、一致性检查、Tinker 兼容多 LoRA、Anthropic Messages API、NVMe 优化器状态 streaming
 - main_evidence:
   - 包含训练入口、同步与异步执行、SGLang rollout、Megatron-LM/FSDP trainer、三种权重同步、文档和测试。
+  - v0.1.1 对 Qwen3.8-Flash-Next 与 GLM-5.3-Flash 给出权重同步相等检查和短程 rollout/trainer 对数概率差；多 LoRA 槽的权重、FP32 master 和 Adam moments 恢复检查为零容差。
   - 作者展示 64 台 GB300 上 GLM-5.2 744B-A40B 的全异步 terminal-coding RL 案例。
   - 本次复评可见 2,175 次提交，近期仍在补充低精度训练 kernel、真实沙箱 CI 和硬件测试矩阵。
 - missing_evidence:
@@ -1410,12 +1412,12 @@
 - url: https://github.com/openai/codex
 - direction: Coding Agent / Harness / Sandbox / Developer Infrastructure
 - first_seen: 2026-09-11
-- last_review: 2026-09-23
-- next_review: 2026-09-30
+- last_review: 2026-09-30
+- next_review: 2026-10-07
 - status: active
 - quality: A
 - personal_value: high
-- last_release: 2026-09-17 可见 0.155.0-alpha.16 等预发布构建；普通 alpha release 不视为重大能力结论
+- last_release: 0.159.2（GitHub release 页面标示 2026-09-29，Windows 后台进程控制台闪烁修复；非 Agents API 版本映射）
 - last_commit_or_major_delta: 2026-09-10 OpenAI 宣布 Agents API 由开源 Codex harness 驱动；2026-09-23 复评仍未找到托管版本映射
 - main_evidence:
   - 成熟 Rust 主体仓库，包含 codex-rs、CLI、SDK、文档、工具、测试与长期提交历史。
@@ -1424,7 +1426,7 @@
   - 托管 API 与公开仓库不完全等价，服务端调度、隔离和运维实现并未全部开源。
   - 仍需核对具体 Agents API harness 版本与仓库 revision 的对应关系。
   - 2026-09-16 可见高频 alpha 构建，但 release 页面没有提供足以验证上述映射的稳定说明。
-  - 2026-09-23 仍只有高频预发布构建，未见稳定说明或 Agents API revision 对应表。
+  - 2026-09-30 检查 0.159.2 release 后，仍未见公开的 Agents API 托管 harness 与仓库 revision 对应表。
 - known_assets:
   - core code
   - CLI
@@ -1725,16 +1727,17 @@
 - url: https://github.com/ai-dynamo/aiperf
 - direction: LLM Serving / Performance Benchmark / Production Trace Replay
 - first_seen: 2026-09-20
-- last_review: 2026-09-20
-- next_review: 2026-09-25
+- last_review: 2026-09-29
+- next_review: 2026-10-06
 - status: active
 - quality: A
 - personal_value: high
-- last_release: 未确认稳定 release
-- last_commit_or_major_delta: 2026-09-18 NVIDIA 将其正式定位为 GenAI-Perf 后继者；仓库已有约 887 次提交
+- last_release: v0.13.0（2026-09-24）
+- last_commit_or_major_delta: 2026-09-24 v0.13.0：Kubernetes beta、推测解码接受率、首 chunk usage 修正、cache-bust 与服务端控制钩子
 - main_evidence:
   - 多进程负载 worker、独立结果处理服务与 ZMQ 协调，直接处理高并发时客户端先成为瓶颈的问题。
   - 提供核心实现、测试、插件系统、Kubernetes operator、生产 trace 回放、SLA/goodput、服务端遥测与多次运行置信区间。
+  - 0.13.0 版本说明对应具体 PR；按 chunk 统计 usage 修正首流式 chunk 合并导致的 TPS/user 偏高，并加入每请求推测解码接受率。
   - 支持 vLLM、SGLang、TensorRT-LLM 等服务端路径和多种生成式 AI 端点，采用 Apache-2.0 许可。
 - missing_evidence:
   - 缺少跨厂商独立验证及其自身 CPU、网络和协调开销的公开上界。
@@ -1815,6 +1818,37 @@
 
 ---
 
+## NVIDIA/OpenShell
+
+- repo: NVIDIA/OpenShell
+- url: https://github.com/NVIDIA/OpenShell
+- direction: Agent Runtime / Sandbox / Security / Policy Verification
+- first_seen: 2026-09-29
+- last_review: 2026-09-29
+- next_review: 2026-10-04
+- status: active
+- quality: B
+- personal_value: high
+- last_release: v0.1.2（GitHub release 页面标示 2026-09-28；此前状态记录的 0.1.0 为技术说明所介绍版本）
+- last_commit_or_major_delta: Gateway/Supervisor/Sandbox 外部策略执行、受控凭据代理、OPA/Rego 与 policy prover
+- main_evidence:
+  - 官方仓库包含 Rust crates、Python/多语言 SDK、deploy、e2e、examples 与架构文档，不是 README 占位。
+  - 官方可运行示例验证无网络、GitHub 只读和拒绝 POST；策略更新与审计路径有具体说明。
+- missing_evidence:
+  - 缺独立安全审计与多协议覆盖矩阵；跨 Agent 组合权限分析仍在开发。
+  - BlueField-4/Sentry 属额外参考架构，不应计入纯软件部署的已验证能力。
+- known_assets:
+  - core code
+  - CLI and SDK
+  - examples
+  - e2e tests
+  - docs
+- next_review_focus:
+  - 第三方对抗测试、协议覆盖与容器网络前提
+  - policy prover 实际支持的安全性质和跨 Agent 组合权限
+  - 0.1.x 版本稳定性与升级路径
+- discovery_source: NVIDIA 官方技术博客 / 官方 GitHub
+
 # Long-term Watchlist
 
 > 上限：20。  
@@ -1851,6 +1885,21 @@
   - vLLM / SGLang integration
   - third-party reproduction
   - production adoption
+
+## NVIDIA/TensorRT-Model-Connect
+
+- type: github
+- title: TensorRT Model Connect
+- url: https://github.com/NVIDIA/TensorRT-Model-Connect
+- direction: C++ 推理运行时 / 模型接入 / TensorRT / 验证契约
+- last_review: 2026-09-30
+- next_review: 2026-10-07
+- watch_reason: 已公开核心代码、Qwen 端到端路径、模型 family 描述符、C++ runtime DSO 与 E2E oracle；目前仍为 Public Preview，需观察稳定性和独立硬件复跑。
+- trigger_events:
+  - stable release
+  - broader model qualification
+  - independent hardware reproduction
+  - ABI or bundle contract change
 
 ---
 
