@@ -108,3 +108,71 @@ foo(b);
 | dependent function call 的 ADL | 可受 instantiation type 影响 |
 | `typename` | 告诉 parser dependent name 是类型 |
 | `template` | 告诉 parser dependent member/name 是模板 |
+
+### 数组引用模板参数
+
+```
+template <typename E, int N>
+void f(E (&)[N];
+```
+
+f 是一个函数模板，它的参数是“对一个长度为 N、元素类型为 E 的数组的引用”。
+
+这里给`&`添加括号，是防止与E连接在一起变成引用的数组。
+
+### Lambda 递归函数写法
+
+#### C++23
+
+```
+auto f = [&](this auto&& self, arg) ->void {
+	self.f(next_arg)
+}
+```
+
+#### 一般写法
+
+```
+auto f = [&](f&& self, arg) -> void {
+	self.f(next_arg);
+}
+
+f(f, a);
+```
+
+其中lambda的参数auto导致产生了generic lambda，可以认为等价为：
+
+```
+struct __Lambda {
+    template<class T>
+    void operator()(T&& self, int n) const {
+        if (n == 0)
+            return;
+        self(self, n - 1);
+    }
+};
+```
+
+在函数使用位置模板实例化，注意是函数模板，不是类模板。
+
+C++20 可以直接写：
+
+```
+auto f = []<class T>(T x) {
+    return x;
+};
+```
+
+#### 方便使用
+
+```
+std::function<void(arg_type)> f;
+
+auto f = [&](arg) -> void {
+	f_impl.f(next_arg);
+}
+
+f(a);
+```
+
+std::function涉及 type erasure，可能有间接调用、额外存储，某些情况下还有堆分配，因此如果是性能敏感代码不应该使用。

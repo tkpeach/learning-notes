@@ -85,27 +85,27 @@
 
 ## Anthropic Newsroom
 
-- last_seen_item: Introducing Claude Sonnet 5.5
-- last_seen_publish_time: 2026-09-28
-- last_successful_scan: 2026-09-30T10:33:00+08:00
+- last_seen_item: Introducing Claude Haiku 5.5
+- last_seen_publish_time: 2026-10-07
+- last_successful_scan: 2026-10-08T09:25:00+08:00
 
 ## Claude Blog
 
-- last_seen_item: Working at the frontier: How Balyasny Asset Management evaluates and governs Claude Fable 5
-- last_seen_publish_time: 2026-09-17
-- last_successful_scan: 2026-09-21T01:06:00+08:00
+- last_seen_item: How Cresta turned CX expertise into an agent builder on the Claude Agent SDK
+- last_seen_publish_time: 2026-10-05
+- last_successful_scan: 2026-10-06T01:36:00+08:00
 
 ## DeepSeek Updates
 
 - last_seen_item: DeepSeek-V4.1-Flash Release
 - last_seen_publish_time: 2026-09-10
-- last_successful_scan: 2026-09-21T01:06:00+08:00
+- last_successful_scan: 2026-10-02T01:25:00+08:00
 
 ## DeepSeek Homepage
 
 - last_seen_item: DeepSeek-V4.1-Flash 发布
 - last_seen_publish_time: 2026-09-10
-- last_successful_scan: 2026-09-19T01:11:00+08:00
+- last_successful_scan: 2026-10-05T01:09:00+08:00
 
 ## Qwen Blog
 
@@ -121,9 +121,9 @@
 
 ## Aliyun Model Studio New Models
 
-- last_seen_item: deepseek-v4.1-flash
-- last_seen_publish_time: 2026-09-13
-- last_successful_scan: 2026-09-18T01:12:00+08:00
+- last_seen_item: qwen-image-2.1-pro
+- last_seen_publish_time: 2026-10-02
+- last_successful_scan: 2026-10-05T01:09:00+08:00
 
 ## ModelScope Qwen
 
@@ -141,13 +141,13 @@
 
 - last_seen_item: Kimi K3
 - last_seen_publish_time: 2026-07-16
-- last_successful_scan: 2026-09-24T01:12:00+08:00
+- last_successful_scan: 2026-10-05T01:09:00+08:00
 
 ## Moonshot Platform Blog
 
 - last_seen_item: Kimi 开放平台：新功能发布记录
 - last_seen_publish_time: 2025-11-07
-- last_successful_scan: 2026-09-19T01:11:00+08:00
+- last_successful_scan: 2026-10-05T01:09:00+08:00
 
 ## ByteDance Seed Blog
 
@@ -171,7 +171,7 @@
 
 - last_seen_item: MiniMax H3
 - last_seen_publish_time: 2026-07-31
-- last_successful_scan: 2026-09-19T01:11:00+08:00
+- last_successful_scan: 2026-10-05T01:09:00+08:00
 
 ## Tencent Hunyuan Research
 
@@ -187,21 +187,21 @@
 
 ## Hugging Face Official Blog
 
-- last_seen_item: Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization
-- last_seen_publish_time: 2026-09-23
-- last_successful_scan: 2026-09-24T01:12:00+08:00
+- last_seen_item: Multimodal open d1 decision models for the edge
+- last_seen_publish_time: 2026-10-07
+- last_successful_scan: 2026-10-09T01:10:00+08:00
 
 ## LLVM Blog
 
-- last_seen_item: GSoC 2026: Improving HLSL Support in clangd
-- last_seen_publish_time: 2026-09-21
-- last_successful_scan: 2026-09-24T01:12:00+08:00
+- last_seen_item: GSOC26: Sharing LLVM-libc's floating-point routines with compiler-rt
+- last_seen_publish_time: 2026-10-05
+- last_successful_scan: 2026-10-06T01:36:00+08:00
 
 ## MaskRay
 
 - last_seen_item: Linker I/O tricks and their downsides
 - last_seen_publish_time: 2026-09-20
-- last_successful_scan: 2026-09-30T10:33:00+08:00
+- last_successful_scan: 2026-10-05T01:09:00+08:00
 
 ## John Regehr
 
@@ -219,13 +219,13 @@
 
 - last_seen_item: Modular 26.6: Open compiler contributions, audio generation, and expanded model support
 - last_seen_publish_time: 2026-09-17
-- last_successful_scan: 2026-09-24T01:12:00+08:00
+- last_successful_scan: 2026-10-05T01:09:00+08:00
 
 ## PyTorch
 
-- last_seen_item: Hardware-Agnostic Models in vLLM
-- last_seen_publish_time: 2026-09-22
-- last_successful_scan: 2026-09-24T01:12:00+08:00
+- last_seen_item: Building Spyre as a Native PyTorch Device
+- last_seen_publish_time: 2026-10-08
+- last_successful_scan: 2026-10-09T01:08:00+08:00
 
 ## Triton
 
@@ -241,9 +241,9 @@
 
 ## vLLM
 
-- last_seen_item: PD Serving of Qwen3.8-2.4T
-- last_seen_publish_time: 2026-09-21
-- last_successful_scan: 2026-09-24T01:12:00+08:00
+- last_seen_item: DeepSeek-V4.1-Flash on vLLM: 5x Agentic Throughput Since Day 0
+- last_seen_publish_time: 2026-10-07
+- last_successful_scan: 2026-10-08T09:25:00+08:00
 
 ## SGLang
 
@@ -253,9 +253,9 @@
 
 ## SGLang GitHub Releases
 
-- last_seen_item: v0.5.20
-- last_seen_publish_time: 2026-09-18
-- last_successful_scan: 2026-09-22T01:07:00+08:00
+- last_seen_item: v0.5.21
+- last_seen_publish_time: 2026-10-02
+- last_successful_scan: 2026-10-03T01:12:00+08:00
 
 ## CUDA / NVIDIA Developer Technical Updates
 
@@ -297,7 +297,7 @@
 
 # Codex Usage Monitor State
 
-- last_successful_scan: 2026-09-30T10:33:00+08:00
+- last_successful_scan: 2026-10-09T01:08:00+08:00
 - last_seen_announcement: OpenAI Pro plans update — Pro 500 highest included usage and Astra Ultrafast; new non-grandfathered Pro 200 subscriptions have lower included usage, existing eligible Pro 200 allowance retained through 2026-10-29
 - last_seen_publish_time: 2026-09-30
 - last_alerted_announcement: OpenAI Pro plans update — Pro 500 highest included usage and Astra Ultrafast; new non-grandfathered Pro 200 subscriptions have lower included usage, existing eligible Pro 200 allowance retained through 2026-10-29
@@ -337,12 +337,12 @@
 
 ## 2609.05275
 
-- title: Don't Drop Dropout: Scaling Layer Dropout for Efficient Language Model Training and Inference
+- title: Don't Drop Dropout: Optimizing Layer Sparsity for Efficient LLM Training and Inference
 - url: https://arxiv.org/abs/2609.05275
 - direction: 基础模型 / 训练效率 / 推理效率
 - first_seen: 2026-09-08
-- last_review: 2026-09-23
-- next_review: 2026-09-30
+- last_review: 2026-10-09
+- next_review: 2026-10-20
 - status: active
 - quality: A
 - maturity: M0
@@ -350,7 +350,9 @@
 - main_evidence:
   - 2,400 余组训练实验，覆盖 271M～8.2B 参数与最多 160B tokens，并已进入 ICML 2026。
   - 作者报告在近似验证损失下最高节省 25% 训练 FLOPs，并可支持 early exit、layer skipping 与 self-speculative decoding。
+  - 2026-10-09 核对 arXiv 仍仅有 2026-09-04 的 v1；修正状态中的论文标题，未发现新修订。
 - missing_evidence:
+  - 2026-10-02 定向检索仍未确认作者公开训练代码、完整 recipe 或跨 Cerebras 平台复跑。
   - 尚未确认作者代码或可直接复现的训练配置。
   - 缺少常见 GPU 训练栈、超 8.2B 规模及第三方独立复现。
   - 2026-09-23 复评仍未确认官方代码、训练 recipe 或第三方复现。
@@ -369,16 +371,17 @@
 - url: https://arxiv.org/abs/2609.04523
 - direction: AI 系统 / 编译器 / TPU kernel agent
 - first_seen: 2026-09-08
-- last_review: 2026-09-24
-- next_review: 2026-10-01
+- last_review: 2026-10-08
+- next_review: 2026-10-15
 - status: active
 - quality: B
 - maturity: M1
 - personal_value: high
 - main_evidence:
   - 作者在 50 个 JaxBench 任务及真实模型 workload 上评估多 Agent kernel 优化闭环。
-  - 官方仓库已提供 MaxKernel、JAXBench、MaxCode、文档与测试资产；本次复评可见仓库已有 311 次提交，但未见稳定 release 或独立复现。
-  - 2026-09-24 复评可见仓库仍在改进搜索脚本、输入生成与事件压缩，但未形成稳定 release 或第三方结果。
+  - 官方仓库已提供 MaxKernel、JAXBench、MaxCode、文档与测试资产；2026-09-24 复评可见仓库已有 311 次提交，但未见稳定 release 或独立复现。
+  - 2026-10-01 复评官方仓库仍公开 MaxKernel、JAXBench 和文档，累计 316 次提交；未确认稳定 release 或第三方 TPU 复现。
+  - 2026-10-08 核对论文仍为 9 月版本，未见足以改变质量等级的新独立复现；继续观察。
 - missing_evidence:
   - 缺少第三方复现、稳定版本及跨 TPU/Pallas 之外后端的验证。
   - 对 Gemini、Google Cloud TPU 与 compiler feedback 的依赖较强。
@@ -399,8 +402,8 @@
 - url: https://arxiv.org/abs/2609.05228
 - direction: MoE / 推理效率 / Serving
 - first_seen: 2026-09-08
-- last_review: 2026-09-23
-- next_review: 2026-09-30
+- last_review: 2026-10-05
+- next_review: 2026-10-12
 - status: active
 - quality: B
 - maturity: M0
@@ -427,8 +430,8 @@
 - url: https://arxiv.org/abs/2609.04010
 - direction: LLM 推理 / speculative decoding / 离散扩散
 - first_seen: 2026-09-09
-- last_review: 2026-09-23
-- next_review: 2026-09-30
+- last_review: 2026-10-05
+- next_review: 2026-10-12
 - status: active
 - quality: B
 - maturity: M1
@@ -458,8 +461,8 @@
 - url: https://arxiv.org/abs/2609.08368
 - direction: LLM 后训练 / 分布式系统 / RL infrastructure
 - first_seen: 2026-09-10
-- last_review: 2026-09-29
-- next_review: 2026-10-06
+- last_review: 2026-10-06
+- next_review: 2026-10-13
 - status: active
 - quality: B
 - maturity: M1
@@ -469,6 +472,7 @@
   - 2026-09-26 v0.1.1 release 增加 Qwen3.8-Flash-Next、GLM-5.3-Flash 的权重更新相等与短程 rollout/trainer 对数概率差记录；长训和跨集群结论仍未独立复现。
   - 作者给出 64 台 GB300、GLM-5.2 744B-A40B 的全异步 terminal-coding RL 案例，前 30 步中位 step time 为 263 秒。
   - 本次复评确认核心仓库持续活跃，已包含 NVFP4 fake-QAT 融合 kernel 与 routed-expert 限定等后续提交。
+  - 2026-10-06 复评：arXiv 仍为 9 月 8 日 v1；对应 Miles 仓库最新正式版仍是 9 月 26 日 v0.1.1，暂未见足以改变论文结论的独立验证。
 - missing_evidence:
   - 大规模性能和稳定性主要来自作者自报，缺少第三方集群复现。
   - 安装复杂度、故障恢复、资源利用率和不同后端组合的完整对照仍不足。
@@ -490,8 +494,8 @@
 - url: https://arxiv.org/abs/2609.04971
 - direction: LLM Serving / KV cache / 长上下文推理
 - first_seen: 2026-09-10
-- last_review: 2026-09-23
-- next_review: 2026-09-30
+- last_review: 2026-10-02
+- next_review: 2026-10-09
 - status: active
 - quality: B
 - maturity: M1
@@ -500,6 +504,7 @@
   - 通过代表性 beacon query 估计历史 token 被远距离重访的重要性，无需重新训练模型。
   - 作者在四个开放推理模型上报告最高 5.8× 显存压缩、超过 4.3× 吞吐提升，并已公开核心实现和评测脚本。
 - missing_evidence:
+  - 2026-10-02 官方仓库仍仅两次提交；评测脚本可运行，但未确认生产 serving 集成或可核验的独立同条件复跑。
   - 仓库提交和外部采用仍少，缺少第三方复现与生产 serving 集成。
   - 不同 batch、序列结构、硬件与 FlashAttention 版本下的收益稳定性未知。
   - 本次复评未确认独立 benchmark 或正式 serving 集成。
@@ -520,8 +525,8 @@
 - url: https://arxiv.org/abs/2609.10226
 - direction: AI 系统 / Coding Agent / Kernel / Runtime / Benchmark
 - first_seen: 2026-09-11
-- last_review: 2026-09-20
-- next_review: 2026-09-25
+- last_review: 2026-10-05
+- next_review: 2026-10-12
 - status: active
 - quality: B
 - maturity: M1
@@ -552,8 +557,8 @@
 - url: https://arxiv.org/abs/2609.08149
 - direction: Coding Agent / Evaluation / Benchmark Safety
 - first_seen: 2026-09-11
-- last_review: 2026-09-20
-- next_review: 2026-09-25
+- last_review: 2026-10-05
+- next_review: 2026-10-12
 - status: active
 - quality: B
 - maturity: M1
@@ -582,8 +587,8 @@
 - url: https://arxiv.org/abs/2609.09134
 - direction: Agent / Harness / Fine-tuning / On-policy correction
 - first_seen: 2026-09-11
-- last_review: 2026-09-21
-- next_review: 2026-09-26
+- last_review: 2026-10-05
+- next_review: 2026-10-12
 - status: active
 - quality: B
 - maturity: M0
@@ -610,8 +615,8 @@
 - url: https://arxiv.org/abs/2609.10715
 - direction: 基础模型 / 预训练 / Latent Language Model
 - first_seen: 2026-09-12
-- last_review: 2026-09-22
-- next_review: 2026-09-27
+- last_review: 2026-10-05
+- next_review: 2026-10-19
 - status: active
 - quality: B
 - maturity: M1
@@ -642,8 +647,8 @@
 - url: https://arxiv.org/abs/2609.05903
 - direction: Agent / Safety / Harness / Tool Use
 - first_seen: 2026-09-12
-- last_review: 2026-09-23
-- next_review: 2026-09-30
+- last_review: 2026-10-05
+- next_review: 2026-10-12
 - status: active
 - quality: B
 - maturity: M1
@@ -672,8 +677,8 @@
 - url: https://arxiv.org/abs/2608.27875
 - direction: LLM Serving / Attention / KV cache / 低比特量化
 - first_seen: 2026-09-12
-- last_review: 2026-09-23
-- next_review: 2026-09-30
+- last_review: 2026-10-05
+- next_review: 2026-10-12
 - status: active
 - quality: B
 - maturity: M1
@@ -702,8 +707,8 @@
 - url: https://arxiv.org/abs/2609.11917
 - direction: 基础模型 / MoE / 数据效率 / 训练稳定性
 - first_seen: 2026-09-13
-- last_review: 2026-09-22
-- next_review: 2026-09-27
+- last_review: 2026-10-05
+- next_review: 2026-10-12
 - status: active
 - quality: B
 - maturity: M0
@@ -730,8 +735,8 @@
 - url: https://arxiv.org/abs/2609.11294
 - direction: Agent Infrastructure / Sandbox / Operating Systems / Memory
 - first_seen: 2026-09-13
-- last_review: 2026-09-22
-- next_review: 2026-09-27
+- last_review: 2026-10-05
+- next_review: 2026-10-12
 - status: active
 - quality: B
 - maturity: M0
@@ -758,8 +763,8 @@
 - url: https://arxiv.org/abs/2609.13134
 - direction: LLM Serving / Heterogeneous Systems / Subquadratic Attention
 - first_seen: 2026-09-15
-- last_review: 2026-09-24
-- next_review: 2026-10-01
+- last_review: 2026-10-03
+- next_review: 2026-10-10
 - status: active
 - quality: B
 - maturity: M0
@@ -788,8 +793,8 @@
 - url: https://arxiv.org/abs/2609.12471
 - direction: AMD GPU / HIP / Triton / Kernel Agent / Training Data
 - first_seen: 2026-09-15
-- last_review: 2026-09-24
-- next_review: 2026-10-01
+- last_review: 2026-10-03
+- next_review: 2026-10-10
 - status: active
 - quality: B
 - maturity: M1
@@ -802,6 +807,7 @@
   - 正确率领先未转化为全面的编译率或速度领先。
   - 本次复评未确认跨硬件或 ROCm 版本的独立结果。
   - 2026-09-24 复评确认数据集与 AMD-AGI/hip_kernel_llm_lab 仍可访问，未见新的跨代 GPU 独立验证。
+  - 2026-10-03 复核作者仓库与论文，仍未见跨代 GPU 或独立速度复现。
 - known_assets:
   - 论文
   - 数据集
@@ -819,8 +825,8 @@
 - url: https://arxiv.org/abs/2609.12742
 - direction: Coding Agent / Repository Knowledge / SKILL Optimization / Evaluation
 - first_seen: 2026-09-15
-- last_review: 2026-09-24
-- next_review: 2026-10-01
+- last_review: 2026-10-03
+- next_review: 2026-10-10
 - status: active
 - quality: B
 - maturity: M0
@@ -848,8 +854,8 @@
 - url: https://arxiv.org/abs/2609.15989
 - direction: Agent Safety / Chain-of-Thought Monitoring / Prompt Injection
 - first_seen: 2026-09-16
-- last_review: 2026-09-20
-- next_review: 2026-09-25
+- last_review: 2026-10-05
+- next_review: 2026-10-12
 - status: active
 - quality: B
 - maturity: M0
@@ -875,8 +881,8 @@
 - url: https://arxiv.org/abs/2609.15982
 - direction: Agent / Skill Routing / Representation Probing / Context Efficiency
 - first_seen: 2026-09-16
-- last_review: 2026-09-20
-- next_review: 2026-09-25
+- last_review: 2026-10-05
+- next_review: 2026-10-12
 - status: active
 - quality: B
 - maturity: M0
@@ -903,8 +909,8 @@
 - url: https://arxiv.org/abs/2609.15983
 - direction: Multi-Agent / Harness / Long-Horizon Research / Theorem Proving
 - first_seen: 2026-09-16
-- last_review: 2026-09-20
-- next_review: 2026-09-25
+- last_review: 2026-10-05
+- next_review: 2026-10-12
 - status: active
 - quality: B
 - maturity: M0
@@ -931,8 +937,8 @@
 - url: https://arxiv.org/abs/2609.19134
 - direction: AI for Science / Agent 环境 / 科学软件验证
 - first_seen: 2026-09-18
-- last_review: 2026-09-23
-- next_review: 2026-09-30
+- last_review: 2026-10-05
+- next_review: 2026-10-12
 - status: active
 - quality: B
 - maturity: M1
@@ -963,8 +969,8 @@
 - url: https://arxiv.org/abs/2609.19969
 - direction: 基础模型 / 长上下文 / KV cache / Serving
 - first_seen: 2026-09-19
-- last_review: 2026-09-24
-- next_review: 2026-10-01
+- last_review: 2026-10-04
+- next_review: 2026-10-11
 - status: active
 - quality: B
 - maturity: M1
@@ -972,7 +978,7 @@
 - main_evidence:
   - 官方技术报告与开放模型资产说明 CED、CSA2、FP4 KV 和 SWA Bounded Replay 的协同设计。
   - 作者报告全局 KV 常驻 HBM 约 890 bytes/token，长期持久缓存约为 V4-Flash 的八分之一。
-  - 2026-09-24 复评确认 vLLM Ascend 已提供 W8A8 多机部署教程，但通用 vLLM/SGLang 对 CSA2 与 FP4 KV 的完整支持仍未确认。
+  - 2026-10-04 复评确认 vLLM v0.30.0 已列 DeepSeek-V4.1 支持，但其 FlashMLA 路径仍使用 MXFP8 存储；SGLang 文档对正式版和预览镜像支持范围表述不一致。完整 CSA2/FP4 KV 路径尚未确认。
 - missing_evidence:
   - 成本、精度和吞吐结果主要为模型团队自报，缺少独立同等硬件验证。
   - 552B backbone 和 1M context 的复现资源门槛高。
@@ -992,8 +998,8 @@
 - url: https://arxiv.org/abs/2609.20519
 - direction: Coding Agent / Harness / Context Compression / Evaluation
 - first_seen: 2026-09-19
-- last_review: 2026-09-23
-- next_review: 2026-09-30
+- last_review: 2026-10-05
+- next_review: 2026-10-12
 - status: active
 - quality: B
 - maturity: M1
@@ -1024,8 +1030,8 @@
 - url: https://arxiv.org/abs/2609.22068
 - direction: Coding Agent / RL / 可验证环境合成
 - first_seen: 2026-09-22
-- last_review: 2026-09-22
-- next_review: 2026-09-26
+- last_review: 2026-10-05
+- next_review: 2026-10-12
 - status: active
 - quality: B
 - maturity: M0
@@ -1049,8 +1055,8 @@
 - url: https://arxiv.org/abs/2609.21509
 - direction: Agent 通信 / 结构化表示 / Evaluation
 - first_seen: 2026-09-22
-- last_review: 2026-09-22
-- next_review: 2026-09-28
+- last_review: 2026-10-05
+- next_review: 2026-10-19
 - status: active
 - quality: B
 - maturity: M0
@@ -1074,19 +1080,19 @@
 - url: https://arxiv.org/abs/2609.24974
 - direction: Agent Harness / Distillation / Tool Use / SFT
 - first_seen: 2026-09-23
-- last_review: 2026-09-23
-- next_review: 2026-09-28
+- last_review: 2026-10-05
+- next_review: 2026-10-12
 - status: active
-- quality: B
+- quality: A
 - maturity: M1
 - personal_value: high
 - main_evidence:
   - 让 harnessing agent 在执行前审阅并改写 student 响应，再在目标 harness 动作空间内构造 SFT 轨迹，把专用 harness 诱导的行为蒸馏进权重。
-  - 作者在 SpreadsheetBench、AppWorld、USPTO 上报告 Qwen3.5-9B 宏平均成功率 23.3%→44.3%，并高于保留优化 harness 的 41.7%。
+  - 2026-10-05 深评核对 Qwen3.5-9B 三域分别训练的检查点：简易 harness 宏平均 23.3%→44.3%，超过未训练底座加优化 harness 的 41.7%；USPTO 领域仍为 30%<38%。
   - 官方仓库公开三域任务集、harness bank、rollout/SFT 代码、Docker 环境、测试与三个 LoRA checkpoints。
 - missing_evidence:
-  - 结果均为作者自报，缺少第三方跨模型复跑。
-  - 教师调用、harness 演化与训练成本尚未和更简单蒸馏基线充分拆分。
+  - 结果均为作者自报，缺少第三方跨模型复跑；三个 LoRA 检查点按领域分别训练，宏平均不代表一个通用检查点。
+  - USPTO 消融显示强教师直接轨迹训练仅 12%、带专用 harness 的教师轨迹训练为 3%、规则指导逐步纠错为 30%；但每步额外审阅调用使该域平均轨迹收集耗时约 2.4 倍。
   - 权重内行为在 harness 更新、分布外任务和错误恢复上的稳定性未知。
 - known_assets:
   - 论文
@@ -1106,8 +1112,8 @@
 - url: https://arxiv.org/abs/2609.26779
 - direction: Coding Agent / Context Compaction / Cost Efficiency / Reliability
 - first_seen: 2026-09-24
-- last_review: 2026-09-30
-- next_review: 2026-10-05
+- last_review: 2026-10-05
+- next_review: 2026-10-12
 - status: active
 - quality: B
 - maturity: M1
@@ -1136,8 +1142,8 @@
 - url: https://arxiv.org/abs/2609.26777
 - direction: Coding Agent / LLM Serving / Systems Benchmark / SGLang
 - first_seen: 2026-09-24
-- last_review: 2026-09-30
-- next_review: 2026-10-05
+- last_review: 2026-10-05
+- next_review: 2026-10-12
 - status: active
 - quality: B
 - maturity: M1
@@ -1166,8 +1172,8 @@
 - url: https://arxiv.org/abs/2609.26457
 - direction: AI Research Agent / Recursive Self-Improvement / Evaluation
 - first_seen: 2026-09-24
-- last_review: 2026-09-24
-- next_review: 2026-09-30
+- last_review: 2026-10-05
+- next_review: 2026-10-12
 - status: active
 - quality: B
 - maturity: M0
@@ -1186,6 +1192,37 @@
   - 独立长周期复现及同预算基线
   - 奖励投机、回归和停止条件的外部审计
 - discovery_source: arXiv recent cs.AI / missed-item backfill
+
+
+## 2609.39903
+
+- title: OSWorld-Science: A Benchmark of Computer Use Agents for Learning and Using Scientific Software
+- url: https://arxiv.org/abs/2609.39903
+- direction: AI for Science / GUI Agent / 可执行评测
+- first_seen: 2026-10-02
+- last_review: 2026-10-06
+- next_review: 2026-10-13
+- status: active
+- quality: B
+- maturity: M1
+- personal_value: medium
+- main_evidence:
+  - 146 个专家设计任务覆盖 7 个科学领域、14 种软件配置，使用应用状态与产物执行评测，比较 12 个 VLM。
+  - 官方 GitHub 提供 harness、评测器、配置、测试和运行入口；项目页链接官方数据与 VM 镜像。
+  - 2026-10-06 复评：arXiv 仍为 9 月 30 日 v1；项目代码入口本次未能独立打开，未确认新的完整复跑或评分器审计，继续观察。
+- missing_evidence:
+  - 论文刚发布，尚缺第三方完整复跑；部分 EEGLAB/Windows Ansys 镜像未公开，完整镜像下载约 200 GB。
+  - 需核对逐任务评分器、任务泄漏与模型/提示配置对结论的影响。
+- known_assets:
+  - paper and project page
+  - core benchmark code and tests
+  - task data and available VM images
+  - example trajectories
+- next_review_focus:
+  - 可运行任务范围与评分器审计
+  - 独立复跑及成本/质量比较
+  - 是否出现模型能力与 harness 影响的可分离对照
+- discovery_source: arXiv recent cs.AI / Hugging Face Daily Papers / 作者项目页
 
 ---
 
@@ -1229,13 +1266,13 @@
 - url: https://github.com/tenstorrent/vllm-tt-plugin
 - direction: LLM Serving / 异构加速器 / vLLM plugin
 - first_seen: 2026-09-08
-- last_review: 2026-09-24
-- next_review: 2026-10-01
+- last_review: 2026-10-04
+- next_review: 2026-10-18
 - status: active
 - quality: B
 - personal_value: high
 - last_release: 未发现稳定 release
-- last_commit_or_major_delta: 2026-09-24 复评可见 vLLM v0.29.0 兼容性与 KV cache 压力调度仍在 issue 阶段，未见稳定 release
+- last_commit_or_major_delta: 2026-10-04 未发现稳定 release 或已核验的新性能基准；继续观察版本兼容与 KV cache 调度
 - main_evidence:
   - 以 out-of-tree plugin 接入 Tenstorrent，覆盖平台发现、模型注册、worker、scheduler 与执行桥。
   - 公开代码、文档、示例与测试，明确实现 phase-only scheduling、片上采样回退、异步 readback 和单进程 lane-DP。
@@ -1259,8 +1296,8 @@
 - url: https://github.com/AI-Hypercomputer/accelerator-agents
 - direction: AI 系统 / 编译器 / 自动 kernel 优化
 - first_seen: 2026-09-08
-- last_review: 2026-09-24
-- next_review: 2026-10-01
+- last_review: 2026-10-04
+- next_review: 2026-10-11
 - status: active
 - quality: B
 - personal_value: high
@@ -1289,13 +1326,13 @@
 - url: https://github.com/NVlabs/cuda-oxide
 - direction: GPU 编译器 / Rust / CUDA SIMT kernel
 - first_seen: 2026-09-09
-- last_review: 2026-09-24
-- next_review: 2026-10-01
+- last_review: 2026-10-04
+- next_review: 2026-10-11
 - status: active
 - quality: B
 - personal_value: high
 - last_release: v0.2.1（2026-06-10）
-- last_commit_or_major_delta: 2026-09-24 复评仍以 v0.2.1 为最新稳定 release，未确认重要版本或架构变化
+- last_commit_or_major_delta: 2026-10-04 仓库已重定向至 NVIDIA/cuda-rust；未发现较 v0.2.1 更高的稳定 release
 - main_evidence:
   - 仓库包含 rustc codegen backend、host runtime、device intrinsics、文档、示例和测试。
   - 编译流水线可追到 Rust MIR → Pliron IR → LLVM IR → PTX，并提供类型化 launch 与内存安全约束。
@@ -1320,18 +1357,19 @@
 - url: https://github.com/NVlabs/cutile-rs
 - direction: GPU 编程 / Rust / tile-level DSL
 - first_seen: 2026-09-09
-- last_review: 2026-09-24
-- next_review: 2026-10-01
+- last_review: 2026-10-04
+- next_review: 2026-10-11
 - status: active
-- quality: B
+- quality: A
 - personal_value: high
-- last_release: v0.3.1（2026-09-06）
-- last_commit_or_major_delta: 2026-09-24 复评仍以 v0.3.1 为最新稳定 release，未确认重要版本或架构变化
+- last_release: v0.4.0（2026-09-25）
+- last_commit_or_major_delta: 2026-09-25 v0.4.0：CUDA 13.4 Tile IR、Rust 源码级调试、PDL、异步存储生命周期修复及破坏性 API 更新
 - main_evidence:
   - 仓库提供稳定 Rust 上的 tile DSL、CUDA Tile IR JIT、host-side ownership API、示例与文档。
   - NVIDIA 官方文章确认 Hugging Face Grout 与 mistral.rs 已采用。
+  - v0.4.0 release 给出源码行映射、异步 UAF 修复、跨 stream 冲突检测、DGX Spark 测试及可复核的 API 变更。
 - missing_evidence:
-  - 仍处早期阶段，API 会变化且当前要求 CUDA 13.3。
+  - 仍处早期阶段，0.4.0 有破坏性 API 变化；基础功能需 CUDA 13.2+，PDL 需 13.4 与 sm90+。
   - 缺少独立的综合 benchmark 和生产稳定性证据。
 - known_assets:
   - core code
@@ -1344,34 +1382,6 @@
   - 生态采用与跨语言互操作
 - discovery_source: NVIDIA Developer Blog / GitHub
 
-## openai/NavierStokesAndEuler
-
-- repo: openai/NavierStokesAndEuler
-- url: https://github.com/openai/NavierStokesAndEuler
-- direction: AI Scientist / 形式化验证 / 数学
-- first_seen: 2026-09-10
-- last_review: 2026-09-23
-- next_review: 2026-09-30
-- status: active
-- quality: B
-- personal_value: high
-- last_release: 未发现稳定 release
-- last_commit_or_major_delta: 2026-09-23 仍见两次公开提交、无 PR 记录，未确认外部数学审查结论
-- main_evidence:
-  - 仓库包含 Lean 4.34.0-rc2 工程，按 NavierStokes、Euler 与 ComparatorChallenges 组织核心形式化内容。
-  - 提供 Mathlib 缓存和完整构建路径，可由外部研究者独立运行 proof kernel 检查。
-- missing_evidence:
-  - 目前仅有两次公开提交，尚无独立数学审查或社区验证记录。
-  - Lean 证明项通过不能自动保证形式化陈述完整对应千禧年问题的预期语义。
-- known_assets:
-  - core formalization
-  - build instructions
-  - accompanying paper
-- next_review_focus:
-  - 流体力学专家与 Lean 社区的独立审查
-  - 自然语言论文和 Lean 定理在定义、假设、结论上的逐项对应
-  - 后续修订、issue 与可重复构建结果
-- discovery_source: OpenAI 官方研究发布 / GitHub
 
 ## radixark/miles
 
@@ -1379,8 +1389,8 @@
 - url: https://github.com/radixark/miles
 - direction: LLM 后训练 / 分布式系统 / RL infrastructure
 - first_seen: 2026-09-10
-- last_review: 2026-09-29
-- next_review: 2026-10-06
+- last_review: 2026-10-06
+- next_review: 2026-10-13
 - status: active
 - quality: A
 - personal_value: high
@@ -1391,6 +1401,7 @@
   - v0.1.1 对 Qwen3.8-Flash-Next 与 GLM-5.3-Flash 给出权重同步相等检查和短程 rollout/trainer 对数概率差；多 LoRA 槽的权重、FP32 master 和 Adam moments 恢复检查为零容差。
   - 作者展示 64 台 GB300 上 GLM-5.2 744B-A40B 的全异步 terminal-coding RL 案例。
   - 本次复评可见 2,175 次提交，近期仍在补充低精度训练 kernel、真实沙箱 CI 和硬件测试矩阵。
+  - 2026-10-06 复评：官方 Releases 最新仍为 v0.1.1；已有工程与短程一致性证据仍成立，但未见新的正式版本或第三方多节点复跑，暂不重复推荐。
 - missing_evidence:
   - 超大规模性能、可靠性和资源效率仍主要来自作者自报。
   - 缺少第三方跨集群复现、稳定性报告及不同后端组合的系统对照。
@@ -1412,16 +1423,17 @@
 - url: https://github.com/openai/codex
 - direction: Coding Agent / Harness / Sandbox / Developer Infrastructure
 - first_seen: 2026-09-11
-- last_review: 2026-09-30
-- next_review: 2026-10-07
+- last_review: 2026-10-08
+- next_review: 2026-10-15
 - status: active
 - quality: A
 - personal_value: high
-- last_release: 0.159.2（GitHub release 页面标示 2026-09-29，Windows 后台进程控制台闪烁修复；非 Agents API 版本映射）
-- last_commit_or_major_delta: 2026-09-10 OpenAI 宣布 Agents API 由开源 Codex harness 驱动；2026-09-23 复评仍未找到托管版本映射
+- last_release: 0.161.0（GitHub release 页面标示 2026-10-07）
+- last_commit_or_major_delta: 0.161.0 增加模型目录、MCP 登录和后台任务改动，修复权限升级、同轮任务权限继承、线程恢复与重试问题
 - main_evidence:
   - 成熟 Rust 主体仓库，包含 codex-rs、CLI、SDK、文档、工具、测试与长期提交历史。
   - 官方将其定位为 Agents API 的开源 harness 基础，可对照托管服务理解模型、工具、上下文和 sandbox 的边界。
+  - 0.161.0 稳定版 release 对权限与恢复链路列出具体修正；当前聊天使用模型不随 release 自动改变。
 - missing_evidence:
   - 托管 API 与公开仓库不完全等价，服务端调度、隔离和运维实现并未全部开源。
   - 仍需核对具体 Agents API harness 版本与仓库 revision 的对应关系。
@@ -1439,87 +1451,25 @@
   - 托管和自建路径的可靠性、成本及可观测性
 - discovery_source: OpenAI Agents API 官方发布 / GitHub
 
-## one2piece2hello/faibench_Frontier_InfraBench
-
-- repo: one2piece2hello/faibench_Frontier_InfraBench
-- url: https://github.com/one2piece2hello/faibench_Frontier_InfraBench
-- direction: AI 系统 / Coding Agent / Kernel / Runtime / Benchmark
-- first_seen: 2026-09-11
-- last_review: 2026-09-20
-- next_review: 2026-09-25
-- status: active
-- quality: B
-- personal_value: high
-- last_release: 未发现稳定 release
-- last_commit_or_major_delta: 2026-09-09 论文与 85 项可运行 benchmark 资产公开
-- main_evidence:
-  - 提供 85 个基础设施工程任务、自包含 Dockerfile、离线评分、统一 runner、任务索引和参考解。
-  - 任务跨 kernel 补全、长周期仓库实现和端到端优化，runner 可直接接入 Codex 或 Claude Code。
-- missing_evidence:
-  - 仓库和论文刚发布，缺少第三方复跑、跨硬件校准和稳定维护历史。
-  - 部分性能任务的硬件 anchor 可迁移性有限，公开评分面也需要持续防污染。
-  - 2026-09-15 复评未发现新的独立评测、跨硬件复现或稳定 release。
-  - 2026-09-20 复评未发现新的独立评测、跨硬件复现或正式榜单更新。
-- known_assets:
-  - benchmark
-  - Docker environments
-  - task runner
-  - scoring
-  - oracle solutions
-- next_review_focus:
-  - 独立 Agent 评测结果与失败分类
-  - Docker 可复现性及硬件重新校准
-  - 任务修订、污染检测和稳定 release
-- discovery_source: Hugging Face Daily Papers / arXiv / GitHub
-
-## jerrysfls/HyQuant
-
-- repo: jerrysfls/HyQuant
-- url: https://github.com/jerrysfls/HyQuant
-- direction: LLM Serving / Attention / KV cache / Triton
-- first_seen: 2026-09-12
-- last_review: 2026-09-24
-- next_review: 2026-10-01
-- status: active
-- quality: B
-- personal_value: high
-- last_release: 未发现稳定 release
-- last_commit_or_major_delta: 2026-09-24 复评未见稳定 release、框架集成或第三方端到端复现
-- main_evidence:
-  - 提供 Qwen3、Llama 3 与 GLM-4 patch、融合 Triton attention、混合低比特 KV cache、评测脚本和 smoke test。
-  - 作者把 kernel 加速与端到端 decode 收益分开报告，并明确垂直线检测和高精度保留的额外开销。
-- missing_evidence:
-  - 仓库仅有少量提交，未发现稳定 release、第三方复现或生产采用。
-  - 论文实验限定单张 H100，尚缺并发 serving、跨 GPU 和框架集成验证。
-- known_assets:
-  - core code
-  - Triton kernels
-  - model patches
-  - evaluation
-  - smoke test
-- next_review_focus:
-  - 第三方端到端复现
-  - vLLM/SGLang integration
-  - batch、并发与跨硬件性能
-- discovery_source: Hugging Face Daily Papers / arXiv / GitHub
-
 ## JustVugg/colibri
 
 - repo: JustVugg/colibri
 - url: https://github.com/JustVugg/colibri
 - direction: LLM Inference / MoE / Memory Hierarchy / Storage Streaming
 - first_seen: 2026-09-15
-- last_review: 2026-09-19
-- next_review: 2026-09-26
+- last_review: 2026-10-02
+- next_review: 2026-10-09
 - status: active
 - quality: B
 - personal_value: high
-- last_release: v1.11.0（2026-09-13），本次仍为最新
-- last_commit_or_major_delta: 2026-09-14 GitHub Explore 更新并进入当日推荐面
+- last_release: v1.12.1（2026-09-24），官方 release 已核验
+- last_commit_or_major_delta: v1.12.1 修复 Qwen/OLMoE tokenizer parity，加入实测设备放置回退与整型 GEMV
 - main_evidence:
+  - v1.12.1 官方发布说明给出 Qwen 757/2803→2803/2803、OLMoE 1560/1708→1708/1708 的 tokenizer 对齐结果；Tesla M10 放置回退和特定 Qwen3.8 解码测试仍属作者自测。
   - 纯 C 推理引擎把 VRAM、RAM 和 NVMe 作为统一层级，按 MoE 路由结果调度专家权重，并覆盖九类模型架构。
   - Apache-2.0，约 31.4k stars；公开 benchmark protocol、质量检查、端到端数据和负面结果记录要求。
 - missing_evidence:
+  - v1.12.1 的速度、RSS 与质量数据尚缺独立同硬件复跑，需验证 perplexity 变化。
   - 多数性能数据来自项目方与社区提交，缺少统一第三方硬件矩阵复现。
   - 超大模型仍需数百 GB 至 TB 级存储，低内存可运行不等于达到实用交互速度。
 - known_assets:
@@ -1540,13 +1490,13 @@
 - url: https://github.com/NVIDIA/TileGym
 - direction: GPU kernel / CUDA Tile IR / Agent 编译器工作流
 - first_seen: 2026-09-17
-- last_review: 2026-09-24
-- next_review: 2026-10-01
+- last_review: 2026-10-04
+- next_review: 2026-10-11
 - status: active
 - quality: B
 - personal_value: high
-- last_release: PyPI 可安装；Rust 后端仅源码 checkout 可用
-- last_commit_or_major_delta: 2026-09-24 复评未见独立复现、稳定 Rust 后端 release 或新的跨硬件结果
+- last_release: v1.5.1（2026-09-22）；GitHub release 已核验，修复 wheel 中 .cuh/.rs/JSON 资源打包
+- last_commit_or_major_delta: v1.5.0 加入多种 cuTile 算子与 LFM2 MoE 集成；v1.5.1 修复安装包资源文件，仍缺独立性能复现
 - main_evidence:
   - 官方仓库提供转换 Skill、阶段校验器、CUDA Tile IR 对比、算子源码、测试与性能协议。
   - NVIDIA 自测在 B200 的 347 组配对配置上取得 0.995 的设备时间几何平均性能比，所有 24 个算子均超过 0.95 门槛。
@@ -1570,13 +1520,13 @@
 - url: https://github.com/alibaba/open-code-review
 - direction: Coding Agent / Code Review / CI / Deterministic Harness
 - first_seen: 2026-09-15
-- last_review: 2026-09-19
-- next_review: 2026-09-26
+- last_review: 2026-10-05
+- next_review: 2026-10-12
 - status: active
 - quality: B
 - personal_value: high
-- last_release: v1.12.6（2026-09-18）
-- last_commit_or_major_delta: v1.12.6 主要为 viewer 界面整理及测试修复，未改变核心判断
+- last_release: v1.12.11（2026-09-29）；Jinja allowlist 模板与 merge commit 文件、viewer、Windows 构建修复
+- last_commit_or_major_delta: v1.12.11 为 allowlist 模板及常规修复；未确认改变核心评测结论的新证据
 - main_evidence:
   - 将文件覆盖、分组、规则匹配、评论定位和反思校验放入确定性流水线，Agent 负责跨文件语义判断。
   - Apache-2.0，约 24.5k stars；提供 CLI、全文件扫描、主流 CI 集成与 200 个真实 PR 的 AACR-Bench。
@@ -1601,19 +1551,20 @@
 - url: https://github.com/facebookresearch/ads_model_kernel_library
 - direction: GPU Kernel / Blackwell / MXFP8 FlashAttention / 训练系统
 - first_seen: 2026-09-18
-- last_review: 2026-09-23
-- next_review: 2026-09-30
+- last_review: 2026-10-03
+- next_review: 2026-10-10
 - status: active
-- quality: B
+- quality: A
 - personal_value: high
 - last_release: lp_fa4 标为 release candidate，未确认稳定版本
-- last_commit_or_major_delta: 2026-09-23 仓库可见 GDPA、Block Attention、Multi-CTA Norm Fusion 与 GDPA Megakernel，累计 23 次提交
+- last_commit_or_major_delta: 2026-10-01 新增公开 TLX Jagged Flash Attention 技术拆解与 tlx_jfa 源码；B200 BF16 jagged 算子较 FA4 前向约快 13%、反向约快 50%
 - main_evidence:
   - PyTorch 官方技术文章给出 TMEM scale 布局、反向量化与训练模块集成细节。
   - 作者提供核心代码、smoke tests 和 benchmark；16K KV tokens 模块报告约 1.30 倍收益。
   - 仓库已扩展为四组面向 Hopper/Blackwell 的广告与推荐训练 kernel，并给出各项目依赖和入口。
+  - 新增 JFA 公开实现解释变长 tile 分配、dQ 双缓冲归约、TMEM 提前释放和寄存器 spill 等瓶颈，提供 jagged 与 dense 两类算子对照。
 - missing_evidence:
-  - 缺少独立复跑、跨硬件结果和更多序列长度的端到端稳定性证据。
+  - 缺少独立复跑、跨硬件结果和端到端训练收益；密集前向只达到 FA4 约 87% 的速度。
   - 复现依赖 Blackwell、CUDA 13、PyTorch 2.13 等特定栈。
 - known_assets:
   - core code
@@ -1632,18 +1583,20 @@
 - url: https://github.com/NVIDIA/TensorRT-Edge-LLM
 - direction: Edge LLM Serving / Jetson / Agentic Benchmark
 - first_seen: 2026-09-18
-- last_review: 2026-09-24
-- next_review: 2026-10-01
+- last_review: 2026-10-02
+- next_review: 2026-10-09
 - status: active
 - quality: B
 - personal_value: high
-- last_release: v0.10.1（2026-09-03）；另有基准复现分支 release/0.9.1-mlpinf
-- last_commit_or_major_delta: 2026-09-24 复评补确认 v0.10.1：双 DGX Spark TP=2、JetSpec、FP8 ViT/DART 与实验服务器重构
+- last_release: v0.11.0（2026-09-29），官方 release 已核验
+- last_commit_or_major_delta: v0.11.0：匹配原生载荷的 wheel、实验性单 rank in-flight batching、C++ Jinja 模板与 XGrammar 约束解码
 - main_evidence:
+  - v0.11.0 发布了 wheel、C++ Jinja 渲染、XGrammar guided decoding 与实验性单 rank in-flight batching，修复 KV cache 和特殊 token 等正确性问题。
   - 官方 C++ 推理代码、配置、测试、量化 checkpoint 和 MLCommons harness 可供审计。
   - 20 段对话 1007 轮性能负载在单台 Thor 用时 24 分 36 秒；文章细分 KV/循环状态缓存和树形 MTP 收益。
   - v0.10.1 官方说明称实验服务器磁盘占用下降 60%～99%、冷启动时间下降 50%，并新增双 DGX Spark TP=2 与多种推测解码路径。
 - missing_evidence:
+  - v0.11.0 的 batching 缺少独立并发延迟/吞吐数据，且当前明确限于实验性单 rank 服务。
   - 6.4 倍对比是量化格式与 runtime 不同的完整系统提交，不能归因于单个优化。
   - 硬件与模型复现门槛较高，暂缺独立复跑。
 - known_assets:
@@ -1664,8 +1617,8 @@
 - url: https://github.com/modular/modular
 - direction: Mojo 编译器 / MLIR / MAX Serving / GPU Kernel
 - first_seen: 2026-09-19
-- last_review: 2026-09-19
-- next_review: 2026-09-26
+- last_review: 2026-10-05
+- next_review: 2026-10-12
 - status: active
 - quality: A
 - personal_value: high
@@ -1695,8 +1648,8 @@
 - url: https://github.com/NVlabs/SoL-Pi
 - direction: Coding Agent / Harness / Token Efficiency
 - first_seen: 2026-09-19
-- last_review: 2026-09-23
-- next_review: 2026-09-30
+- last_review: 2026-10-05
+- next_review: 2026-10-12
 - status: active
 - quality: B
 - personal_value: high
@@ -1727,8 +1680,8 @@
 - url: https://github.com/ai-dynamo/aiperf
 - direction: LLM Serving / Performance Benchmark / Production Trace Replay
 - first_seen: 2026-09-20
-- last_review: 2026-09-29
-- next_review: 2026-10-06
+- last_review: 2026-10-06
+- next_review: 2026-10-13
 - status: active
 - quality: A
 - personal_value: high
@@ -1739,6 +1692,7 @@
   - 提供核心实现、测试、插件系统、Kubernetes operator、生产 trace 回放、SLA/goodput、服务端遥测与多次运行置信区间。
   - 0.13.0 版本说明对应具体 PR；按 chunk 统计 usage 修正首流式 chunk 合并导致的 TPS/user 偏高，并加入每请求推测解码接受率。
   - 支持 vLLM、SGLang、TensorRT-LLM 等服务端路径和多种生成式 AI 端点，采用 Apache-2.0 许可。
+  - 2026-10-06 复评：官方 Releases 最新仍为 v0.13.0；未确认新的正式版本或跨负载器独立对照，暂不重复推荐。
 - missing_evidence:
   - 缺少跨厂商独立验证及其自身 CPU、网络和协调开销的公开上界。
   - 真实结果仍高度依赖 tokenizer、输出长度、warm-up、连接限制和版本固定方式。
@@ -1762,8 +1716,8 @@
 - url: https://github.com/huggingface/tokbench
 - direction: LLM Systems / Tokenization / Benchmark
 - first_seen: 2026-09-22
-- last_review: 2026-09-22
-- next_review: 2026-09-27
+- last_review: 2026-10-05
+- next_review: 2026-10-12
 - status: active
 - quality: B
 - personal_value: high
@@ -1791,8 +1745,8 @@
 - url: https://github.com/NVIDIA/SWE-Serve
 - direction: Coding Agent / LLM Serving / Systems Benchmark / SGLang
 - first_seen: 2026-09-24
-- last_review: 2026-09-24
-- next_review: 2026-09-29
+- last_review: 2026-10-05
+- next_review: 2026-10-12
 - status: active
 - quality: B
 - personal_value: high
@@ -1824,8 +1778,8 @@
 - url: https://github.com/NVIDIA/OpenShell
 - direction: Agent Runtime / Sandbox / Security / Policy Verification
 - first_seen: 2026-09-29
-- last_review: 2026-09-29
-- next_review: 2026-10-04
+- last_review: 2026-10-04
+- next_review: 2026-10-11
 - status: active
 - quality: B
 - personal_value: high
@@ -1849,12 +1803,106 @@
   - 0.1.x 版本稳定性与升级路径
 - discovery_source: NVIDIA 官方技术博客 / 官方 GitHub
 
+## NVIDIA/NeMo-Relay
+
+- repo: NVIDIA/NeMo-Relay
+- url: https://github.com/NVIDIA/NeMo-Relay
+- direction: Agent / 执行运行时 / 可观测性 / 策略中间件
+- first_seen: 2026-10-01
+- last_review: 2026-10-03
+- next_review: 2026-10-10
+- status: active
+- quality: A
+- personal_value: high
+- last_release: v0.10.0-beta.1（2026-10-02）
+- last_commit_or_major_delta: 2026-10-02 beta release 增加 W3C trace context、OTLP 元数据、动态插件与压缩缓存；存在跟踪语义破坏性变更
+- main_evidence:
+  - 共用 run/turn/tool/LLM/subagent scope、middleware 与事件流，导出 ATOF、ATIF、OpenTelemetry。
+  - README 给出 Codex/Claude Code 包装、真实产物验证与缺失 LLM span/ATIF 的诊断条件。
+  - v0.10.0-beta.1 release 与源码/文档提供可复查的实现实体。
+- missing_evidence:
+  - 跨 harness 事件语义一致性、采集完整率、额外时延和策略绕过率缺少独立评测。
+  - Codex Desktop 生命周期限制、Go/C FFI 实验状态及宿主依赖需进一步验证；0.10.0 仍为 beta，需验证 trace 兼容迁移。
+- known_assets:
+  - core code
+  - CLI
+  - docs
+  - examples
+  - tests
+- next_review_focus:
+  - 独立场景对 ATOF/ATIF/OTel 的字段和缺失行为对照
+  - Codex Desktop 与 CLI hook 的生命周期完整性
+  - middleware 失败关闭行为及性能成本
+- discovery_source: NVIDIA Technical Blog / 官方 GitHub
+
+## allenai/Olmo-core
+
+- repo: allenai/Olmo-core
+- url: https://github.com/allenai/Olmo-core
+- direction: MoE 训练 / 分布式系统 / GPU 并行
+- first_seen: 2026-10-02
+- last_review: 2026-10-03
+- next_review: 2026-10-10
+- status: active
+- quality: A
+- personal_value: high
+- last_release: v3.0.0（2026-10-01），GitHub 官方 release tag 已核验
+- last_commit_or_major_delta: v3.0.0 含元数据文档边界路径，修复部分 SFT 缓存中上游截断丢 EOS 导致的训练 token 漏计；另有专家反向融合与 HF 导出校验
+- main_evidence:
+  - Ai2 原始技术文章给出旧 FSDP 到 DDP 专家常驻的执行链、8 B300 47B MoE 的 19.4k→52k tokens/s/GPU 同口径吞吐以及 MXFP8/BF16 对照。
+  - 官方仓库公开 src、测试、文档及训练入口；文章还公开路由指标失真、学习率调整和通信计算重叠失败的负面结果。
+  - v3.0.0 release 记录 SFT 文档边界选项；作者一份缓存测得旧路径 97.98%、新路径 100% 的 token 进入训练实例。
+- missing_evidence:
+  - 512 B300 的 1.2T 与 2.38T 数据为系统基准或短容量测试，不代表收敛训练；缺独立集群复跑与模型质量结果。
+- known_assets:
+  - core training code
+  - tests and docs
+  - technical article
+  - training entry points
+- next_review_focus:
+  - 对应代码版本、正式 release 与可复现 benchmark recipe
+  - 较小 GPU 规模复跑和端到端 loss/稳定性
+  - 真实负载下路由平衡、通信与显存开销
+  - 文档边界元数据与 EOS 的一致性、旧 API 移除后的升级兼容
+- discovery_source: Ai2 官方技术文章 / 官方 GitHub
+
+## ggml-org/llama.cpp
+
+- repo: ggml-org/llama.cpp
+- url: https://github.com/ggml-org/llama.cpp
+- direction: 推理运行时 / 决策模型 / Agent 路由
+- first_seen: 2026-10-03
+- last_review: 2026-10-03
+- next_review: 2026-10-10
+- status: active
+- quality: B
+- personal_value: high
+- last_release: 未将本次功能核对到稳定 release
+- last_commit_or_major_delta: 2026-10-02 PR #29818 合并，新增 Decision Models 与 /v1/systemone 服务接口
+- main_evidence:
+  - 合并 PR 含五种决策模型的转换、决策头、GGUF 元数据、服务端上下文及测试。
+  - 作者给出概率与参考实现对照，最差差异可到 2.2e-2；单 RTX PRO 6000 示例单问题中位延迟 3～43 毫秒。
+- missing_evidence:
+  - 缺真实路由或审核任务的质量、校准、高并发吞吐与跨硬件复跑。
+  - 各决策模型输出概率不能不经校准直接共用阈值。
+- known_assets:
+  - merged code
+  - tests
+  - model conversion
+  - server API
+- next_review_focus:
+  - 稳定 release 与模型兼容矩阵
+  - 概率校准、任务准确率与并发延迟
+  - 多模型服务的内存、冷启动与隔离成本
+- discovery_source: ggml-org 官方博客 / GitHub 合并 PR
+
 # Long-term Watchlist
 
 > 上限：20。  
 > 保存长期值得观察，但当前不需要频繁复评的项目、论文或方向。
 
 <!--
+
 ## item-id
 
 - type: paper | github | project | ecosystem
@@ -1870,6 +1918,96 @@
   - benchmark
   - third-party reproduction
 -->
+
+## openai/math
+
+- type: github
+- title: OpenAI mathematics manuscripts and proof artifacts
+- url: https://github.com/openai/math
+- direction: AI for science / 数学 / Lean 形式化验证
+- last_review: 2026-10-08
+- next_review: 2026-10-22
+- watch_reason: 2026-10-06 首次公开 722 份手稿、372 个家族和部分 Lean 形式化；公开产物可核验，但未形式化结果可能有错，独立数学审查与命题语义核对仍待积累。
+- trigger_events:
+  - independent mathematical review
+  - Lean formalization expansion
+  - material corrections or retractions
+  - independent build and proof audit
+
+## torch-spyre/torch-spyre
+
+- type: github
+- title: PyTorch backend for IBM Spyre AIU
+- url: https://github.com/torch-spyre/torch-spyre
+- direction: 异构加速器 / PyTorch PrivateUse1 / Inductor / 推理运行时
+- last_review: 2026-10-09
+- next_review: 2026-10-23
+- watch_reason: 2026-10-08 PyTorch 技术文章给出从二次建图到原生设备、驻留张量及有序队列的完整重构和 Granite 3.3 8B 对照；仓库有核心代码、文档与测试，但外部构建需 IBM 软件栈开发版本，缺独立复跑。
+- trigger_events:
+  - reproducible public build
+  - independent performance reproduction
+  - operator or model coverage expansion
+  - upstream integration or release
+
+## jerrysfls/HyQuant
+
+- repo: jerrysfls/HyQuant
+- url: https://github.com/jerrysfls/HyQuant
+- direction: LLM Serving / Attention / KV cache / Triton
+- first_seen: 2026-09-12
+- last_review: 2026-10-03
+- next_review: 2026-10-17
+- status: watchlist
+- quality: B
+- personal_value: high
+- last_release: 未发现稳定 release
+- last_commit_or_major_delta: 2026-10-03 仍未见稳定 release、框架集成或第三方端到端复现；转入长期观察
+- main_evidence:
+  - 提供 Qwen3、Llama 3 与 GLM-4 patch、融合 Triton attention、混合低比特 KV cache、评测脚本和 smoke test。
+  - 作者把 kernel 加速与端到端 decode 收益分开报告，并明确垂直线检测和高精度保留的额外开销。
+- missing_evidence:
+  - 仓库仅有少量提交，未发现稳定 release、第三方复现或生产采用。
+  - 论文实验限定单张 H100，尚缺并发 serving、跨 GPU 和框架集成验证。
+- known_assets:
+  - core code
+  - Triton kernels
+  - model patches
+  - evaluation
+  - smoke test
+- next_review_focus:
+  - 第三方端到端复现
+  - vLLM/SGLang integration
+  - batch、并发与跨硬件性能
+- discovery_source: Hugging Face Daily Papers / arXiv / GitHub
+
+## openai/NavierStokesAndEuler
+
+- repo: openai/NavierStokesAndEuler
+- url: https://github.com/openai/NavierStokesAndEuler
+- direction: AI Scientist / 形式化验证 / 数学
+- first_seen: 2026-09-10
+- last_review: 2026-10-02
+- next_review: 2026-10-16
+- status: watchlist
+- quality: B
+- personal_value: high
+- last_release: 未发现稳定 release
+- last_commit_or_major_delta: 2026-10-02 仍见两次公开提交，未确认独立数学审查或新版正式发布
+- main_evidence:
+  - 仓库包含 Lean 4.34.0-rc2 工程，按 NavierStokes、Euler 与 ComparatorChallenges 组织核心形式化内容。
+  - 提供 Mathlib 缓存和完整构建路径，可由外部研究者独立运行 proof kernel 检查。
+- missing_evidence:
+  - 目前仅有两次公开提交，尚无独立数学审查或社区验证记录。
+  - Lean 证明项通过不能自动保证形式化陈述完整对应千禧年问题的预期语义。
+- known_assets:
+  - core formalization
+  - build instructions
+  - accompanying paper
+- next_review_focus:
+  - 流体力学专家与 Lean 社区的独立审查
+  - 自然语言论文和 Lean 定理在定义、假设、结论上的逐项对应
+  - 后续修订、issue 与可重复构建结果
+- discovery_source: OpenAI 官方研究发布 / GitHub
 
 ## ifm-ai/uno
 
@@ -1892,14 +2030,43 @@
 - title: TensorRT Model Connect
 - url: https://github.com/NVIDIA/TensorRT-Model-Connect
 - direction: C++ 推理运行时 / 模型接入 / TensorRT / 验证契约
-- last_review: 2026-09-30
-- next_review: 2026-10-07
-- watch_reason: 已公开核心代码、Qwen 端到端路径、模型 family 描述符、C++ runtime DSO 与 E2E oracle；目前仍为 Public Preview，需观察稳定性和独立硬件复跑。
+- last_review: 2026-10-08
+- next_review: 2026-10-22
+- watch_reason: 已公开核心代码、Qwen 端到端路径、模型 family 描述符、C++ runtime DSO 与 E2E oracle；截至 2026-10-08 未确认新的稳定 release 或独立硬件复跑，继续低频观察。
 - trigger_events:
   - stable release
   - broader model qualification
   - independent hardware reproduction
   - ABI or bundle contract change
+
+## one2piece2hello/faibench_Frontier_InfraBench
+
+- type: github
+- title: Φ-Bench / Frontier InfraBench
+- url: https://github.com/one2piece2hello/faibench_Frontier_InfraBench
+- direction: AI 系统 / Coding Agent / Kernel / Runtime / Benchmark
+- last_review: 2026-10-01
+- next_review: 2026-10-29
+- watch_reason: 85 项任务与离线评分仍可用，但当前未见稳定 release、独立跨硬件复跑或正式榜单；与同名活跃论文维持独立观察。
+- trigger_events:
+  - stable release
+  - independent agent evaluation
+  - cross-hardware recalibration
+  - benchmark revision or leaderboard
+## redhat-et/vllm-helion
+
+- type: github
+- title: Helion vLLM Linear Backend
+- url: https://github.com/redhat-et/vllm-helion
+- direction: LLM Serving / GPU Kernel / AOT Autotuning
+- last_review: 2026-10-04
+- next_review: 2026-10-11
+- watch_reason: 作者 fork 已开放 Helion 线性后端、预调配置与 benchmark 工具；H100 下部分端到端负载吞吐提升超过 10%，但尚未合入 vLLM 主线，逐形状调优和配置维护成本待验证。
+- trigger_events:
+  - vLLM upstream merge
+  - independent benchmark
+  - Blackwell or AMD end-to-end result
+  - autotuning cost reduction
 
 ---
 
@@ -1909,6 +2076,7 @@
 > 保存近期已经完成重点分析、短期内不需要重复介绍的高价值项目。
 
 <!--
+
 ## item-id
 
 - type:

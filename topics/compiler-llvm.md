@@ -395,3 +395,137 @@ Legalizer -> RegBankSelect -> InstructionSelect -> MachineCombiner -> Scheduler 
 representation scope = global / whole MachineFunction
 
 optimization scope = mostly local/greedy
+
+### 决策后移与 Combiner
+
+通过多个轮次的Combine等方式，可以将部分决策后移，从而获得全局更优的结果，比如可以将critical path纳入考虑。
+
+#### Pre-Legalizer Combiner
+
+防止Legalization destroys optimization opportunity。
+
+```
+%x = G_ADD %a, 0
+```
+
+如果先拆64位，则优化反而复杂。
+
+#### Post-Legalizer Combiner
+
+解决Legalizer带来的新pattern。
+
+#### Post-RegBank / Bank-aware Combiner
+
+bank-aware optimization。
+
+但是不能推翻RegBank的决策，仍然没有全局最优。
+
+#### GICombiner
+
+MIR-level graph rewrite engine。
+
+在某个信息层级重新调整 representation，给下一 phase 更好的输入。
+
+未深入。
+
+#### Pseudo + Late Expansion
+
+将暂时不决策的部分替换成Pseudo，在后续进行决策。
+
+假设最终 target 有：
+
+```
+方案 A:
+2 instructions
+需要两个不同 registers
+
+方案 B:
+1 special instruction
+要求 operand/result 同一个 physreg
+```
+
+InstructionSelect 时还没有 RA，所以不知道：
+
+```
+same-register constraint
+
+最后是否容易满足。
+```
+
+如果现在就选 B：可能后来需要很多 copies。
+
+所以可以先：`PSEUDO_OP`。
+
+等 `RA / register constraints` 更清楚，再展开。
+
+#### MachineCombiner
+
+使用 machine trace metrics 来评估：
+
+```
+critical path
+resource depth
+```
+
+避免 combine 让性能变坏。
+
+部分重新打开 ISel 决策：
+
+```
+多个 target instructions
+→ 更复杂 target instruction?
+```
+
+#### Post-RA Peephole / Optimization
+
+#### information timeline
+
+```
+IRTranslator
+│
+│ 知道：
+│ generic semantic / LLT / CFG / use-def
+│
+├── Pre-Legalizer Combiner
+│
+▼
+Legalizer
+│
+│ 新知道：
+│ 哪些 operation/type shape 可供 target 接受
+│
+├── Post-Legalizer Combiner
+│
+▼
+RegBankSelect
+│
+│ 新知道：
+│ register bank
+│
+├── Bank-aware combine
+│
+▼
+InstructionSelect
+│
+│ 新知道：
+│ concrete target opcode
+│ register-class constraints
+│
+├── MachineCombiner
+│
+▼
+Scheduler
+│
+│ 新知道：
+│ schedule / critical-path implications
+│
+▼
+RA
+│
+│ 新知道：
+│ physical register
+│ spill/copy
+│
+├── Post-RA peephole
+└── Post-RA scheduler
+```
