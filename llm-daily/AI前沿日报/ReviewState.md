@@ -121,9 +121,9 @@
 
 ## Aliyun Model Studio New Models
 
-- last_seen_item: qwen-image-2.1-pro
-- last_seen_publish_time: 2026-10-02
-- last_successful_scan: 2026-10-05T01:09:00+08:00
+- last_seen_item: qwen-image-2.1-turbo
+- last_seen_publish_time: 2026-10-09
+- last_successful_scan: 2026-10-10T06:00:00+08:00
 
 ## ModelScope Qwen
 
@@ -187,9 +187,9 @@
 
 ## Hugging Face Official Blog
 
-- last_seen_item: Multimodal open d1 decision models for the edge
-- last_seen_publish_time: 2026-10-07
-- last_successful_scan: 2026-10-09T01:10:00+08:00
+- last_seen_item: Impactful scheduling for GPU clusters
+- last_seen_publish_time: 2026-10-09
+- last_successful_scan: 2026-10-10T06:00:00+08:00
 
 ## LLVM Blog
 
@@ -223,9 +223,9 @@
 
 ## PyTorch
 
-- last_seen_item: Building Spyre as a Native PyTorch Device
+- last_seen_item: Session-Aware Agentic Inference with NVIDIA Dynamo
 - last_seen_publish_time: 2026-10-08
-- last_successful_scan: 2026-10-09T01:08:00+08:00
+- last_successful_scan: 2026-10-10T06:00:00+08:00
 
 ## Triton
 
@@ -297,7 +297,7 @@
 
 # Codex Usage Monitor State
 
-- last_successful_scan: 2026-10-09T01:08:00+08:00
+- last_successful_scan: 2026-10-10T06:00:00+08:00
 - last_seen_announcement: OpenAI Pro plans update — Pro 500 highest included usage and Astra Ultrafast; new non-grandfathered Pro 200 subscriptions have lower included usage, existing eligible Pro 200 allowance retained through 2026-10-29
 - last_seen_publish_time: 2026-09-30
 - last_alerted_announcement: OpenAI Pro plans update — Pro 500 highest included usage and Astra Ultrafast; new non-grandfathered Pro 200 subscriptions have lower included usage, existing eligible Pro 200 allowance retained through 2026-10-29
@@ -490,12 +490,12 @@
 
 ## 2609.04971
 
-- title: BeaconKV: Training-Free KV Cache Compression via Representative Beacon Queries
+- title: BeaconKV: Key-Value Cache Compression Guided by Beacon Queries for Efficient Large Reasoning Model Inference
 - url: https://arxiv.org/abs/2609.04971
 - direction: LLM Serving / KV cache / 长上下文推理
 - first_seen: 2026-09-10
-- last_review: 2026-10-02
-- next_review: 2026-10-09
+- last_review: 2026-10-10
+- next_review: 2026-10-17
 - status: active
 - quality: B
 - maturity: M1
@@ -763,8 +763,8 @@
 - url: https://arxiv.org/abs/2609.13134
 - direction: LLM Serving / Heterogeneous Systems / Subquadratic Attention
 - first_seen: 2026-09-15
-- last_review: 2026-10-03
-- next_review: 2026-10-10
+- last_review: 2026-10-10
+- next_review: 2026-10-17
 - status: active
 - quality: B
 - maturity: M0
@@ -793,8 +793,8 @@
 - url: https://arxiv.org/abs/2609.12471
 - direction: AMD GPU / HIP / Triton / Kernel Agent / Training Data
 - first_seen: 2026-09-15
-- last_review: 2026-10-03
-- next_review: 2026-10-10
+- last_review: 2026-10-10
+- next_review: 2026-10-17
 - status: active
 - quality: B
 - maturity: M1
@@ -825,8 +825,8 @@
 - url: https://arxiv.org/abs/2609.12742
 - direction: Coding Agent / Repository Knowledge / SKILL Optimization / Evaluation
 - first_seen: 2026-09-15
-- last_review: 2026-10-03
-- next_review: 2026-10-10
+- last_review: 2026-10-10
+- next_review: 2026-10-17
 - status: active
 - quality: B
 - maturity: M0
@@ -1457,13 +1457,13 @@
 - url: https://github.com/JustVugg/colibri
 - direction: LLM Inference / MoE / Memory Hierarchy / Storage Streaming
 - first_seen: 2026-09-15
-- last_review: 2026-10-02
-- next_review: 2026-10-09
+- last_review: 2026-10-10
+- next_review: 2026-10-17
 - status: active
 - quality: B
 - personal_value: high
-- last_release: v1.12.1（2026-09-24），官方 release 已核验
-- last_commit_or_major_delta: v1.12.1 修复 Qwen/OLMoE tokenizer parity，加入实测设备放置回退与整型 GEMV
+- last_release: v2.0.0（2026-10-06）
+- last_commit_or_major_delta: v2.0.0：所有 MoE 引擎增加 Vulkan 专家层和部分 dense 层设备链；最多 16 个会话槽。发布说明只在双开 Lavapipe 下验证双 GPU dense 链，真实双卡吞吐未测。
 - main_evidence:
   - v1.12.1 官方发布说明给出 Qwen 757/2803→2803/2803、OLMoE 1560/1708→1708/1708 的 tokenizer 对齐结果；Tesla M10 放置回退和特定 Qwen3.8 解码测试仍属作者自测。
   - 纯 C 推理引擎把 VRAM、RAM 和 NVMe 作为统一层级，按 MoE 路由结果调度专家权重，并覆盖九类模型架构。
@@ -1551,8 +1551,8 @@
 - url: https://github.com/facebookresearch/ads_model_kernel_library
 - direction: GPU Kernel / Blackwell / MXFP8 FlashAttention / 训练系统
 - first_seen: 2026-09-18
-- last_review: 2026-10-03
-- next_review: 2026-10-10
+- last_review: 2026-10-10
+- next_review: 2026-10-17
 - status: active
 - quality: A
 - personal_value: high
@@ -1583,8 +1583,8 @@
 - url: https://github.com/NVIDIA/TensorRT-Edge-LLM
 - direction: Edge LLM Serving / Jetson / Agentic Benchmark
 - first_seen: 2026-09-18
-- last_review: 2026-10-02
-- next_review: 2026-10-09
+- last_review: 2026-10-10
+- next_review: 2026-10-17
 - status: active
 - quality: B
 - personal_value: high
@@ -1809,13 +1809,13 @@
 - url: https://github.com/NVIDIA/NeMo-Relay
 - direction: Agent / 执行运行时 / 可观测性 / 策略中间件
 - first_seen: 2026-10-01
-- last_review: 2026-10-03
-- next_review: 2026-10-10
+- last_review: 2026-10-10
+- next_review: 2026-10-17
 - status: active
 - quality: A
 - personal_value: high
-- last_release: v0.10.0-beta.1（2026-10-02）
-- last_commit_or_major_delta: 2026-10-02 beta release 增加 W3C trace context、OTLP 元数据、动态插件与压缩缓存；存在跟踪语义破坏性变更
+- last_release: v0.10.0（2026-10-08）
+- last_commit_or_major_delta: v0.10.0 从 beta 转为稳定版，增加跨平台资源指标插件和正式发布资产；未见足以单独成篇的独立评测。
 - main_evidence:
   - 共用 run/turn/tool/LLM/subagent scope、middleware 与事件流，导出 ATOF、ATIF、OpenTelemetry。
   - README 给出 Codex/Claude Code 包装、真实产物验证与缺失 LLM span/ATIF 的诊断条件。
@@ -1841,8 +1841,8 @@
 - url: https://github.com/allenai/Olmo-core
 - direction: MoE 训练 / 分布式系统 / GPU 并行
 - first_seen: 2026-10-02
-- last_review: 2026-10-03
-- next_review: 2026-10-10
+- last_review: 2026-10-10
+- next_review: 2026-10-17
 - status: active
 - quality: A
 - personal_value: high
@@ -1872,8 +1872,8 @@
 - url: https://github.com/ggml-org/llama.cpp
 - direction: 推理运行时 / 决策模型 / Agent 路由
 - first_seen: 2026-10-03
-- last_review: 2026-10-03
-- next_review: 2026-10-10
+- last_review: 2026-10-10
+- next_review: 2026-10-17
 - status: active
 - quality: B
 - personal_value: high
