@@ -16,6 +16,7 @@
 
 - [2026-08](2026/08.md)
 - [2026-09](2026/09.md)
+- [2026-10](2026/10.md)
 
 ## Topic Notes
 
@@ -26,11 +27,14 @@
 - [EDA](topics/eda.md)
 - [Control-Flow Integrity](topics/control-flow-integrity.md)
 - [LLM Systems](topics/llm-systems.md)
+- [Rust Lifetimes](topics/rust-lifetimes.md)
 
 ## Learning Plans
 
 - [学习专题目录与组织约定](learning-plans/README.md)
 - [MLIR：从零开始的学习计划、独立提示词与练习](learning-plans/mlir/README.md)
+- [Rust 生命周期：1–2 小时入门与练习](learning-plans/rust-lifetimes/README.md)
+- [C++ Proxy：使用现状、运行时多态、所有权与实现原理](learning-plans/cpp-proxy/README.md)
 
 ## Recording Rule
 

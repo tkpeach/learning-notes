@@ -1,0 +1,1280 @@
+{
+  "checked_date": "2026-10-14",
+  "method": "Purposive merged-PR sample; new LLVM contributor does not prove beginner compiler knowledge; no acceptance-rate inference.",
+  "samples": [
+    {
+      "pr": 225886,
+      "title": "[SelectionDAG] Fix result index and vector width in unrollExpandedOp",
+      "author": "agourakis82",
+      "createdUTC": "2026-09-23T18:42:14Z",
+      "mergedUTC": "2026-09-25T22:53:07Z",
+      "url": "https://github.com/llvm/llvm-project/pull/225886",
+      "issue": 224127,
+      "issue_url": "https://github.com/llvm/llvm-project/issues/224127",
+      "issue_author": "anun333",
+      "issue_current_labels": [
+        "confirmed",
+        "crash-on-valid",
+        "llvm:SelectionDAG"
+      ],
+      "visible_label_additions": [
+        [
+          "2026-09-16T20:11:05Z",
+          "new issue"
+        ],
+        [
+          "2026-09-16T20:16:33Z",
+          "confirmed"
+        ],
+        [
+          "2026-09-16T20:16:33Z",
+          "crash-on-valid"
+        ],
+        [
+          "2026-09-16T21:35:54Z",
+          "backend:X86"
+        ],
+        [
+          "2026-09-16T21:35:54Z",
+          "llvm:SelectionDAG"
+        ]
+      ],
+      "issue_comment_total": 4,
+      "files": [
+        {
+          "filename": "llvm/lib/CodeGen/SelectionDAG/LegalizeVectorTypes.cpp",
+          "additions": 8,
+          "deletions": 5
+        },
+        {
+          "filename": "llvm/test/CodeGen/X86/llvm.frexp.ll",
+          "additions": 129,
+          "deletions": 15
+        }
+      ],
+      "reviews": [
+        {
+          "author": "arsenm",
+          "state": "COMMENTED",
+          "submittedUTC": "2026-09-23T19:49:47Z",
+          "body": "LGTM but can you simplify the long commit message ",
+          "url": "https://github.com/llvm/llvm-project/pull/225886#pullrequestreview-5296003274"
+        },
+        {
+          "author": "topperc",
+          "state": "COMMENTED",
+          "submittedUTC": "2026-09-24T04:21:01Z",
+          "body": "",
+          "url": "https://github.com/llvm/llvm-project/pull/225886#pullrequestreview-5299784347"
+        },
+        {
+          "author": "arsenm",
+          "state": "COMMENTED",
+          "submittedUTC": "2026-09-24T13:28:25Z",
+          "body": "",
+          "url": "https://github.com/llvm/llvm-project/pull/225886#pullrequestreview-5305081271"
+        },
+        {
+          "author": "topperc",
+          "state": "APPROVED",
+          "submittedUTC": "2026-09-24T17:29:31Z",
+          "body": "LGTM",
+          "url": "https://github.com/llvm/llvm-project/pull/225886#pullrequestreview-5307888081"
+        }
+      ],
+      "self_claims": [
+        {
+          "author": "agourakis82",
+          "createdUTC": "2026-09-23T19:53:03Z",
+          "body": "Sorry!!! First time contributing",
+          "url": "https://github.com/llvm/llvm-project/pull/225886#issuecomment-5801888961"
+        }
+      ],
+      "author_search_first_PRs": {
+        "author": "agourakis82",
+        "query": "repo:llvm/llvm-project is:pr author:agourakis82",
+        "total": 11,
+        "items": [
+          {
+            "number": 225250,
+            "title": "[mlir][affine] Block producer-consumer fusion across opaque memref effects",
+            "created_at": "2026-09-22T01:30:57Z",
+            "state": "open",
+            "url": "https://github.com/llvm/llvm-project/pull/225250",
+            "pr": {
+              "url": "https://api.github.com/repos/llvm/llvm-project/pulls/225250",
+              "html_url": "https://github.com/llvm/llvm-project/pull/225250",
+              "diff_url": "https://github.com/llvm/llvm-project/pull/225250.diff",
+              "patch_url": "https://github.com/llvm/llvm-project/pull/225250.patch",
+              "merged_at": null
+            }
+          },
+          {
+            "number": 225262,
+            "title": "[X86] Clear regcall arg aliases in dynamic CSR masks",
+            "created_at": "2026-09-22T01:45:06Z",
+            "state": "open",
+            "url": "https://github.com/llvm/llvm-project/pull/225262",
+            "pr": {
+              "url": "https://api.github.com/repos/llvm/llvm-project/pulls/225262",
+              "html_url": "https://github.com/llvm/llvm-project/pull/225262",
+              "diff_url": "https://github.com/llvm/llvm-project/pull/225262.diff",
+              "patch_url": "https://github.com/llvm/llvm-project/pull/225262.patch",
+              "merged_at": null
+            }
+          },
+          {
+            "number": 225263,
+            "title": "[X86] Refuse machine outlining under Windows CFI",
+            "created_at": "2026-09-22T01:54:15Z",
+            "state": "open",
+            "url": "https://github.com/llvm/llvm-project/pull/225263",
+            "pr": {
+              "url": "https://api.github.com/repos/llvm/llvm-project/pulls/225263",
+              "html_url": "https://github.com/llvm/llvm-project/pull/225263",
+              "diff_url": "https://github.com/llvm/llvm-project/pull/225263.diff",
+              "patch_url": "https://github.com/llvm/llvm-project/pull/225263.patch",
+              "merged_at": null
+            }
+          },
+          {
+            "number": 225264,
+            "title": "[X86][GlobalISel] Narrow i64 G_PHI on 32-bit targets",
+            "created_at": "2026-09-22T02:03:10Z",
+            "state": "open",
+            "url": "https://github.com/llvm/llvm-project/pull/225264",
+            "pr": {
+              "url": "https://api.github.com/repos/llvm/llvm-project/pulls/225264",
+              "html_url": "https://github.com/llvm/llvm-project/pull/225264",
+              "diff_url": "https://github.com/llvm/llvm-project/pull/225264.diff",
+              "patch_url": "https://github.com/llvm/llvm-project/pull/225264.patch",
+              "merged_at": null
+            }
+          },
+          {
+            "number": 225265,
+            "title": "[X86][GlobalISel] Legalize byte-lane G_MUL without scalarization crash",
+            "created_at": "2026-09-22T02:16:32Z",
+            "state": "open",
+            "url": "https://github.com/llvm/llvm-project/pull/225265",
+            "pr": {
+              "url": "https://api.github.com/repos/llvm/llvm-project/pulls/225265",
+              "html_url": "https://github.com/llvm/llvm-project/pull/225265",
+              "diff_url": "https://github.com/llvm/llvm-project/pull/225265.diff",
+              "patch_url": "https://github.com/llvm/llvm-project/pull/225265.patch",
+              "merged_at": null
+            }
+          },
+          {
+            "number": 225515,
+            "title": "[clang] Stop claiming __builtin_assume_separate_storage is constexpr",
+            "created_at": "2026-09-22T20:30:56Z",
+            "state": "open",
+            "url": "https://github.com/llvm/llvm-project/pull/225515",
+            "pr": {
+              "url": "https://api.github.com/repos/llvm/llvm-project/pulls/225515",
+              "html_url": "https://github.com/llvm/llvm-project/pull/225515",
+              "diff_url": "https://github.com/llvm/llvm-project/pull/225515.diff",
+              "patch_url": "https://github.com/llvm/llvm-project/pull/225515.patch",
+              "merged_at": null
+            }
+          },
+          {
+            "number": 225769,
+            "title": "[MC] Flush PendingErrors on early return in MCAssembler::layout()",
+            "created_at": "2026-09-23T13:41:40Z",
+            "state": "closed",
+            "url": "https://github.com/llvm/llvm-project/pull/225769",
+            "pr": {
+              "url": "https://api.github.com/repos/llvm/llvm-project/pulls/225769",
+              "html_url": "https://github.com/llvm/llvm-project/pull/225769",
+              "diff_url": "https://github.com/llvm/llvm-project/pull/225769.diff",
+              "patch_url": "https://github.com/llvm/llvm-project/pull/225769.patch",
+              "merged_at": null
+            }
+          },
+          {
+            "number": 225826,
+            "title": "[X86] Drop instruction prefetch with unsupported operands in LowerPREFETCH",
+            "created_at": "2026-09-23T16:00:49Z",
+            "state": "open",
+            "url": "https://github.com/llvm/llvm-project/pull/225826",
+            "pr": {
+              "url": "https://api.github.com/repos/llvm/llvm-project/pulls/225826",
+              "html_url": "https://github.com/llvm/llvm-project/pull/225826",
+              "diff_url": "https://github.com/llvm/llvm-project/pull/225826.diff",
+              "patch_url": "https://github.com/llvm/llvm-project/pull/225826.patch",
+              "merged_at": null
+            }
+          },
+          {
+            "number": 225886,
+            "title": "[SelectionDAG] Fix result index and vector width in unrollExpandedOp",
+            "created_at": "2026-09-23T18:42:14Z",
+            "state": "closed",
+            "url": "https://github.com/llvm/llvm-project/pull/225886",
+            "pr": {
+              "url": "https://api.github.com/repos/llvm/llvm-project/pulls/225886",
+              "html_url": "https://github.com/llvm/llvm-project/pull/225886",
+              "diff_url": "https://github.com/llvm/llvm-project/pull/225886.diff",
+              "patch_url": "https://github.com/llvm/llvm-project/pull/225886.patch",
+              "merged_at": "2026-09-25T22:53:07Z"
+            }
+          },
+          {
+            "number": 225994,
+            "title": "[X86] Ignore debug-only blocks in LVI gadget graph traversal",
+            "created_at": "2026-09-24T01:54:39Z",
+            "state": "closed",
+            "url": "https://github.com/llvm/llvm-project/pull/225994",
+            "pr": {
+              "url": "https://api.github.com/repos/llvm/llvm-project/pulls/225994",
+              "html_url": "https://github.com/llvm/llvm-project/pull/225994",
+              "diff_url": "https://github.com/llvm/llvm-project/pull/225994.diff",
+              "patch_url": "https://github.com/llvm/llvm-project/pull/225994.patch",
+              "merged_at": null
+            }
+          }
+        ]
+      }
+    },
+    {
+      "pr": 228839,
+      "title": "[DAGCombiner] Don't fold GET_FPENV_MEM into a store whose address depends on it",
+      "author": "waroad",
+      "createdUTC": "2026-10-04T06:59:56Z",
+      "mergedUTC": "2026-10-05T16:13:33Z",
+      "url": "https://github.com/llvm/llvm-project/pull/228839",
+      "issue": 228828,
+      "issue_url": "https://github.com/llvm/llvm-project/issues/228828",
+      "issue_author": "waroad",
+      "issue_current_labels": [
+        "confirmed",
+        "crash-on-valid",
+        "generated by fuzzer",
+        "llvm:SelectionDAG",
+        "regression:21"
+      ],
+      "visible_label_additions": [
+        [
+          "2026-10-04T05:53:07Z",
+          "new issue"
+        ],
+        [
+          "2026-10-04T06:28:33Z",
+          "confirmed"
+        ],
+        [
+          "2026-10-04T06:28:33Z",
+          "crash-on-valid"
+        ],
+        [
+          "2026-10-04T06:39:04Z",
+          "regression:21"
+        ],
+        [
+          "2026-10-04T07:00:04Z",
+          "generated by fuzzer"
+        ],
+        [
+          "2026-10-04T07:00:10Z",
+          "backend:X86"
+        ],
+        [
+          "2026-10-04T07:00:35Z",
+          "llvm:SelectionDAG"
+        ]
+      ],
+      "issue_comment_total": 1,
+      "files": [
+        {
+          "filename": "llvm/lib/CodeGen/SelectionDAG/DAGCombiner.cpp",
+          "additions": 6,
+          "deletions": 0
+        },
+        {
+          "filename": "llvm/test/CodeGen/X86/fpenv.ll",
+          "additions": 100,
+          "deletions": 0
+        }
+      ],
+      "reviews": [
+        {
+          "author": "RKSimon",
+          "state": "APPROVED",
+          "submittedUTC": "2026-10-05T13:57:33Z",
+          "body": "LGTM",
+          "url": "https://github.com/llvm/llvm-project/pull/228839#pullrequestreview-5415618160"
+        }
+      ],
+      "self_claims": [],
+      "author_search_first_PRs": {
+        "author": "waroad",
+        "query": "repo:llvm/llvm-project is:pr author:waroad",
+        "total": 5,
+        "items": [
+          {
+            "number": 228839,
+            "title": "[DAGCombiner] Don't fold GET_FPENV_MEM into a store whose address depends on it",
+            "created_at": "2026-10-04T06:59:56Z",
+            "state": "closed",
+            "url": "https://github.com/llvm/llvm-project/pull/228839",
+            "pr": {
+              "url": "https://api.github.com/repos/llvm/llvm-project/pulls/228839",
+              "html_url": "https://github.com/llvm/llvm-project/pull/228839",
+              "diff_url": "https://github.com/llvm/llvm-project/pull/228839.diff",
+              "patch_url": "https://github.com/llvm/llvm-project/pull/228839.patch",
+              "merged_at": "2026-10-05T16:13:33Z"
+            }
+          },
+          {
+            "number": 228840,
+            "title": "[X86] Don't treat vectors with elements wider than 64 bits as immediate-shiftable",
+            "created_at": "2026-10-04T07:00:03Z",
+            "state": "closed",
+            "url": "https://github.com/llvm/llvm-project/pull/228840",
+            "pr": {
+              "url": "https://api.github.com/repos/llvm/llvm-project/pulls/228840",
+              "html_url": "https://github.com/llvm/llvm-project/pull/228840",
+              "diff_url": "https://github.com/llvm/llvm-project/pull/228840.diff",
+              "patch_url": "https://github.com/llvm/llvm-project/pull/228840.patch",
+              "merged_at": "2026-10-08T09:23:37Z"
+            }
+          },
+          {
+            "number": 228841,
+            "title": "[X86] Report an error for FP environment accesses that are not 256 bits",
+            "created_at": "2026-10-04T07:00:06Z",
+            "state": "open",
+            "url": "https://github.com/llvm/llvm-project/pull/228841",
+            "pr": {
+              "url": "https://api.github.com/repos/llvm/llvm-project/pulls/228841",
+              "html_url": "https://github.com/llvm/llvm-project/pull/228841",
+              "diff_url": "https://github.com/llvm/llvm-project/pull/228841.diff",
+              "patch_url": "https://github.com/llvm/llvm-project/pull/228841.patch",
+              "merged_at": null
+            }
+          },
+          {
+            "number": 228921,
+            "title": "[X86] Fix bool vector extension for non-power-of-2 sizes",
+            "created_at": "2026-10-04T17:14:28Z",
+            "state": "open",
+            "url": "https://github.com/llvm/llvm-project/pull/228921",
+            "pr": {
+              "url": "https://api.github.com/repos/llvm/llvm-project/pulls/228921",
+              "html_url": "https://github.com/llvm/llvm-project/pull/228921",
+              "diff_url": "https://github.com/llvm/llvm-project/pull/228921.diff",
+              "patch_url": "https://github.com/llvm/llvm-project/pull/228921.patch",
+              "merged_at": null
+            }
+          },
+          {
+            "number": 230564,
+            "title": "[SelectionDAG] Expand wide UREM by constant when there is no libcall",
+            "created_at": "2026-10-09T15:50:25Z",
+            "state": "open",
+            "url": "https://github.com/llvm/llvm-project/pull/230564",
+            "pr": {
+              "url": "https://api.github.com/repos/llvm/llvm-project/pulls/230564",
+              "html_url": "https://github.com/llvm/llvm-project/pull/230564",
+              "diff_url": "https://github.com/llvm/llvm-project/pull/230564.diff",
+              "patch_url": "https://github.com/llvm/llvm-project/pull/230564.patch",
+              "merged_at": null
+            }
+          }
+        ]
+      }
+    },
+    {
+      "pr": 220743,
+      "title": "[DAGCombiner] Only fold shift+mask compare to rotate if the shift amount divides the bit width",
+      "author": "kodlan",
+      "createdUTC": "2026-09-02T21:48:01Z",
+      "mergedUTC": "2026-09-13T12:02:35Z",
+      "url": "https://github.com/llvm/llvm-project/pull/220743",
+      "issue": 220542,
+      "issue_url": "https://github.com/llvm/llvm-project/issues/220542",
+      "issue_author": "sjg-388",
+      "issue_current_labels": [
+        "backend:X86",
+        "confirmed",
+        "llvm:SelectionDAG",
+        "miscompilation"
+      ],
+      "visible_label_additions": [
+        [
+          "2026-09-02T10:31:05Z",
+          "new issue"
+        ],
+        [
+          "2026-09-02T10:34:02Z",
+          "backend:X86"
+        ],
+        [
+          "2026-09-02T10:34:02Z",
+          "miscompilation"
+        ],
+        [
+          "2026-09-02T10:45:21Z",
+          "confirmed"
+        ],
+        [
+          "2026-09-13T14:57:26Z",
+          "llvm:SelectionDAG"
+        ]
+      ],
+      "issue_comment_total": 1,
+      "files": [
+        {
+          "filename": "llvm/include/llvm/CodeGen/TargetLowering.h",
+          "additions": 3,
+          "deletions": 3
+        },
+        {
+          "filename": "llvm/lib/CodeGen/SelectionDAG/DAGCombiner.cpp",
+          "additions": 7,
+          "deletions": 3
+        },
+        {
+          "filename": "llvm/lib/Target/X86/X86ISelLowering.cpp",
+          "additions": 3,
+          "deletions": 2
+        },
+        {
+          "filename": "llvm/test/CodeGen/X86/cmp-shiftX-maskX.ll",
+          "additions": 72,
+          "deletions": 0
+        }
+      ],
+      "reviews": [
+        {
+          "author": "topperc",
+          "state": "COMMENTED",
+          "submittedUTC": "2026-09-02T22:31:39Z",
+          "body": "",
+          "url": "https://github.com/llvm/llvm-project/pull/220743#pullrequestreview-5095830520"
+        },
+        {
+          "author": "RKSimon",
+          "state": "COMMENTED",
+          "submittedUTC": "2026-09-10T14:25:30Z",
+          "body": "@kodlan are you still looking at this?",
+          "url": "https://github.com/llvm/llvm-project/pull/220743#pullrequestreview-5168327031"
+        },
+        {
+          "author": "arsenm",
+          "state": "COMMENTED",
+          "submittedUTC": "2026-09-10T14:30:39Z",
+          "body": "",
+          "url": "https://github.com/llvm/llvm-project/pull/220743#pullrequestreview-5168399674"
+        },
+        {
+          "author": "RKSimon",
+          "state": "COMMENTED",
+          "submittedUTC": "2026-09-10T14:45:28Z",
+          "body": "",
+          "url": "https://github.com/llvm/llvm-project/pull/220743#pullrequestreview-5168567718"
+        },
+        {
+          "author": "kodlan",
+          "state": "COMMENTED",
+          "submittedUTC": "2026-09-11T09:42:17Z",
+          "body": "",
+          "url": "https://github.com/llvm/llvm-project/pull/220743#pullrequestreview-5177234379"
+        },
+        {
+          "author": "kodlan",
+          "state": "COMMENTED",
+          "submittedUTC": "2026-09-11T09:44:23Z",
+          "body": "",
+          "url": "https://github.com/llvm/llvm-project/pull/220743#pullrequestreview-5177253641"
+        },
+        {
+          "author": "kodlan",
+          "state": "COMMENTED",
+          "submittedUTC": "2026-09-11T11:43:47Z",
+          "body": "",
+          "url": "https://github.com/llvm/llvm-project/pull/220743#pullrequestreview-5178252131"
+        },
+        {
+          "author": "topperc",
+          "state": "APPROVED",
+          "submittedUTC": "2026-09-11T19:44:48Z",
+          "body": "LGTM",
+          "url": "https://github.com/llvm/llvm-project/pull/220743#pullrequestreview-5182804824"
+        }
+      ],
+      "self_claims": [],
+      "author_search_first_PRs": {
+        "author": "kodlan",
+        "query": "repo:llvm/llvm-project is:pr author:kodlan",
+        "total": 16,
+        "items": [
+          {
+            "number": 220056,
+            "title": "[PowerPC] Don't crash on prefetch hints the subtarget can't encode",
+            "created_at": "2026-08-31T18:59:28Z",
+            "state": "open",
+            "url": "https://github.com/llvm/llvm-project/pull/220056",
+            "pr": {
+              "url": "https://api.github.com/repos/llvm/llvm-project/pulls/220056",
+              "html_url": "https://github.com/llvm/llvm-project/pull/220056",
+              "diff_url": "https://github.com/llvm/llvm-project/pull/220056.diff",
+              "patch_url": "https://github.com/llvm/llvm-project/pull/220056.patch",
+              "merged_at": null
+            }
+          },
+          {
+            "number": 220110,
+            "title": "[Clang] Fix crash classifying a dependent call to a non-callable value",
+            "created_at": "2026-08-31T22:11:10Z",
+            "state": "open",
+            "url": "https://github.com/llvm/llvm-project/pull/220110",
+            "pr": {
+              "url": "https://api.github.com/repos/llvm/llvm-project/pulls/220110",
+              "html_url": "https://github.com/llvm/llvm-project/pull/220110",
+              "diff_url": "https://github.com/llvm/llvm-project/pull/220110.diff",
+              "patch_url": "https://github.com/llvm/llvm-project/pull/220110.patch",
+              "merged_at": null
+            }
+          },
+          {
+            "number": 220344,
+            "title": "[Clang] Honor pragma suppression at the instantiation point for availability warnings in system headers",
+            "created_at": "2026-09-01T19:26:31Z",
+            "state": "open",
+            "url": "https://github.com/llvm/llvm-project/pull/220344",
+            "pr": {
+              "url": "https://api.github.com/repos/llvm/llvm-project/pulls/220344",
+              "html_url": "https://github.com/llvm/llvm-project/pull/220344",
+              "diff_url": "https://github.com/llvm/llvm-project/pull/220344.diff",
+              "patch_url": "https://github.com/llvm/llvm-project/pull/220344.patch",
+              "merged_at": null
+            }
+          },
+          {
+            "number": 220743,
+            "title": "[DAGCombiner] Only fold shift+mask compare to rotate if the shift amount divides the bit width",
+            "created_at": "2026-09-02T21:48:01Z",
+            "state": "closed",
+            "url": "https://github.com/llvm/llvm-project/pull/220743",
+            "pr": {
+              "url": "https://api.github.com/repos/llvm/llvm-project/pulls/220743",
+              "html_url": "https://github.com/llvm/llvm-project/pull/220743",
+              "diff_url": "https://github.com/llvm/llvm-project/pull/220743.diff",
+              "patch_url": "https://github.com/llvm/llvm-project/pull/220743.patch",
+              "merged_at": "2026-09-13T12:02:35Z"
+            }
+          },
+          {
+            "number": 221018,
+            "title": "[InferAlignment] Do not use intrinsic align attributes as base pointer alignment",
+            "created_at": "2026-09-03T18:38:57Z",
+            "state": "closed",
+            "url": "https://github.com/llvm/llvm-project/pull/221018",
+            "pr": {
+              "url": "https://api.github.com/repos/llvm/llvm-project/pulls/221018",
+              "html_url": "https://github.com/llvm/llvm-project/pull/221018",
+              "diff_url": "https://github.com/llvm/llvm-project/pull/221018.diff",
+              "patch_url": "https://github.com/llvm/llvm-project/pull/221018.patch",
+              "merged_at": "2026-09-11T13:23:06Z"
+            }
+          },
+          {
+            "number": 221488,
+            "title": "[Clang] Complete the element type when list-initializing an array of unknown bound",
+            "created_at": "2026-09-05T19:48:57Z",
+            "state": "open",
+            "url": "https://github.com/llvm/llvm-project/pull/221488",
+            "pr": {
+              "url": "https://api.github.com/repos/llvm/llvm-project/pulls/221488",
+              "html_url": "https://github.com/llvm/llvm-project/pull/221488",
+              "diff_url": "https://github.com/llvm/llvm-project/pull/221488.diff",
+              "patch_url": "https://github.com/llvm/llvm-project/pull/221488.patch",
+              "merged_at": null
+            }
+          },
+          {
+            "number": 221816,
+            "title": "[Clang] Keep the immediate-invocation wrapper on a reused CXXTemporaryObjectExpr during instantiation",
+            "created_at": "2026-09-07T20:00:06Z",
+            "state": "open",
+            "url": "https://github.com/llvm/llvm-project/pull/221816",
+            "pr": {
+              "url": "https://api.github.com/repos/llvm/llvm-project/pulls/221816",
+              "html_url": "https://github.com/llvm/llvm-project/pull/221816",
+              "diff_url": "https://github.com/llvm/llvm-project/pull/221816.diff",
+              "patch_url": "https://github.com/llvm/llvm-project/pull/221816.patch",
+              "merged_at": null
+            }
+          },
+          {
+            "number": 221820,
+            "title": "[Clang] Add the vector element option to the past-the-end and null pointer constexpr notes",
+            "created_at": "2026-09-07T20:20:03Z",
+            "state": "open",
+            "url": "https://github.com/llvm/llvm-project/pull/221820",
+            "pr": {
+              "url": "https://api.github.com/repos/llvm/llvm-project/pulls/221820",
+              "html_url": "https://github.com/llvm/llvm-project/pull/221820",
+              "diff_url": "https://github.com/llvm/llvm-project/pull/221820.diff",
+              "patch_url": "https://github.com/llvm/llvm-project/pull/221820.patch",
+              "merged_at": null
+            }
+          },
+          {
+            "number": 222117,
+            "title": "[mlir][tensor] Fix element-count overflow assertion in reshape verifier",
+            "created_at": "2026-09-08T19:47:15Z",
+            "state": "open",
+            "url": "https://github.com/llvm/llvm-project/pull/222117",
+            "pr": {
+              "url": "https://api.github.com/repos/llvm/llvm-project/pulls/222117",
+              "html_url": "https://github.com/llvm/llvm-project/pull/222117",
+              "diff_url": "https://github.com/llvm/llvm-project/pull/222117.diff",
+              "patch_url": "https://github.com/llvm/llvm-project/pull/222117.patch",
+              "merged_at": null
+            }
+          },
+          {
+            "number": 222433,
+            "title": "[mlir][spirv] Fix assertion on non-signless integer memref memory spaces",
+            "created_at": "2026-09-09T19:25:10Z",
+            "state": "open",
+            "url": "https://github.com/llvm/llvm-project/pull/222433",
+            "pr": {
+              "url": "https://api.github.com/repos/llvm/llvm-project/pulls/222433",
+              "html_url": "https://github.com/llvm/llvm-project/pull/222433",
+              "diff_url": "https://github.com/llvm/llvm-project/pull/222433.diff",
+              "patch_url": "https://github.com/llvm/llvm-project/pull/222433.patch",
+              "merged_at": null
+            }
+          }
+        ]
+      }
+    },
+    {
+      "pr": 181482,
+      "title": "[Clang] Fix isWeakImported() to traverse redeclaration chain for avai…",
+      "author": "kevinlzh1108",
+      "createdUTC": "2026-02-14T14:42:25Z",
+      "mergedUTC": "2026-05-07T04:10:15Z",
+      "url": "https://github.com/llvm/llvm-project/pull/181482",
+      "issue": 181298,
+      "issue_url": "https://github.com/llvm/llvm-project/issues/181298",
+      "issue_author": "kevinlzh1108",
+      "issue_current_labels": [
+        "clang:modules",
+        "objective-c"
+      ],
+      "visible_label_additions": [
+        [
+          "2026-02-13T03:31:24Z",
+          "clang"
+        ],
+        [
+          "2026-02-13T04:49:12Z",
+          "clang:modules"
+        ],
+        [
+          "2026-04-08T13:38:11Z",
+          "objective-c"
+        ]
+      ],
+      "issue_comment_total": 4,
+      "files": [
+        {
+          "filename": "clang/lib/Serialization/ASTReaderDecl.cpp",
+          "additions": 6,
+          "deletions": 5
+        },
+        {
+          "filename": "clang/test/Modules/decl-attr-merge.mm",
+          "additions": 23,
+          "deletions": 5
+        }
+      ],
+      "reviews": [
+        {
+          "author": "localspook",
+          "state": "COMMENTED",
+          "submittedUTC": "2026-04-08T19:39:52Z",
+          "body": "Did you use AI to write the PR description and/or the code? If so, you need to disclose it: https://llvm.org/docs/AIToolPolicy.html\r\n\r\nPlease add \"Fixes #181298 \" to the PR message so github will autoclose that issue if this PR is merged (it isn't enough to just write \"Related to #181298\" in a separate comment)\r\n\r\nI've added some other people, since I'm not super qualified to review this area of the code. With that being said...\r\n\r\n",
+          "url": "https://github.com/llvm/llvm-project/pull/181482#pullrequestreview-4077762582"
+        },
+        {
+          "author": "ChuanqiXu9",
+          "state": "COMMENTED",
+          "submittedUTC": "2026-04-09T02:18:30Z",
+          "body": "Patch itself looks not bad at the first glance. But due to I don't use ObjC. Let me add apple people for apple things ",
+          "url": "https://github.com/llvm/llvm-project/pull/181482#pullrequestreview-4079352664"
+        },
+        {
+          "author": "kevinlzh1108",
+          "state": "COMMENTED",
+          "submittedUTC": "2026-04-13T12:16:23Z",
+          "body": "",
+          "url": "https://github.com/llvm/llvm-project/pull/181482#pullrequestreview-4098593413"
+        },
+        {
+          "author": "localspook",
+          "state": "COMMENTED",
+          "submittedUTC": "2026-04-13T20:47:40Z",
+          "body": "",
+          "url": "https://github.com/llvm/llvm-project/pull/181482#pullrequestreview-4101846905"
+        },
+        {
+          "author": "vsapsai",
+          "state": "COMMENTED",
+          "submittedUTC": "2026-04-15T19:47:34Z",
+          "body": "",
+          "url": "https://github.com/llvm/llvm-project/pull/181482#pullrequestreview-4116382879"
+        },
+        {
+          "author": "kevinlzh1108",
+          "state": "COMMENTED",
+          "submittedUTC": "2026-04-17T08:01:02Z",
+          "body": "",
+          "url": "https://github.com/llvm/llvm-project/pull/181482#pullrequestreview-4127087488"
+        },
+        {
+          "author": "kevinlzh1108",
+          "state": "COMMENTED",
+          "submittedUTC": "2026-04-20T03:53:05Z",
+          "body": "",
+          "url": "https://github.com/llvm/llvm-project/pull/181482#pullrequestreview-4137154346"
+        },
+        {
+          "author": "vsapsai",
+          "state": "COMMENTED",
+          "submittedUTC": "2026-04-28T01:21:57Z",
+          "body": "",
+          "url": "https://github.com/llvm/llvm-project/pull/181482#pullrequestreview-4185183046"
+        },
+        {
+          "author": "kevinlzh1108",
+          "state": "COMMENTED",
+          "submittedUTC": "2026-04-29T02:18:34Z",
+          "body": "",
+          "url": "https://github.com/llvm/llvm-project/pull/181482#pullrequestreview-4193677524"
+        },
+        {
+          "author": "vsapsai",
+          "state": "COMMENTED",
+          "submittedUTC": "2026-04-30T19:52:40Z",
+          "body": "",
+          "url": "https://github.com/llvm/llvm-project/pull/181482#pullrequestreview-4208093228"
+        },
+        {
+          "author": "vsapsai",
+          "state": "COMMENTED",
+          "submittedUTC": "2026-05-01T16:45:12Z",
+          "body": "",
+          "url": "https://github.com/llvm/llvm-project/pull/181482#pullrequestreview-4212208681"
+        },
+        {
+          "author": "kevinlzh1108",
+          "state": "COMMENTED",
+          "submittedUTC": "2026-05-02T08:49:59Z",
+          "body": "",
+          "url": "https://github.com/llvm/llvm-project/pull/181482#pullrequestreview-4214761855"
+        },
+        {
+          "author": "kevinlzh1108",
+          "state": "COMMENTED",
+          "submittedUTC": "2026-05-02T08:52:42Z",
+          "body": "",
+          "url": "https://github.com/llvm/llvm-project/pull/181482#pullrequestreview-4214765985"
+        },
+        {
+          "author": "vsapsai",
+          "state": "COMMENTED",
+          "submittedUTC": "2026-05-04T19:38:43Z",
+          "body": "Looks good to me! There is a note about a comment and I think the commit message is ready to be updated for the final version (currently it reflects the review process).",
+          "url": "https://github.com/llvm/llvm-project/pull/181482#pullrequestreview-4222925745"
+        },
+        {
+          "author": "kevinlzh1108",
+          "state": "COMMENTED",
+          "submittedUTC": "2026-05-05T03:01:04Z",
+          "body": "",
+          "url": "https://github.com/llvm/llvm-project/pull/181482#pullrequestreview-4225016294"
+        },
+        {
+          "author": "vsapsai",
+          "state": "APPROVED",
+          "submittedUTC": "2026-05-06T05:31:14Z",
+          "body": "",
+          "url": "https://github.com/llvm/llvm-project/pull/181482#pullrequestreview-4233442615"
+        }
+      ],
+      "self_claims": [
+        {
+          "author": "kevinlzh1108",
+          "createdUTC": "2026-05-06T07:34:46Z",
+          "body": "Hi @vsapsai , sorry for the disturbance.I'm new to LLVM, is there anything else needed before this can be merged? Does it need additional approvals?",
+          "url": "https://github.com/llvm/llvm-project/pull/181482#issuecomment-4385979596"
+        },
+        {
+          "author": "kevinlzh1108",
+          "createdUTC": "2026-05-07T02:24:39Z",
+          "body": "> > Hi @vsapsai , sorry for the disturbance.I'm new to LLVM, is there anything else needed before this can be merged? Does it need additional approvals?\r\n> \r\n> In general you might need to wait more if there are ongoing requests from other reviewers or if the change is controversial. Or if an approver's knowledge in the area isn't sufficient to merge the change.\r\n> \r\n> In this case I believe my approval is sufficient. It's great you've asked for clarification about the merging norms! Can you please disable \"Keep my email addresses private\" setting in GitHub profile per https://llvm.org/docs/DeveloperPolicy.html#email-addresses ? After I merge the PR you can enable it again.\r\n\r\n  Done. I've disabled \"Keep my email addresses private\" in my GitHub settings.",
+          "url": "https://github.com/llvm/llvm-project/pull/181482#issuecomment-4393739275"
+        }
+      ],
+      "author_search_first_PRs": null
+    },
+    {
+      "pr": 228100,
+      "title": "[AArch64][GlobalISel] Ignore debug uses in mul-constant combine",
+      "author": "GopinathBalaji",
+      "createdUTC": "2026-10-01T15:01:52Z",
+      "mergedUTC": "2026-10-12T15:24:57Z",
+      "url": "https://github.com/llvm/llvm-project/pull/228100",
+      "issue": 227648,
+      "issue_url": "https://github.com/llvm/llvm-project/issues/227648",
+      "issue_author": "yqtian-se",
+      "issue_current_labels": [
+        "backend:AArch64",
+        "debuginfo",
+        "good first issue",
+        "llvm:globalisel"
+      ],
+      "visible_label_additions": [
+        [
+          "2026-09-30T10:28:43Z",
+          "new issue"
+        ],
+        [
+          "2026-09-30T10:58:17Z",
+          "backend:AArch64"
+        ],
+        [
+          "2026-09-30T10:58:17Z",
+          "debuginfo"
+        ],
+        [
+          "2026-09-30T10:58:17Z",
+          "llvm:globalisel"
+        ],
+        [
+          "2026-09-30T11:02:11Z",
+          "good first issue"
+        ]
+      ],
+      "issue_comment_total": 6,
+      "files": [
+        {
+          "filename": "llvm/lib/Target/AArch64/GISel/AArch64PostLegalizerCombiner.cpp",
+          "additions": 1,
+          "deletions": 1
+        },
+        {
+          "filename": "llvm/test/CodeGen/AArch64/GlobalISel/postlegalizercombiner-mulpow2.mir",
+          "additions": 4,
+          "deletions": 1
+        }
+      ],
+      "reviews": [
+        {
+          "author": "HelloWorldU",
+          "state": "COMMENTED",
+          "submittedUTC": "2026-10-01T16:21:24Z",
+          "body": "LGTM, verified locally.",
+          "url": "https://github.com/llvm/llvm-project/pull/228100#pullrequestreview-5382258453"
+        },
+        {
+          "author": "davemgreen",
+          "state": "COMMENTED",
+          "submittedUTC": "2026-10-01T16:28:57Z",
+          "body": "",
+          "url": "https://github.com/llvm/llvm-project/pull/228100#pullrequestreview-5382334960"
+        },
+        {
+          "author": "arsenm",
+          "state": "COMMENTED",
+          "submittedUTC": "2026-10-01T16:37:33Z",
+          "body": "",
+          "url": "https://github.com/llvm/llvm-project/pull/228100#pullrequestreview-5382443807"
+        },
+        {
+          "author": "davemgreen",
+          "state": "COMMENTED",
+          "submittedUTC": "2026-10-12T09:37:49Z",
+          "body": "",
+          "url": "https://github.com/llvm/llvm-project/pull/228100#pullrequestreview-5488784219"
+        },
+        {
+          "author": "GopinathBalaji",
+          "state": "COMMENTED",
+          "submittedUTC": "2026-10-12T13:35:08Z",
+          "body": "",
+          "url": "https://github.com/llvm/llvm-project/pull/228100#pullrequestreview-5491539816"
+        },
+        {
+          "author": "davemgreen",
+          "state": "APPROVED",
+          "submittedUTC": "2026-10-12T14:40:50Z",
+          "body": "Thanks. LGTM",
+          "url": "https://github.com/llvm/llvm-project/pull/228100#pullrequestreview-5492299505"
+        },
+        {
+          "author": "HelloWorldU",
+          "state": "COMMENTED",
+          "submittedUTC": "2026-10-12T14:51:06Z",
+          "body": "",
+          "url": "https://github.com/llvm/llvm-project/pull/228100#pullrequestreview-5492407135"
+        }
+      ],
+      "self_claims": [],
+      "author_search_first_PRs": null
+    },
+    {
+      "pr": 218019,
+      "title": "[SelectionDAG] Avoid irregular INSERT_SUBVECTOR when widening CTTZ_ELTS",
+      "author": "Opriego",
+      "createdUTC": "2026-08-21T20:08:12Z",
+      "mergedUTC": "2026-08-26T10:27:28Z",
+      "url": "https://github.com/llvm/llvm-project/pull/218019",
+      "issue": 217985,
+      "issue_url": "https://github.com/llvm/llvm-project/issues/217985",
+      "issue_author": "Opriego",
+      "issue_current_labels": [
+        "confirmed",
+        "crash-on-valid",
+        "llvm:SelectionDAG"
+      ],
+      "visible_label_additions": [
+        [
+          "2026-08-21T17:25:35Z",
+          "crash-on-valid"
+        ],
+        [
+          "2026-08-21T17:25:35Z",
+          "llvm:SelectionDAG"
+        ],
+        [
+          "2026-08-21T17:31:05Z",
+          "confirmed"
+        ],
+        [
+          "2026-08-21T18:06:21Z",
+          "regression:23"
+        ]
+      ],
+      "issue_comment_total": 3,
+      "files": [
+        {
+          "filename": "llvm/lib/CodeGen/SelectionDAG/LegalizeVectorTypes.cpp",
+          "additions": 14,
+          "deletions": 3
+        },
+        {
+          "filename": "llvm/test/CodeGen/X86/intrinsic-cttz-elts.ll",
+          "additions": 67,
+          "deletions": 0
+        }
+      ],
+      "reviews": [
+        {
+          "author": "RKSimon",
+          "state": "COMMENTED",
+          "submittedUTC": "2026-08-22T11:57:40Z",
+          "body": "",
+          "url": "https://github.com/llvm/llvm-project/pull/218019#pullrequestreview-5000108278"
+        },
+        {
+          "author": "Opriego",
+          "state": "COMMENTED",
+          "submittedUTC": "2026-08-22T15:54:28Z",
+          "body": "",
+          "url": "https://github.com/llvm/llvm-project/pull/218019#pullrequestreview-5000513620"
+        },
+        {
+          "author": "Opriego",
+          "state": "COMMENTED",
+          "submittedUTC": "2026-08-22T15:55:28Z",
+          "body": "",
+          "url": "https://github.com/llvm/llvm-project/pull/218019#pullrequestreview-5000515234"
+        },
+        {
+          "author": "RKSimon",
+          "state": "CHANGES_REQUESTED",
+          "submittedUTC": "2026-08-25T15:13:46Z",
+          "body": "please can you fix the merge conflicts against trunk latest",
+          "url": "https://github.com/llvm/llvm-project/pull/218019#pullrequestreview-5020636081"
+        },
+        {
+          "author": "RKSimon",
+          "state": "COMMENTED",
+          "submittedUTC": "2026-08-25T16:28:32Z",
+          "body": "",
+          "url": "https://github.com/llvm/llvm-project/pull/218019#pullrequestreview-5021366150"
+        },
+        {
+          "author": "Opriego",
+          "state": "COMMENTED",
+          "submittedUTC": "2026-08-25T17:07:16Z",
+          "body": "",
+          "url": "https://github.com/llvm/llvm-project/pull/218019#pullrequestreview-5021739836"
+        },
+        {
+          "author": "RKSimon",
+          "state": "COMMENTED",
+          "submittedUTC": "2026-08-25T17:21:29Z",
+          "body": "",
+          "url": "https://github.com/llvm/llvm-project/pull/218019#pullrequestreview-5021865889"
+        },
+        {
+          "author": "Opriego",
+          "state": "COMMENTED",
+          "submittedUTC": "2026-08-25T17:47:30Z",
+          "body": "",
+          "url": "https://github.com/llvm/llvm-project/pull/218019#pullrequestreview-5022091011"
+        },
+        {
+          "author": "Opriego",
+          "state": "COMMENTED",
+          "submittedUTC": "2026-08-25T19:18:43Z",
+          "body": "",
+          "url": "https://github.com/llvm/llvm-project/pull/218019#pullrequestreview-5023009909"
+        },
+        {
+          "author": "RKSimon",
+          "state": "APPROVED",
+          "submittedUTC": "2026-08-26T09:39:45Z",
+          "body": "LGTM",
+          "url": "https://github.com/llvm/llvm-project/pull/218019#pullrequestreview-5028888590"
+        }
+      ],
+      "self_claims": [],
+      "author_search_first_PRs": {
+        "author": "Opriego",
+        "query": "repo:llvm/llvm-project is:pr author:Opriego",
+        "total": 18,
+        "items": [
+          {
+            "number": 216884,
+            "title": "[X86] X86CompressEVEX - Fold AVX-512 sign-mask compares to MOVMSK",
+            "created_at": "2026-08-18T00:03:42Z",
+            "state": "closed",
+            "url": "https://github.com/llvm/llvm-project/pull/216884",
+            "pr": {
+              "url": "https://api.github.com/repos/llvm/llvm-project/pulls/216884",
+              "html_url": "https://github.com/llvm/llvm-project/pull/216884",
+              "diff_url": "https://github.com/llvm/llvm-project/pull/216884.diff",
+              "patch_url": "https://github.com/llvm/llvm-project/pull/216884.patch",
+              "merged_at": "2026-09-08T07:25:43Z"
+            }
+          },
+          {
+            "number": 217420,
+            "title": "[X86] Fix NaN handling in minimumnum/maximumnum zero fixup",
+            "created_at": "2026-08-19T18:19:38Z",
+            "state": "closed",
+            "url": "https://github.com/llvm/llvm-project/pull/217420",
+            "pr": {
+              "url": "https://api.github.com/repos/llvm/llvm-project/pulls/217420",
+              "html_url": "https://github.com/llvm/llvm-project/pull/217420",
+              "diff_url": "https://github.com/llvm/llvm-project/pull/217420.diff",
+              "patch_url": "https://github.com/llvm/llvm-project/pull/217420.patch",
+              "merged_at": "2026-08-25T07:32:26Z"
+            }
+          },
+          {
+            "number": 217982,
+            "title": "[SelectionDAG] Preserve CTTZ_ELTS lane count during expansion",
+            "created_at": "2026-08-21T17:03:41Z",
+            "state": "closed",
+            "url": "https://github.com/llvm/llvm-project/pull/217982",
+            "pr": {
+              "url": "https://api.github.com/repos/llvm/llvm-project/pulls/217982",
+              "html_url": "https://github.com/llvm/llvm-project/pull/217982",
+              "diff_url": "https://github.com/llvm/llvm-project/pull/217982.diff",
+              "patch_url": "https://github.com/llvm/llvm-project/pull/217982.patch",
+              "merged_at": "2026-08-25T14:56:22Z"
+            }
+          },
+          {
+            "number": 218019,
+            "title": "[SelectionDAG] Avoid irregular INSERT_SUBVECTOR when widening CTTZ_ELTS",
+            "created_at": "2026-08-21T20:08:12Z",
+            "state": "closed",
+            "url": "https://github.com/llvm/llvm-project/pull/218019",
+            "pr": {
+              "url": "https://api.github.com/repos/llvm/llvm-project/pulls/218019",
+              "html_url": "https://github.com/llvm/llvm-project/pull/218019",
+              "diff_url": "https://github.com/llvm/llvm-project/pull/218019.diff",
+              "patch_url": "https://github.com/llvm/llvm-project/pull/218019.patch",
+              "merged_at": "2026-08-26T10:27:28Z"
+            }
+          },
+          {
+            "number": 218563,
+            "title": "[LoopVectorize] Clear stale CycleAnalysis after loop simplification",
+            "created_at": "2026-08-25T00:52:12Z",
+            "state": "closed",
+            "url": "https://github.com/llvm/llvm-project/pull/218563",
+            "pr": {
+              "url": "https://api.github.com/repos/llvm/llvm-project/pulls/218563",
+              "html_url": "https://github.com/llvm/llvm-project/pull/218563",
+              "diff_url": "https://github.com/llvm/llvm-project/pull/218563.diff",
+              "patch_url": "https://github.com/llvm/llvm-project/pull/218563.patch",
+              "merged_at": null
+            }
+          },
+          {
+            "number": 219116,
+            "title": "[VectorCombine] Check call targets when folding deinterleave/interleave pairs",
+            "created_at": "2026-08-27T05:32:19Z",
+            "state": "closed",
+            "url": "https://github.com/llvm/llvm-project/pull/219116",
+            "pr": {
+              "url": "https://api.github.com/repos/llvm/llvm-project/pulls/219116",
+              "html_url": "https://github.com/llvm/llvm-project/pull/219116",
+              "diff_url": "https://github.com/llvm/llvm-project/pull/219116.diff",
+              "patch_url": "https://github.com/llvm/llvm-project/pull/219116.patch",
+              "merged_at": "2026-09-03T15:44:15Z"
+            }
+          },
+          {
+            "number": 219350,
+            "title": "[LoongArch] Add LASX sext_invec pattern for v16i8 to v4i64",
+            "created_at": "2026-08-28T02:52:43Z",
+            "state": "closed",
+            "url": "https://github.com/llvm/llvm-project/pull/219350",
+            "pr": {
+              "url": "https://api.github.com/repos/llvm/llvm-project/pulls/219350",
+              "html_url": "https://github.com/llvm/llvm-project/pull/219350",
+              "diff_url": "https://github.com/llvm/llvm-project/pull/219350.diff",
+              "patch_url": "https://github.com/llvm/llvm-project/pull/219350.patch",
+              "merged_at": null
+            }
+          },
+          {
+            "number": 219662,
+            "title": "[SLPVectorizer] Avoid invalid perfect-diamond reuse for undef lanes",
+            "created_at": "2026-08-29T09:34:56Z",
+            "state": "closed",
+            "url": "https://github.com/llvm/llvm-project/pull/219662",
+            "pr": {
+              "url": "https://api.github.com/repos/llvm/llvm-project/pulls/219662",
+              "html_url": "https://github.com/llvm/llvm-project/pull/219662",
+              "diff_url": "https://github.com/llvm/llvm-project/pull/219662.diff",
+              "patch_url": "https://github.com/llvm/llvm-project/pull/219662.patch",
+              "merged_at": null
+            }
+          },
+          {
+            "number": 219779,
+            "title": "[ValueTracking] Compute known bits for llvm.stepvector",
+            "created_at": "2026-08-30T07:20:57Z",
+            "state": "closed",
+            "url": "https://github.com/llvm/llvm-project/pull/219779",
+            "pr": {
+              "url": "https://api.github.com/repos/llvm/llvm-project/pulls/219779",
+              "html_url": "https://github.com/llvm/llvm-project/pull/219779",
+              "diff_url": "https://github.com/llvm/llvm-project/pull/219779.diff",
+              "patch_url": "https://github.com/llvm/llvm-project/pull/219779.patch",
+              "merged_at": "2026-08-30T19:52:31Z"
+            }
+          },
+          {
+            "number": 219792,
+            "title": "[SelectionDAG] Recover callbr outputs from INLINEASM_BR defs",
+            "created_at": "2026-08-30T10:51:50Z",
+            "state": "open",
+            "url": "https://github.com/llvm/llvm-project/pull/219792",
+            "pr": {
+              "url": "https://api.github.com/repos/llvm/llvm-project/pulls/219792",
+              "html_url": "https://github.com/llvm/llvm-project/pull/219792",
+              "diff_url": "https://github.com/llvm/llvm-project/pull/219792.diff",
+              "patch_url": "https://github.com/llvm/llvm-project/pull/219792.patch",
+              "merged_at": null
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "candidate_issue_snapshot": [
+    {
+      "repo": "llvm/llvm-project",
+      "number": 231385,
+      "url": "https://github.com/llvm/llvm-project/issues/231385",
+      "state": "OPEN",
+      "title": "[SelectionDAG] memcmp/bcmp of 2^29+2 bytes is lowered to a 2-byte compare",
+      "comments": 0,
+      "assigned": {
+        "nodes": []
+      },
+      "linkedPR": {
+        "nodes": []
+      },
+      "closedBy": {
+        "nodes": []
+      },
+      "body": "### Reproducer\ngodbolt (C, with execution): https://godbolt.org/z/17WPWGz8Y\ngodbolt (IR, llc): https://godbolt.org/z/hhWhbfPra\n```c\n#include <stdio.h>\n#include <stdlib.h>\n#include <string.h>\n\n#define N ((1ul << 29) + 2)\n\nint main(void) {\n  unsigned char *g = calloc(N + 1, 1);\n  if (!g)\n    return 2;\n  g[3] = 7; /* g[0..1] == g[1..2] == {0,0}; g[2] (0) != g[3] (7) */\n  printf(\"%d\\n\", memcmp(g, g + 1, N) != 0);\n  free(g);\n  return 0;\n}\n```\n`clang -O2` prints `0`; `clang -O0` and GCC print `1`. The two compared ranges differ at offset 2 (`g[2] = 0`, `g[3] = 7`), so `memcmp(...) != 0` is 1. With `-O2` the call becomes `bcmp`, and codegen compares only the first two bytes (x86-64 shown; AArch64 emits the same two `ldrh` + `cmp`). `-O1` is affected too.\n```llvm\ntarget triple = \"x86_64-unknown-linux-gnu\"\n\ndeclare i32 @memcmp(ptr, ptr, i64)\n\n; 2^29 + 2 bytes: only the first 2 bytes are compared\ndefine i1 @test(ptr %p, ptr %q) {\n  %c = call i32 @memcmp(ptr %p, ptr %q, i64 536870914)\n  %ne = icmp ne i32 %c, 0\n  ret i1 %ne\n}\n\n; 2^29 + 1 bytes: libcall, as expected\ndefine i1 @clean(ptr %p, ptr %q) {\n  %c = call i32 @memcmp(ptr %p, ptr %q, i64 536870913)\n  %ne = icmp ne i32 %c, 0\n  ret i1 %ne\n}\n```\n```console\n$ llc -O2 -mtriple=x86_64-unknown-linux-gnu -x86-asm-syntax=intel repro.ll\ntest:\n        movzx   eax, word ptr [rdi]\n        cmp     ax, word ptr [rsi]\n        setne   al\n        ret\nclean:\n        ...\n        mov     edx, 536870913\n        call    memcmp@PLT\n```\n`SelectionDAGBuilder::visitMemCmpBCmpCall` computes the bit count in 32 bits:\n```cpp\nunsigned NumBitsToCompare = CSize->getZExtValue() * 8;\nswitch (NumBitsToCompare) {\ncase 16: LoadVT = MVT::i16; break;\ncase 32: LoadVT = MVT::i32; break;\n...\n```\nFor 536870914 = 2^29 + 2 bytes, the product truncates to 16, so the call is lowered to a single `i16` load-and-compare. Any constant size `n >= 2^29` with `n mod 2^29` in {2, 4} is affected on every target, and {8, 16, 32} wherever the target's `hasFastEqualityCompare` accepts that width (x86-64: 8 and 16 at baseline, 32 with AVX), starting at an ordinary 512 MiB size. The initial SelectionDAG already has the two `i16` loads, so this is the builder and not a DAG combine. The line came from f01a1dad7f36 (\"[x86] use VPMOVMSK to replace memcmp libcalls for 32-byte equality\", 2017), which replaced a switch on the byte count with a switch on this bit count. Switching on the byte count again (or using a `uint64_t` bit count) would fix it.\n\n#54786 is a similar `Len * 8` overflow in `optimizeMemCmpConstantSize` (SimplifyLibCalls.cpp, InstCombine), but it wraps only near 2^61 and is a different code path. It is not involved here.\n\nDisclaimer: This test case was generated by a fuzzer, and the report was written with LLM assistance.\n",
+      "checkedUTC": "2026-10-14T03:26:25.040616+00:00"
+    },
+    {
+      "repo": "llvm/llvm-project",
+      "number": 227352,
+      "url": "https://github.com/llvm/llvm-project/issues/227352",
+      "state": "OPEN",
+      "title": "[X86] Vector input for inline-asm constraint \"A\" asserts \"lossy conversion of vector to scalar type\"; missing diagnostic",
+      "comments": 0,
+      "assigned": {
+        "nodes": []
+      },
+      "linkedPR": {
+        "nodes": []
+      },
+      "closedBy": {
+        "nodes": []
+      },
+      "body": "https://godbolt.org/z/K7n6Kn8h3 (`-O0`; `-O2` crashes the same way, x86_64)\n\n```c\ntypedef long v2i64 __attribute__((vector_size(16)));\nvoid f(v2i64 v) { asm(\"\" : : \"A\"(v)); }\n```\n```\nclang: llvm/lib/CodeGen/SelectionDAG/SelectionDAGBuilder.cpp:745: void getCopyToPartsVector(llvm::SelectionDAG&, const llvm::SDLoc&, llvm::SDValue, llvm::SDValue*, unsigned int, llvm::MVT, const llvm::Value*, std::optional<unsigned int>): Assertion `PartVT.getFixedSizeInBits() > ValueSize && \"lossy conversion of vector to scalar type\"' failed.\n #10 getCopyToParts(...) SelectionDAGBuilder.cpp\n #11 llvm::RegsForValue::getCopyToRegs(...) const\n #12 prepareDAGLevelOperands(...) SelectionDAGBuilder.cpp\n #13 llvm::SelectionDAGBuilder::visitInlineAsm(llvm::CallBase const&, llvm::BasicBlock const*)\n```\n\nThe operand is invalid. GCC rejects it (`error: inconsistent operand constraints in an 'asm'`), and clang rejects the same vector as an `\"=A\"` output (https://godbolt.org/z/8e7ccTEac: `error: non-trivial scalar-to-vector conversion, possible invalid constraint for vector type`) and as an `\"r\"` input (`error: could not allocate input reg for constraint 'r'`). `\"+A\"` asserts the same way as `\"A\"`. A `__int128` in `\"A\"` works (`movq %rdi, %rax` / `movq %rsi, %rdx`).\n\nRelease builds give no diagnostic. They put only the low 64 bits of the vector in `rax` (`movq %xmm0, %rax`) and leave `rdx` unset (release trunk and GCC: https://godbolt.org/z/65fs1vd7j).\n\nThe same assertion from IR, with `llc -O0` or `-O2` (the `-O0` run is in the link above):\n\n```llvm\ntarget triple = \"x86_64-unknown-linux-gnu\"\n\ndefine void @f(<2 x i64> %v) {\n  call void asm sideeffect \"\", \"A\"(<2 x i64> %v)\n  ret void\n}\n```\n\n#50251 was this assertion for a vector in `\"r\"`. Its fix, 81f6d7c, added `!VT.isVector()` guards to the GPR constraints (`r`, `q`, `Q`, `R`) in `X86TargetLowering::getRegForInlineAsmConstraint`. That is why `\"r\"` now gets the \"could not allocate\" error. `case 'A'` has no such guard: in 64-bit mode it returns `GR64_ADRegClass` for any type, so `getCopyToRegs` tries to fit the 128-bit vector into a single 64-bit part. There are two possible fixes: the same vector guard for `'A'`, or a diagnostic in `getCopyToPartsVector` like the one `getCopyFromPartsVector` already gives for outputs (\"non-trivial scalar-to-vector conversion\").\n\nFound by a fuzzer (generated C program), reduced by hand.\nCommand: `clang --target=x86_64-unknown-linux-gnu -O0 -c repro.c` (same with `-O2`)\nTested: clang 24.0.0git ef45ca75ce72 (Compiler Explorer assertions trunk, 2026-09-29): the assertion above. Release trunk f4085066128a: exit 0, no diagnostic.\nHistory: long-standing. Every assertions build I checked hits this assertion: 10.0, 12.0, 13.0, 16.0, 20.1, 23.1 and trunk. 3.9 also asserts in `getCopyToPartsVector`, with an older message (\"Only trivial vector-to-scalar conversions should get here!\"). The `\"r\"` variant still asserts in 12.0 and gets the error from 13.0 on. Not bisected.\nClassification: crash on invalid code (GCC rejects it); release builds accept it without a diagnostic.\nRelated: #50251 (closed 2021): the same assertion with `\"r\"`, fixed by 81f6d7c. #173481 (open): the same assertion on AArch64 via llc. The X86 `'A'` handling here is separate target code, so it is not a duplicate. No open X86 issue found (searched \"lossy conversion of vector to scalar type\", `getCopyToPartsVector`).",
+      "checkedUTC": "2026-10-14T03:26:24.698347+00:00"
+    },
+    {
+      "repo": "llvm/llvm-project",
+      "number": 226919,
+      "url": "https://github.com/llvm/llvm-project/issues/226919",
+      "state": "OPEN",
+      "title": "[CostModel] Add default expansion costs for Intrinsic::PDEP/PEXT",
+      "comments": 0,
+      "assigned": {
+        "nodes": []
+      },
+      "linkedPR": {
+        "nodes": []
+      },
+      "closedBy": {
+        "nodes": []
+      },
+      "body": "Using TargetLowering::expandPDEP/PEXT as guides, although we might have to pessimistic on the cost of the Intrinsic::clmul 'allones' special case",
+      "checkedUTC": "2026-10-14T03:26:25.576377+00:00"
+    }
+  ],
+  "candidate_PR_number_search": [
+    {
+      "number": 231385,
+      "total": 0,
+      "items": [],
+      "checkedUTC": "2026-10-14T03:31:13.724339+00:00"
+    },
+    {
+      "number": 227352,
+      "total": 0,
+      "items": [],
+      "checkedUTC": "2026-10-14T03:31:13.726754+00:00"
+    },
+    {
+      "number": 226919,
+      "total": 0,
+      "items": [],
+      "checkedUTC": "2026-10-14T03:31:14.367515+00:00"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+// WARNING: This output format is intended for human consumers only
+// and is subject to change without notice. Knock yourself out.
+// HINT: See also -Z dump-mir for MIR at specific points during compilation.
+fn forward(_1: &str) -> &str {
+    debug x => _1;
+    let mut _0: &str;
+
+    bb0: {
+        _0 = copy _1;
+        return;
+    }
+}

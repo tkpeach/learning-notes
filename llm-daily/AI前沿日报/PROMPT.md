@@ -394,7 +394,7 @@ per-source last_seen cursor
 
 ## DeepSeek
 
-主发现入口：
+模型与 API 更新：
 
 ```text
 https://api-docs.deepseek.com/updates/
@@ -402,7 +402,23 @@ https://api-docs.deepseek.com/updates/
 
 官方稳定 Change Log，用于发现模型、API、重大变化。
 
-辅助入口：
+中文技术发布与部署实践：
+
+```text
+https://www.zhihu.com/org/deepseek-75/posts
+```
+
+DeepSeek 已认证知乎机构号，优先读取中文技术正文。
+
+官方发布与说明：
+
+```text
+https://x.com/deepseek_ai
+```
+
+DeepSeek 官方 X 账号，用于发现开源项目、模型及基础设施发布、官方说明和原文链接。发布串按同一事件合并，转帖与置顶不能当成新发布。
+
+当前模型与发布横幅：
 
 ```text
 https://www.deepseek.com/
@@ -410,9 +426,9 @@ https://www.deepseek.com/
 
 只用于当前模型、发布横幅、重大变化检测，不作为新闻归档。
 
-发现新模型或重大更新后，寻找对应中文官方正文。
+以上来源均每日执行 `25h realtime scan + per-source last_seen cursor`，各自独立维护游标。同一事件跨源去重，仍须完成每个来源的游标范围检查。
 
-优先类似：
+发现新模型、开源项目或重大更新后，寻找对应中文官方正文。模型/API 发布优先类似：
 
 ```text
 https://api-docs.deepseek.com/zh-cn/news/newsYYMMDD/
@@ -426,6 +442,8 @@ https://api-docs.deepseek.com/zh-cn/news/newsYYMMDD/
 ```
 
 作为固定聚合入口。
+
+网页抓取返回 403、正文为空或不完整时，在工具允许的情况下使用浏览器复核未登录正文；不能仅凭抓取失败判断必须登录或没有新增。若遇登录墙、验证或工具访问限制，记录未完成范围并保留游标，不绕过限制，也不把摘要或转载视为官方原文已完整读取。
 
 ## Qwen / 阿里通义千问
 

@@ -55,9 +55,9 @@
 
 ## OpenAI Engineering
 
-- last_seen_item: Rapidly scaling online storage to serve over 1 billion ChatGPT users
-- last_seen_publish_time: 2026-09-11
-- last_successful_scan: 2026-09-18T01:12:00+08:00
+- last_seen_item: How we built ChatGPT’s novel ad stack for user trust and relevance
+- last_seen_publish_time: 2026-10-21
+- last_successful_scan: 2026-10-22T01:11:16+08:00
 
 ## OpenAI Safety
 
@@ -67,15 +67,15 @@
 
 ## OpenAI Security
 
-- last_seen_item: Daybreak for Frontline Defenders
-- last_seen_publish_time: 2026-09-03
-- last_successful_scan: 2026-09-18T01:12:00+08:00
+- last_seen_item: Patch the Planet: global response coordination as agents uncover critical vulnerabilities
+- last_seen_publish_time: 2026-10-21
+- last_successful_scan: 2026-10-22T01:11:16+08:00
 
 ## OpenAI Global Affairs
 
-- last_seen_item: Helping older adults use AI in everyday life
-- last_seen_publish_time: 2026-09-16
-- last_successful_scan: 2026-09-18T01:12:00+08:00
+- last_seen_item: Europe’s opportunity to deepen AI use
+- last_seen_publish_time: 2026-10-14
+- last_successful_scan: 2026-10-22T01:11:16+08:00
 
 ## Google DeepMind Blog
 
@@ -85,9 +85,9 @@
 
 ## Anthropic Newsroom
 
-- last_seen_item: Introducing Claude Haiku 5.5
-- last_seen_publish_time: 2026-10-07
-- last_successful_scan: 2026-10-08T09:25:00+08:00
+- last_seen_item: Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust
+- last_seen_publish_time: 2026-10-21
+- last_successful_scan: 2026-10-22T01:11:16+08:00
 
 ## Claude Blog
 
@@ -97,15 +97,27 @@
 
 ## DeepSeek Updates
 
-- last_seen_item: DeepSeek-V4.1-Flash Release
-- last_seen_publish_time: 2026-09-10
-- last_successful_scan: 2026-10-02T01:25:00+08:00
+- last_seen_item: Opening up the in-house search API
+- last_seen_publish_time: 2026-10-17
+- last_successful_scan: 2026-10-22T01:11:16+08:00
 
 ## DeepSeek Homepage
 
-- last_seen_item: DeepSeek-V4.1-Flash 发布
-- last_seen_publish_time: 2026-09-10
-- last_successful_scan: 2026-10-05T01:09:00+08:00
+- last_seen_item: DeepSeek-V4.1-Flash-1017 更新与 Search/Fetch API
+- last_seen_publish_time: 2026-10-17
+- last_successful_scan: 2026-10-22T01:11:16+08:00
+
+## DeepSeek Official Zhihu
+
+- last_seen_item: 未初始化
+- last_seen_publish_time: 未初始化
+- last_successful_scan: 未完成
+
+## DeepSeek Official X
+
+- last_seen_item: 未初始化
+- last_seen_publish_time: 未初始化
+- last_successful_scan: 未完成
 
 ## Qwen Blog
 
@@ -117,13 +129,13 @@
 
 - last_seen_item: Qwen3Guard：实时安全，逐词响应
 - last_seen_publish_time: 2025-09-23
-- last_successful_scan: 2026-09-19T01:11:00+08:00
+- last_successful_scan: 2026-10-22T01:11:16+08:00
 
 ## Aliyun Model Studio New Models
 
-- last_seen_item: qwen-image-2.1-turbo
-- last_seen_publish_time: 2026-10-09
-- last_successful_scan: 2026-10-10T06:00:00+08:00
+- last_seen_item: xiaomi/mimo-v2.6-pro-ultraspeed
+- last_seen_publish_time: 2026-10-19
+- last_successful_scan: 2026-10-22T01:11:16+08:00
 
 ## ModelScope Qwen
 
@@ -141,13 +153,13 @@
 
 - last_seen_item: Kimi K3
 - last_seen_publish_time: 2026-07-16
-- last_successful_scan: 2026-10-05T01:09:00+08:00
+- last_successful_scan: 2026-10-22T01:11:16+08:00
 
 ## Moonshot Platform Blog
 
 - last_seen_item: Kimi 开放平台：新功能发布记录
 - last_seen_publish_time: 2025-11-07
-- last_successful_scan: 2026-10-05T01:09:00+08:00
+- last_successful_scan: 2026-10-22T01:11:16+08:00
 
 ## ByteDance Seed Blog
 
@@ -157,9 +169,9 @@
 
 ## MiniMax Blog
 
-- last_seen_item: MiniMax Music 3.0：新一代开放权重、生产级全能音乐模型
-- last_seen_publish_time: 2026-08-13
-- last_successful_scan: 2026-09-24T01:12:00+08:00
+- last_seen_item: MiniMax M3.1 Flash：重新定义 Agent 的性能与成本
+- last_seen_publish_time: 2026-10-19
+- last_successful_scan: 2026-10-21T01:11:54+08:00
 
 ## MiniMax News
 
@@ -169,9 +181,9 @@
 
 ## MiniMax Model Release Notes
 
-- last_seen_item: MiniMax H3
-- last_seen_publish_time: 2026-07-31
-- last_successful_scan: 2026-10-05T01:09:00+08:00
+- last_seen_item: MiniMax M3.1 Flash
+- last_seen_publish_time: 2026-10-19
+- last_successful_scan: 2026-10-22T01:11:16+08:00
 
 ## Tencent Hunyuan Research
 
@@ -189,25 +201,25 @@
 
 - last_seen_item: Impactful scheduling for GPU clusters
 - last_seen_publish_time: 2026-10-09
-- last_successful_scan: 2026-10-10T06:00:00+08:00
+- last_successful_scan: 2026-10-15T01:08:00+08:00
 
 ## LLVM Blog
 
-- last_seen_item: GSOC26: Sharing LLVM-libc's floating-point routines with compiler-rt
-- last_seen_publish_time: 2026-10-05
-- last_successful_scan: 2026-10-06T01:36:00+08:00
+- last_seen_item: Static Memory Planner for MLIR: A GSoC 2026 Journey
+- last_seen_publish_time: 2026-10-19
+- last_successful_scan: 2026-10-22T01:11:16+08:00
 
 ## MaskRay
 
-- last_seen_item: Linker I/O tricks and their downsides
-- last_seen_publish_time: 2026-09-20
-- last_successful_scan: 2026-10-05T01:09:00+08:00
+- last_seen_item: Who pays for Clang
+- last_seen_publish_time: 2026-10-12
+- last_successful_scan: 2026-10-22T01:11:16+08:00
 
 ## John Regehr
 
 - last_seen_item: Looking for Missed Alarm Bugs in a Formal Verification Tool
 - last_seen_publish_time: 2024-09-04
-- last_successful_scan: 2026-09-19T01:11:00+08:00
+- last_successful_scan: 2026-10-22T01:11:16+08:00
 
 ## Chris Lattner
 
@@ -217,21 +229,21 @@
 
 ## Modular Blog
 
-- last_seen_item: Modular 26.6: Open compiler contributions, audio generation, and expanded model support
-- last_seen_publish_time: 2026-09-17
-- last_successful_scan: 2026-10-05T01:09:00+08:00
+- last_seen_item: Nurturing the Modular ecosystem: the Modular Community Grant Program
+- last_seen_publish_time: 2026-10-09
+- last_successful_scan: 2026-10-22T01:11:16+08:00
 
 ## PyTorch
 
-- last_seen_item: Session-Aware Agentic Inference with NVIDIA Dynamo
-- last_seen_publish_time: 2026-10-08
-- last_successful_scan: 2026-10-10T06:00:00+08:00
+- last_seen_item: Introducing TorchTPU
+- last_seen_publish_time: 2026-10-20
+- last_successful_scan: 2026-10-22T01:11:16+08:00
 
 ## Triton
 
 - last_seen_item: Triton 3.8.0
 - last_seen_publish_time: 2026-08-28
-- last_successful_scan: 2026-09-21T01:06:00+08:00
+- last_successful_scan: 2026-10-22T01:11:16+08:00
 
 ## MLIR / LLVM Project Updates
 
@@ -241,9 +253,9 @@
 
 ## vLLM
 
-- last_seen_item: DeepSeek-V4.1-Flash on vLLM: 5x Agentic Throughput Since Day 0
-- last_seen_publish_time: 2026-10-07
-- last_successful_scan: 2026-10-08T09:25:00+08:00
+- last_seen_item: Day-0 Support for Flint on vLLM
+- last_seen_publish_time: 2026-10-21
+- last_successful_scan: 2026-10-22T01:11:16+08:00
 
 ## SGLang
 
@@ -253,9 +265,9 @@
 
 ## SGLang GitHub Releases
 
-- last_seen_item: v0.5.21
-- last_seen_publish_time: 2026-10-02
-- last_successful_scan: 2026-10-03T01:12:00+08:00
+- last_seen_item: v0.5.22
+- last_seen_publish_time: 2026-10-19
+- last_successful_scan: 2026-10-22T01:11:16+08:00
 
 ## CUDA / NVIDIA Developer Technical Updates
 
@@ -267,25 +279,25 @@
 
 - last_seen_item: Harness Engineering for Self-Improvement
 - last_seen_publish_time: 2026-07-04
-- last_successful_scan: 2026-09-16T01:07:36+08:00
+- last_successful_scan: 2026-10-22T01:11:16+08:00
 
 ## Sebastian Raschka
 
-- last_seen_item: GPT-6 Astra, Looped Transformers, and Hidden Reasoning
-- last_seen_publish_time: 2026-09-09
-- last_successful_scan: 2026-09-15T01:06:56+08:00
+- last_seen_item: Language Models for Text Classification: From Bag-of-Words to Jev
+- last_seen_publish_time: 2026-09-29
+- last_successful_scan: 2026-10-22T01:11:16+08:00
 
 ## Chip Huyen
 
 - last_seen_item: Common pitfalls when building generative AI applications
 - last_seen_publish_time: 2025-01-16
-- last_successful_scan: 2026-09-14T01:00:46+08:00
+- last_successful_scan: 2026-10-22T01:11:16+08:00
 
 ## GCC Releases
 
 - last_seen_item: GCC 13.5
 - last_seen_publish_time: 2026-09-11
-- last_successful_scan: 2026-09-21T01:06:00+08:00
+- last_successful_scan: 2026-10-22T01:11:16+08:00
 
 ## Linux Kernel Releases
 
@@ -297,7 +309,7 @@
 
 # Codex Usage Monitor State
 
-- last_successful_scan: 2026-10-10T06:00:00+08:00
+- last_successful_scan: 2026-10-18T01:05:00+08:00
 - last_seen_announcement: OpenAI Pro plans update — Pro 500 highest included usage and Astra Ultrafast; new non-grandfathered Pro 200 subscriptions have lower included usage, existing eligible Pro 200 allowance retained through 2026-10-29
 - last_seen_publish_time: 2026-09-30
 - last_alerted_announcement: OpenAI Pro plans update — Pro 500 highest included usage and Astra Ultrafast; new non-grandfathered Pro 200 subscriptions have lower included usage, existing eligible Pro 200 allowance retained through 2026-10-29
@@ -341,8 +353,8 @@
 - url: https://arxiv.org/abs/2609.05275
 - direction: 基础模型 / 训练效率 / 推理效率
 - first_seen: 2026-09-08
-- last_review: 2026-10-09
-- next_review: 2026-10-20
+- last_review: 2026-10-20
+- next_review: 2026-10-27
 - status: active
 - quality: A
 - maturity: M0
@@ -364,6 +376,7 @@
   - 更大模型、非 Cerebras 硬件与第三方复现
   - 推理加速的质量退化与端到端收益
 - discovery_source: Hugging Face Daily Papers / arXiv recent
+- last_review_result: 2026-10-20 arXiv 仍为 v1（09-04）；未确认公开代码或独立非 Cerebras 复跑，保留 A/M0，不因到期自动升级。
 
 ## 2609.04523
 
@@ -371,8 +384,8 @@
 - url: https://arxiv.org/abs/2609.04523
 - direction: AI 系统 / 编译器 / TPU kernel agent
 - first_seen: 2026-09-08
-- last_review: 2026-10-08
-- next_review: 2026-10-15
+- last_review: 2026-10-22
+- next_review: 2026-10-29
 - status: active
 - quality: B
 - maturity: M1
@@ -382,6 +395,7 @@
   - 官方仓库已提供 MaxKernel、JAXBench、MaxCode、文档与测试资产；2026-09-24 复评可见仓库已有 311 次提交，但未见稳定 release 或独立复现。
   - 2026-10-01 复评官方仓库仍公开 MaxKernel、JAXBench 和文档，累计 316 次提交；未确认稳定 release 或第三方 TPU 复现。
   - 2026-10-08 核对论文仍为 9 月版本，未见足以改变质量等级的新独立复现；继续观察。
+  - 2026-10-15 复核 arXiv 仍为 9 月 3 日 v1，作者代码位于 AI-Hypercomputer/accelerator-agents/MaxKernel；未确认稳定 release 或第三方 TPU 复跑。
 - missing_evidence:
   - 缺少第三方复现、稳定版本及跨 TPU/Pallas 之外后端的验证。
   - 对 Gemini、Google Cloud TPU 与 compiler feedback 的依赖较强。
@@ -395,15 +409,17 @@
   - 搜索轨迹、失败恢复与成本数据
   - 对其他 kernel DSL 或加速器的可迁移性
 - discovery_source: Hugging Face Daily Papers / arXiv recent / 作者 GitHub
+- last_review_result: 2026-10-22 核对 arXiv 当前仍为v1；本轮未确认足以改变等级的新证据。作者 accelerator-agents 代码仍公开，release 为空；未确认独立 TPU 复跑。
 
 ## 2609.05228
 
-- title: ACE: Accurate and Calibration-Free Expert Skipping for Efficient MoE Inference
+- title: ACE: Adaptive Calibration-Free Expert Skipping for MoE-based LLMs
 - url: https://arxiv.org/abs/2609.05228
 - direction: MoE / 推理效率 / Serving
 - first_seen: 2026-09-08
-- last_review: 2026-10-05
-- next_review: 2026-10-12
+- last_review: 2026-10-22
+- next_review: 2026-10-29
+- last_review_result: 2026-10-22 核对 arXiv 当前仍为v1；本轮未确认足以改变等级的新证据。公开资产与第三方复现仍待进一步确认；维持原评级与成熟度。
 - status: active
 - quality: B
 - maturity: M0
@@ -430,8 +446,9 @@
 - url: https://arxiv.org/abs/2609.04010
 - direction: LLM 推理 / speculative decoding / 离散扩散
 - first_seen: 2026-09-09
-- last_review: 2026-10-05
-- next_review: 2026-10-12
+- last_review: 2026-10-22
+- next_review: 2026-10-29
+- last_review_result: 2026-10-22 核对 arXiv 当前仍为v1；本轮未确认足以改变等级的新证据。ifm-ai/uno 作者实现仍公开，未核实新的独立端到端复现。
 - status: active
 - quality: B
 - maturity: M1
@@ -461,13 +478,14 @@
 - url: https://arxiv.org/abs/2609.08368
 - direction: LLM 后训练 / 分布式系统 / RL infrastructure
 - first_seen: 2026-09-10
-- last_review: 2026-10-06
-- next_review: 2026-10-13
+- last_review: 2026-10-20
+- next_review: 2026-10-27
 - status: active
 - quality: B
 - maturity: M1
 - personal_value: high
 - main_evidence:
+  - 2026-10-13 复评：论文仍为 9 月 8 日 v1；对应 Miles v0.1.2 已发布，新增 torchtitan 共享训练接口、实验性 Kubernetes、多策略作业与 score centering，尚不能据此验证论文所述大规模性能。
   - 系统覆盖 SGLang rollout、Megatron-LM 或 PyTorch FSDP trainer、三种权重同步，以及 RL、LoRA RL、on-policy distillation、SFT 和 diffusion 路径。
   - 2026-09-26 v0.1.1 release 增加 Qwen3.8-Flash-Next、GLM-5.3-Flash 的权重更新相等与短程 rollout/trainer 对数概率差记录；长训和跨集群结论仍未独立复现。
   - 作者给出 64 台 GB300、GLM-5.2 744B-A40B 的全异步 terminal-coding RL 案例，前 30 步中位 step time 为 263 秒。
@@ -487,6 +505,7 @@
   - 异步 rollout 的 staleness、故障恢复和可重复性
   - 权重同步方式的通信开销及不同训练后端对照
 - discovery_source: Hugging Face Daily Papers / arXiv / 作者 GitHub
+- last_review_result: 2026-10-20 arXiv 仍为 v1（09-08）；Miles 最新稳定版仍为 v0.1.2（10-09），未确认独立完整 RL 训练复现，维持 B/M1。
 
 ## 2609.04971
 
@@ -494,8 +513,9 @@
 - url: https://arxiv.org/abs/2609.04971
 - direction: LLM Serving / KV cache / 长上下文推理
 - first_seen: 2026-09-10
-- last_review: 2026-10-10
-- next_review: 2026-10-17
+- last_review: 2026-10-17
+- next_review: 2026-10-24
+- last_review_result: 2026-10-17 定向核验未确认足以改变评级或单独推荐的新增证据。
 - status: active
 - quality: B
 - maturity: M1
@@ -525,8 +545,9 @@
 - url: https://arxiv.org/abs/2609.10226
 - direction: AI 系统 / Coding Agent / Kernel / Runtime / Benchmark
 - first_seen: 2026-09-11
-- last_review: 2026-10-05
-- next_review: 2026-10-12
+- last_review: 2026-10-22
+- next_review: 2026-10-29
+- last_review_result: 2026-10-22 核对 arXiv 当前仍为v2（10-15）；本轮未确认足以改变等级的新证据。作者 Phi-Bench 仍有85项任务与离线评分；未确认新的独立完整复跑。
 - status: active
 - quality: B
 - maturity: M1
@@ -557,8 +578,9 @@
 - url: https://arxiv.org/abs/2609.08149
 - direction: Coding Agent / Evaluation / Benchmark Safety
 - first_seen: 2026-09-11
-- last_review: 2026-10-05
-- next_review: 2026-10-12
+- last_review: 2026-10-22
+- next_review: 2026-10-29
+- last_review_result: 2026-10-22 核对 arXiv 当前仍为v3（10-09）；本轮未确认足以改变等级的新证据。公开资产与第三方复现仍待进一步确认；维持原评级与成熟度。
 - status: active
 - quality: B
 - maturity: M1
@@ -587,8 +609,9 @@
 - url: https://arxiv.org/abs/2609.09134
 - direction: Agent / Harness / Fine-tuning / On-policy correction
 - first_seen: 2026-09-11
-- last_review: 2026-10-05
-- next_review: 2026-10-12
+- last_review: 2026-10-22
+- next_review: 2026-10-29
+- last_review_result: 2026-10-22 核对 arXiv 当前仍为v1；本轮未确认足以改变等级的新证据。公开资产与第三方复现仍待进一步确认；维持原评级与成熟度。
 - status: active
 - quality: B
 - maturity: M0
@@ -615,8 +638,9 @@
 - url: https://arxiv.org/abs/2609.10715
 - direction: 基础模型 / 预训练 / Latent Language Model
 - first_seen: 2026-09-12
-- last_review: 2026-10-05
-- next_review: 2026-10-19
+- last_review: 2026-10-22
+- next_review: 2026-10-29
+- last_review_result: 2026-10-22 核对 arXiv 当前仍为v1；本轮未确认足以改变等级的新证据。ncp_olmo_eval 最新稳定仍0.1.1；不等于训练或分数的独立复现。
 - status: active
 - quality: B
 - maturity: M1
@@ -647,8 +671,9 @@
 - url: https://arxiv.org/abs/2609.05903
 - direction: Agent / Safety / Harness / Tool Use
 - first_seen: 2026-09-12
-- last_review: 2026-10-05
-- next_review: 2026-10-12
+- last_review: 2026-10-22
+- next_review: 2026-10-29
+- last_review_result: 2026-10-22 核对 arXiv 当前仍为v2（10-14）；本轮未确认足以改变等级的新证据。SaFo-Lab/EvoSafeHarness 的作者代码可访问，未确认独立安全—效用复跑。
 - status: active
 - quality: B
 - maturity: M1
@@ -677,8 +702,9 @@
 - url: https://arxiv.org/abs/2608.27875
 - direction: LLM Serving / Attention / KV cache / 低比特量化
 - first_seen: 2026-09-12
-- last_review: 2026-10-05
-- next_review: 2026-10-12
+- last_review: 2026-10-22
+- next_review: 2026-10-29
+- last_review_result: 2026-10-22 核对 arXiv 当前仍为v3（09-16）；本轮未确认足以改变等级的新证据。作者仓库仍可访问；未确认主流 serving 集成或跨硬件独立验证。
 - status: active
 - quality: B
 - maturity: M1
@@ -707,8 +733,9 @@
 - url: https://arxiv.org/abs/2609.11917
 - direction: 基础模型 / MoE / 数据效率 / 训练稳定性
 - first_seen: 2026-09-13
-- last_review: 2026-10-05
-- next_review: 2026-10-12
+- last_review: 2026-10-22
+- next_review: 2026-10-29
+- last_review_result: 2026-10-22 核对 arXiv 当前仍为v2（10-07）；本轮未确认足以改变等级的新证据。公开资产与第三方复现仍待进一步确认；维持原评级与成熟度。
 - status: active
 - quality: B
 - maturity: M0
@@ -716,7 +743,7 @@
 - main_evidence:
   - 对约 80M～1B active parameters、最高 8.5B total parameters 的 dense 与 MoE 模型进行重复数据对照。
   - 作者发现 MoE 在约 4 次重复后即明显受损，重复 32 次后基本丧失相对 dense 的优势；强 masking 可缓解但不能替代独特数据。
-  - 2026-09-22 定向复核未找到可核验的作者训练代码或独立复现，维持观察。
+  - arXiv 于 2026-10-07 修订至 v2；截至 2026-10-12 仍未核实公开训练代码或独立复现，维持观察。
 - missing_evidence:
   - 尚未确认公开代码、训练 recipe 或第三方独立复现。
   - 需要在更多 router、数据组成、模型规模和训练预算下验证结论边界。
@@ -735,8 +762,9 @@
 - url: https://arxiv.org/abs/2609.11294
 - direction: Agent Infrastructure / Sandbox / Operating Systems / Memory
 - first_seen: 2026-09-13
-- last_review: 2026-10-05
-- next_review: 2026-10-12
+- last_review: 2026-10-22
+- next_review: 2026-10-29
+- last_review_result: 2026-10-22 核对 arXiv 当前仍为v1；本轮未确认足以改变等级的新证据。公开资产与第三方复现仍待进一步确认；维持原评级与成熟度。
 - status: active
 - quality: B
 - maturity: M0
@@ -763,8 +791,9 @@
 - url: https://arxiv.org/abs/2609.13134
 - direction: LLM Serving / Heterogeneous Systems / Subquadratic Attention
 - first_seen: 2026-09-15
-- last_review: 2026-10-10
-- next_review: 2026-10-17
+- last_review: 2026-10-17
+- next_review: 2026-10-24
+- last_review_result: 2026-10-17 定向核验未确认足以改变评级或单独推荐的新增证据。
 - status: active
 - quality: B
 - maturity: M0
@@ -793,8 +822,9 @@
 - url: https://arxiv.org/abs/2609.12471
 - direction: AMD GPU / HIP / Triton / Kernel Agent / Training Data
 - first_seen: 2026-09-15
-- last_review: 2026-10-10
-- next_review: 2026-10-17
+- last_review: 2026-10-17
+- next_review: 2026-10-24
+- last_review_result: 2026-10-17 定向核验未确认足以改变评级或单独推荐的新增证据。
 - status: active
 - quality: B
 - maturity: M1
@@ -825,8 +855,9 @@
 - url: https://arxiv.org/abs/2609.12742
 - direction: Coding Agent / Repository Knowledge / SKILL Optimization / Evaluation
 - first_seen: 2026-09-15
-- last_review: 2026-10-10
-- next_review: 2026-10-17
+- last_review: 2026-10-17
+- next_review: 2026-10-24
+- last_review_result: 2026-10-17 定向核验未确认足以改变评级或单独推荐的新增证据。
 - status: active
 - quality: B
 - maturity: M0
@@ -854,8 +885,9 @@
 - url: https://arxiv.org/abs/2609.15989
 - direction: Agent Safety / Chain-of-Thought Monitoring / Prompt Injection
 - first_seen: 2026-09-16
-- last_review: 2026-10-05
-- next_review: 2026-10-12
+- last_review: 2026-10-22
+- next_review: 2026-10-29
+- last_review_result: 2026-10-22 核对 arXiv 当前仍为v1；本轮未确认足以改变等级的新证据。公开资产与第三方复现仍待进一步确认；维持原评级与成熟度。
 - status: active
 - quality: B
 - maturity: M0
@@ -881,8 +913,9 @@
 - url: https://arxiv.org/abs/2609.15982
 - direction: Agent / Skill Routing / Representation Probing / Context Efficiency
 - first_seen: 2026-09-16
-- last_review: 2026-10-05
-- next_review: 2026-10-12
+- last_review: 2026-10-22
+- next_review: 2026-10-29
+- last_review_result: 2026-10-22 核对 arXiv 当前仍为v2（09-28）；本轮未确认足以改变等级的新证据。公开资产与第三方复现仍待进一步确认；维持原评级与成熟度。
 - status: active
 - quality: B
 - maturity: M0
@@ -909,8 +942,9 @@
 - url: https://arxiv.org/abs/2609.15983
 - direction: Multi-Agent / Harness / Long-Horizon Research / Theorem Proving
 - first_seen: 2026-09-16
-- last_review: 2026-10-05
-- next_review: 2026-10-12
+- last_review: 2026-10-22
+- next_review: 2026-10-29
+- last_review_result: 2026-10-22 核对 arXiv 当前仍为v2（09-15）；本轮未确认足以改变等级的新证据。公开资产与第三方复现仍待进一步确认；维持原评级与成熟度。
 - status: active
 - quality: B
 - maturity: M0
@@ -937,8 +971,9 @@
 - url: https://arxiv.org/abs/2609.19134
 - direction: AI for Science / Agent 环境 / 科学软件验证
 - first_seen: 2026-09-18
-- last_review: 2026-10-05
-- next_review: 2026-10-12
+- last_review: 2026-10-22
+- next_review: 2026-10-29
+- last_review_result: 2026-10-22 核对 arXiv 当前仍为v1；本轮未确认足以改变等级的新证据。aitofound/ScienceIDE 仍列15/64环境与30/85难任务，未确认全量交付或独立复跑。
 - status: active
 - quality: B
 - maturity: M1
@@ -969,16 +1004,17 @@
 - url: https://arxiv.org/abs/2609.19969
 - direction: 基础模型 / 长上下文 / KV cache / Serving
 - first_seen: 2026-09-19
-- last_review: 2026-10-04
-- next_review: 2026-10-11
+- last_review: 2026-10-18
+- next_review: 2026-10-25
 - status: active
 - quality: B
 - maturity: M1
 - personal_value: high
 - main_evidence:
+  - 2026-10-18 复评：论文仍为 v1；vLLM 的 GB300 专用 decode PR 是服务实现新证据，不能据此确认 CSA2/FP4 KV 全链路或独立长上下文质量复现。
   - 官方技术报告与开放模型资产说明 CED、CSA2、FP4 KV 和 SWA Bounded Replay 的协同设计。
   - 作者报告全局 KV 常驻 HBM 约 890 bytes/token，长期持久缓存约为 V4-Flash 的八分之一。
-  - 2026-10-04 复评确认 vLLM v0.30.0 已列 DeepSeek-V4.1 支持，但其 FlashMLA 路径仍使用 MXFP8 存储；SGLang 文档对正式版和预览镜像支持范围表述不一致。完整 CSA2/FP4 KV 路径尚未确认。
+  - 2026-10-11 复评：原论文仍为初版；尚未核实独立长上下文质量与成本复现，完整 CSA2/FP4 KV 部署路径仍待确认。此前 vLLM v0.30.0 已列 DeepSeek-V4.1 支持，但不能据此推断其实现了论文全部缓存机制。
 - missing_evidence:
   - 成本、精度和吞吐结果主要为模型团队自报，缺少独立同等硬件验证。
   - 552B backbone 和 1M context 的复现资源门槛高。
@@ -998,8 +1034,9 @@
 - url: https://arxiv.org/abs/2609.20519
 - direction: Coding Agent / Harness / Context Compression / Evaluation
 - first_seen: 2026-09-19
-- last_review: 2026-10-05
-- next_review: 2026-10-12
+- last_review: 2026-10-22
+- next_review: 2026-10-29
+- last_review_result: 2026-10-22 核对 arXiv 当前仍为v1；本轮未确认足以改变等级的新证据。SoL-Pi 作者代码仍公开且无release，兼容与收益仍需独立验证。
 - status: active
 - quality: B
 - maturity: M1
@@ -1030,8 +1067,9 @@
 - url: https://arxiv.org/abs/2609.22068
 - direction: Coding Agent / RL / 可验证环境合成
 - first_seen: 2026-09-22
-- last_review: 2026-10-05
-- next_review: 2026-10-12
+- last_review: 2026-10-22
+- next_review: 2026-10-29
+- last_review_result: 2026-10-22 核对 arXiv 当前仍为v1；本轮未确认足以改变等级的新证据。另发现 Repo2RLEnv 0.9.2 的外部实验性 recipe；100任务数据集明确未公开，不能算原论文训练复现，维持M0。
 - status: active
 - quality: B
 - maturity: M0
@@ -1055,8 +1093,9 @@
 - url: https://arxiv.org/abs/2609.21509
 - direction: Agent 通信 / 结构化表示 / Evaluation
 - first_seen: 2026-09-22
-- last_review: 2026-10-05
-- next_review: 2026-10-19
+- last_review: 2026-10-22
+- next_review: 2026-10-29
+- last_review_result: 2026-10-22 核对 arXiv 当前仍为v2（09-21）；本轮未确认足以改变等级的新证据。公开资产与第三方复现仍待进一步确认；维持原评级与成熟度。
 - status: active
 - quality: B
 - maturity: M0
@@ -1080,8 +1119,9 @@
 - url: https://arxiv.org/abs/2609.24974
 - direction: Agent Harness / Distillation / Tool Use / SFT
 - first_seen: 2026-09-23
-- last_review: 2026-10-05
-- next_review: 2026-10-12
+- last_review: 2026-10-22
+- next_review: 2026-10-29
+- last_review_result: 2026-10-22 核对 arXiv 当前仍为v1；本轮未确认足以改变等级的新证据。metaevo-ai/harness-zero 代码可访问，未确认独立跨模型与完整成本复跑。
 - status: active
 - quality: A
 - maturity: M1
@@ -1089,7 +1129,7 @@
 - main_evidence:
   - 让 harnessing agent 在执行前审阅并改写 student 响应，再在目标 harness 动作空间内构造 SFT 轨迹，把专用 harness 诱导的行为蒸馏进权重。
   - 2026-10-05 深评核对 Qwen3.5-9B 三域分别训练的检查点：简易 harness 宏平均 23.3%→44.3%，超过未训练底座加优化 harness 的 41.7%；USPTO 领域仍为 30%<38%。
-  - 官方仓库公开三域任务集、harness bank、rollout/SFT 代码、Docker 环境、测试与三个 LoRA checkpoints。
+  - 官方仓库公开三域任务集、harness bank、rollout/SFT 代码、Docker 环境、测试与三个 LoRA checkpoints；2026-10-12 arXiv 尚无新版。
 - missing_evidence:
   - 结果均为作者自报，缺少第三方跨模型复跑；三个 LoRA 检查点按领域分别训练，宏平均不代表一个通用检查点。
   - USPTO 消融显示强教师直接轨迹训练仅 12%、带专用 harness 的教师轨迹训练为 3%、规则指导逐步纠错为 30%；但每步额外审阅调用使该域平均轨迹收集耗时约 2.4 倍。
@@ -1112,8 +1152,9 @@
 - url: https://arxiv.org/abs/2609.26779
 - direction: Coding Agent / Context Compaction / Cost Efficiency / Reliability
 - first_seen: 2026-09-24
-- last_review: 2026-10-05
-- next_review: 2026-10-12
+- last_review: 2026-10-22
+- next_review: 2026-10-29
+- last_review_result: 2026-10-22 核对 arXiv 当前仍为v1；本轮未确认足以改变等级的新证据。发现 EmbeddedLLM/pi-cliffcompaction 外部移植，尚未核验其原论文成功率—成本复现；不据移植自动升级成熟度。
 - status: active
 - quality: B
 - maturity: M1
@@ -1142,8 +1183,9 @@
 - url: https://arxiv.org/abs/2609.26777
 - direction: Coding Agent / LLM Serving / Systems Benchmark / SGLang
 - first_seen: 2026-09-24
-- last_review: 2026-10-05
-- next_review: 2026-10-12
+- last_review: 2026-10-22
+- next_review: 2026-10-29
+- last_review_result: 2026-10-22 核对 arXiv 当前仍为v1；本轮未确认足以改变等级的新证据。NVIDIA/swe-serve 官方release为空；未确认独立验证器审计。
 - status: active
 - quality: B
 - maturity: M1
@@ -1172,8 +1214,9 @@
 - url: https://arxiv.org/abs/2609.26457
 - direction: AI Research Agent / Recursive Self-Improvement / Evaluation
 - first_seen: 2026-09-24
-- last_review: 2026-10-05
-- next_review: 2026-10-12
+- last_review: 2026-10-22
+- next_review: 2026-10-29
+- last_review_result: 2026-10-22 核对 arXiv 当前仍为v1；本轮未确认足以改变等级的新证据。公开资产与第三方复现仍待进一步确认；维持原评级与成熟度。
 - status: active
 - quality: B
 - maturity: M0
@@ -1200,13 +1243,14 @@
 - url: https://arxiv.org/abs/2609.39903
 - direction: AI for Science / GUI Agent / 可执行评测
 - first_seen: 2026-10-02
-- last_review: 2026-10-06
-- next_review: 2026-10-13
+- last_review: 2026-10-20
+- next_review: 2026-10-27
 - status: active
 - quality: B
 - maturity: M1
 - personal_value: medium
 - main_evidence:
+  - 2026-10-13 复评：论文仍为 9 月 30 日 v1；已核对 DiscoAILab/OSWorld-Science 官方仓库公开，但仍未确认独立完整复跑或评分器审计。
   - 146 个专家设计任务覆盖 7 个科学领域、14 种软件配置，使用应用状态与产物执行评测，比较 12 个 VLM。
   - 官方 GitHub 提供 harness、评测器、配置、测试和运行入口；项目页链接官方数据与 VM 镜像。
   - 2026-10-06 复评：arXiv 仍为 9 月 30 日 v1；项目代码入口本次未能独立打开，未确认新的完整复跑或评分器审计，继续观察。
@@ -1225,6 +1269,7 @@
 - discovery_source: arXiv recent cs.AI / Hugging Face Daily Papers / 作者项目页
 
 ---
+- last_review_result: 2026-10-20 arXiv 仍为 v1（09-30）；DiscoAILab/OSWorld-Science 代码可访问，未确认独立完整复跑，维持 B/M1。
 
 # Active GitHub
 
@@ -1266,19 +1311,20 @@
 - url: https://github.com/tenstorrent/vllm-tt-plugin
 - direction: LLM Serving / 异构加速器 / vLLM plugin
 - first_seen: 2026-09-08
-- last_review: 2026-10-04
-- next_review: 2026-10-18
+- last_review: 2026-10-18
+- next_review: 2026-10-25
 - status: active
 - quality: B
 - personal_value: high
 - last_release: 未发现稳定 release
-- last_commit_or_major_delta: 2026-10-04 未发现稳定 release 或已核验的新性能基准；继续观察版本兼容与 KV cache 调度
+- last_commit_or_major_delta: 2026-10-18 greedy speculative decoding runner 契约已公开；暂无稳定 release 或已核验的新性能基准
 - main_evidence:
+  - 2026-10-18 复评：README 与代码已公开 greedy speculative decoding 的 ngram/custom_class runner 契约；仅支持 argmax_ids/host greedy acceptance，采样接受、lane-DP 等未实现，GitHub release 仍为空。
   - 以 out-of-tree plugin 接入 Tenstorrent，覆盖平台发现、模型注册、worker、scheduler 与执行桥。
   - 公开代码、文档、示例与测试，明确实现 phase-only scheduling、片上采样回退、异步 readback 和单进程 lane-DP。
 - missing_evidence:
   - 官方文章未提供统一、可审计的端到端性能表，且硬件验证门槛较高。
-  - 暂不支持 speculative decoding、LoRA 与多机 serving，混合模型数据并行尚未完成硬件验证。
+  - greedy speculative decoding 已有 runner 契约，但 sampled acceptance、LoRA 与多机 serving 尚未实现；混合模型数据并行仍待硬件验证。
 - known_assets:
   - core code
   - docs
@@ -1287,7 +1333,7 @@
 - next_review_focus:
   - 首个稳定 release 与 vLLM 版本兼容性
   - 可复现吞吐、延迟和成本 benchmark
-  - speculative decoding、LoRA、多机与 hybrid DP 支持
+  - sampled speculative decoding、LoRA、多机与 hybrid DP 支持
 - discovery_source: vLLM 官方博客 / GitHub
 
 ## AI-Hypercomputer/accelerator-agents
@@ -1296,14 +1342,15 @@
 - url: https://github.com/AI-Hypercomputer/accelerator-agents
 - direction: AI 系统 / 编译器 / 自动 kernel 优化
 - first_seen: 2026-09-08
-- last_review: 2026-10-04
-- next_review: 2026-10-11
+- last_review: 2026-10-18
+- next_review: 2026-10-25
 - status: active
 - quality: B
 - personal_value: high
 - last_release: 未发现稳定 release
-- last_commit_or_major_delta: 2026-09-24 可见搜索脚本文档、benchmark 输入初始化和事件压缩仍在迭代，未确认重要 release 或外部复现
+- last_commit_or_major_delta: 2026-10-11 复评未发现稳定 release 或独立复现；保留 2026-09-24 的迭代记录
 - main_evidence:
+  - 2026-10-18 复评：仓库仍无 GitHub release；未见可核验的独立跨硬件复跑、成本与失败率新证据。
   - 仓库包含 MaxKernel、JAXBench、MaxCode、文档、CI 与测试，不是仅有论文说明；本次复评可见 311 次提交。
   - 将生成、编译、正确性测试、profiling 和迭代改写组成可测量的多 Agent 闭环。
 - missing_evidence:
@@ -1323,17 +1370,18 @@
 ## NVlabs/cuda-oxide
 
 - repo: NVlabs/cuda-oxide
-- url: https://github.com/NVlabs/cuda-oxide
+- url: https://github.com/NVIDIA/cuda-rust/tree/main/cuda-oxide
 - direction: GPU 编译器 / Rust / CUDA SIMT kernel
 - first_seen: 2026-09-09
-- last_review: 2026-10-04
-- next_review: 2026-10-11
+- last_review: 2026-10-18
+- next_review: 2026-10-25
 - status: active
 - quality: B
 - personal_value: high
 - last_release: v0.2.1（2026-06-10）
-- last_commit_or_major_delta: 2026-10-04 仓库已重定向至 NVIDIA/cuda-rust；未发现较 v0.2.1 更高的稳定 release
+- last_commit_or_major_delta: 2026-10-11 官方代码统一到 NVIDIA/cuda-rust；cuda-oxide 组件仍未发现高于 v0.2.1 的稳定 release
 - main_evidence:
+  - 2026-10-18 复评：统一仓库最新 cuda-oxide 仍为 v0.2.1，未见新稳定版或跨 workload 独立性能证据。
   - 仓库包含 rustc codegen backend、host runtime、device intrinsics、文档、示例和测试。
   - 编译流水线可追到 Rust MIR → Pliron IR → LLVM IR → PTX，并提供类型化 launch 与内存安全约束。
 - missing_evidence:
@@ -1354,17 +1402,18 @@
 ## NVlabs/cutile-rs
 
 - repo: NVlabs/cutile-rs
-- url: https://github.com/NVlabs/cutile-rs
+- url: https://github.com/NVIDIA/cuda-rust/tree/main/cutile-rs
 - direction: GPU 编程 / Rust / tile-level DSL
 - first_seen: 2026-09-09
-- last_review: 2026-10-04
-- next_review: 2026-10-11
+- last_review: 2026-10-18
+- next_review: 2026-10-25
 - status: active
 - quality: A
 - personal_value: high
-- last_release: v0.4.0（2026-09-25）
-- last_commit_or_major_delta: 2026-09-25 v0.4.0：CUDA 13.4 Tile IR、Rust 源码级调试、PDL、异步存储生命周期修复及破坏性 API 更新
+- last_release: v0.4.0（统一仓库 GitHub releases 页面已核验）
+- last_commit_or_major_delta: 2026-10-08 NVlabs/cutile-rs 原仓库归档，代码并入 NVIDIA/cuda-rust；最新稳定版本仍为 v0.4.0，未见新的性能或兼容性证据
 - main_evidence:
+  - 2026-10-18 复评：统一仓库最新 cuTile Rust 仍为 0.4.0，尚无新的独立端到端基准。
   - 仓库提供稳定 Rust 上的 tile DSL、CUDA Tile IR JIT、host-side ownership API、示例与文档。
   - NVIDIA 官方文章确认 Hugging Face Grout 与 mistral.rs 已采用。
   - v0.4.0 release 给出源码行映射、异步 UAF 修复、跨 stream 冲突检测、DGX Spark 测试及可复核的 API 变更。
@@ -1389,14 +1438,15 @@
 - url: https://github.com/radixark/miles
 - direction: LLM 后训练 / 分布式系统 / RL infrastructure
 - first_seen: 2026-09-10
-- last_review: 2026-10-06
-- next_review: 2026-10-13
+- last_review: 2026-10-20
+- next_review: 2026-10-27
 - status: active
 - quality: A
 - personal_value: high
-- last_release: v0.1.1（2026-09-26）
-- last_commit_or_major_delta: 2026-09-26 v0.1.1：共置 RL 新模型、一致性检查、Tinker 兼容多 LoRA、Anthropic Messages API、NVMe 优化器状态 streaming
+- last_release: v0.1.2（2026-10-09）
+- last_commit_or_major_delta: 2026-10-09 v0.1.2：统一训练后端、实验性 Kubernetes、多策略训练、score centering、DeepSeek-V4.1 Flash 主线支持
 - main_evidence:
+  - 2026-10-09 v0.1.2：torchtitan 与 FSDP 共享数据、损失、检查点及权重同步；实验性 Kubernetes 原生调度、热恢复测试、多策略作业和 score centering。多节点长期稳定性仍待独立复跑。
   - 包含训练入口、同步与异步执行、SGLang rollout、Megatron-LM/FSDP trainer、三种权重同步、文档和测试。
   - v0.1.1 对 Qwen3.8-Flash-Next 与 GLM-5.3-Flash 给出权重同步相等检查和短程 rollout/trainer 对数概率差；多 LoRA 槽的权重、FP32 master 和 Adam moments 恢复检查为零容差。
   - 作者展示 64 台 GB300 上 GLM-5.2 744B-A40B 的全异步 terminal-coding RL 案例。
@@ -1416,6 +1466,7 @@
   - rollout staleness、容错和权重同步开销
   - SGLang、Megatron-LM 与 FSDP 版本兼容性
 - discovery_source: Hugging Face Daily Papers / arXiv / GitHub
+- last_review_result: 2026-10-20 最新稳定版仍为 v0.1.2（10-09）；未确认足以改变等级的外部端到端复现，维持 A。
 
 ## openai/codex
 
@@ -1423,17 +1474,18 @@
 - url: https://github.com/openai/codex
 - direction: Coding Agent / Harness / Sandbox / Developer Infrastructure
 - first_seen: 2026-09-11
-- last_review: 2026-10-08
-- next_review: 2026-10-15
+- last_review: 2026-10-20
+- next_review: 2026-10-27
 - status: active
 - quality: A
 - personal_value: high
-- last_release: 0.161.0（GitHub release 页面标示 2026-10-07）
-- last_commit_or_major_delta: 0.161.0 增加模型目录、MCP 登录和后台任务改动，修复权限升级、同轮任务权限继承、线程恢复与重试问题
+- last_release: 0.163.0（2026-10-16 北京时间；UTC 10-15 21:30）；0.164.0-alpha 系列不作稳定版
+- last_commit_or_major_delta: 0.163.0 修复权限恢复、代理 DNS/Host 检查与取消代码单元等路径；不据此推断桌面应用或托管 harness 的 revision
 - main_evidence:
   - 成熟 Rust 主体仓库，包含 codex-rs、CLI、SDK、文档、工具、测试与长期提交历史。
   - 官方将其定位为 Agents API 的开源 harness 基础，可对照托管服务理解模型、工具、上下文和 sandbox 的边界。
   - 0.161.0 稳定版 release 对权限与恢复链路列出具体修正；当前聊天使用模型不随 release 自动改变。
+  - 2026-10-15 复核稳定版 0.162.1 的两项具体 bug fix；不足以构成新的重大技术推荐。
 - missing_evidence:
   - 托管 API 与公开仓库不完全等价，服务端调度、隔离和运维实现并未全部开源。
   - 仍需核对具体 Agents API harness 版本与仓库 revision 的对应关系。
@@ -1450,6 +1502,7 @@
   - session、compaction、tool search 与 sandbox 行为差异
   - 托管和自建路径的可靠性、成本及可观测性
 - discovery_source: OpenAI Agents API 官方发布 / GitHub
+- last_review_result: 2026-10-20 核验稳定版 release，按实际发布时间补报；仍缺托管服务与公开 revision 的明确对应。
 
 ## JustVugg/colibri
 
@@ -1457,8 +1510,9 @@
 - url: https://github.com/JustVugg/colibri
 - direction: LLM Inference / MoE / Memory Hierarchy / Storage Streaming
 - first_seen: 2026-09-15
-- last_review: 2026-10-10
-- next_review: 2026-10-17
+- last_review: 2026-10-17
+- next_review: 2026-10-24
+- last_review_result: 2026-10-17 定向核验未确认足以改变评级或单独推荐的新增证据。
 - status: active
 - quality: B
 - personal_value: high
@@ -1490,14 +1544,15 @@
 - url: https://github.com/NVIDIA/TileGym
 - direction: GPU kernel / CUDA Tile IR / Agent 编译器工作流
 - first_seen: 2026-09-17
-- last_review: 2026-10-04
-- next_review: 2026-10-11
+- last_review: 2026-10-21
+- next_review: 2026-10-28
 - status: active
 - quality: B
 - personal_value: high
 - last_release: v1.5.1（2026-09-22）；GitHub release 已核验，修复 wheel 中 .cuh/.rs/JSON 资源打包
-- last_commit_or_major_delta: v1.5.0 加入多种 cuTile 算子与 LFM2 MoE 集成；v1.5.1 修复安装包资源文件，仍缺独立性能复现
+- last_commit_or_major_delta: 10-19 cuTile Mamba-2 前向技术文提供 TileGym 实现与测试入口、三 kernel 设计及 B300 配置；release 仍为 v1.5.1，不能将新示例等同已打包交付
 - main_evidence:
+  - 2026-10-18 复评：最新 GitHub release 仍为 v1.5.1；未见第三方端到端复现。
   - 官方仓库提供转换 Skill、阶段校验器、CUDA Tile IR 对比、算子源码、测试与性能协议。
   - NVIDIA 自测在 B200 的 347 组配对配置上取得 0.995 的设备时间几何平均性能比，所有 24 个算子均超过 0.95 门槛。
 - missing_evidence:
@@ -1513,6 +1568,7 @@
   - Rust 安全 API 覆盖率与非 Blackwell 平台兼容性
   - 自动转换失败案例与审计成本
 - discovery_source: NVIDIA Developer Blog / 官方 GitHub
+- last_review_result: 2026-10-21 新 kernel/benchmark 触发核验；前向 1.14～1.82 倍为作者指定 B300 对照 Triton 3.7.1 的测量，反向/端到端和独立复跑未确认。技术内容单独报 A，项目评级仍 B。
 
 ## alibaba/open-code-review
 
@@ -1520,13 +1576,14 @@
 - url: https://github.com/alibaba/open-code-review
 - direction: Coding Agent / Code Review / CI / Deterministic Harness
 - first_seen: 2026-09-15
-- last_review: 2026-10-05
-- next_review: 2026-10-12
+- last_review: 2026-10-22
+- next_review: 2026-10-29
+- last_review_result: 2026-10-22 v1.13.2仍为最新；语言覆盖与路径有效性修正已核验，未确认独立AACR-Bench复跑，不重复推荐。
 - status: active
 - quality: B
 - personal_value: high
-- last_release: v1.12.11（2026-09-29）；Jinja allowlist 模板与 merge commit 文件、viewer、Windows 构建修复
-- last_commit_or_major_delta: v1.12.11 为 allowlist 模板及常规修复；未确认改变核心评测结论的新证据
+- last_release: v1.13.2（2026-10-20）；新增 Shader/Nushell/PowerShell 覆盖与路径有效性检查
+- last_commit_or_major_delta: v1.13.2 常规语言规则和扫描路径修复，未达到单独推荐门槛；本轮只做 release 轻检，保留原定复评日
 - main_evidence:
   - 将文件覆盖、分组、规则匹配、评论定位和反思校验放入确定性流水线，Agent 负责跨文件语义判断。
   - Apache-2.0，约 24.5k stars；提供 CLI、全文件扫描、主流 CI 集成与 200 个真实 PR 的 AACR-Bench。
@@ -1551,8 +1608,9 @@
 - url: https://github.com/facebookresearch/ads_model_kernel_library
 - direction: GPU Kernel / Blackwell / MXFP8 FlashAttention / 训练系统
 - first_seen: 2026-09-18
-- last_review: 2026-10-10
-- next_review: 2026-10-17
+- last_review: 2026-10-17
+- next_review: 2026-10-24
+- last_review_result: 2026-10-17 定向核验未确认足以改变评级或单独推荐的新增证据。
 - status: active
 - quality: A
 - personal_value: high
@@ -1583,8 +1641,9 @@
 - url: https://github.com/NVIDIA/TensorRT-Edge-LLM
 - direction: Edge LLM Serving / Jetson / Agentic Benchmark
 - first_seen: 2026-09-18
-- last_review: 2026-10-10
-- next_review: 2026-10-17
+- last_review: 2026-10-17
+- next_review: 2026-10-24
+- last_review_result: 2026-10-17 定向核验未确认足以改变评级或单独推荐的新增证据。
 - status: active
 - quality: B
 - personal_value: high
@@ -1617,8 +1676,9 @@
 - url: https://github.com/modular/modular
 - direction: Mojo 编译器 / MLIR / MAX Serving / GPU Kernel
 - first_seen: 2026-09-19
-- last_review: 2026-10-05
-- next_review: 2026-10-12
+- last_review: 2026-10-22
+- next_review: 2026-10-29
+- last_review_result: 2026-10-22 最新正式版仍MAX26.6/Mojo1.1.0；本轮未完成外部compiler PR质量审查，未确认独立性能新增。
 - status: active
 - quality: A
 - personal_value: high
@@ -1648,8 +1708,9 @@
 - url: https://github.com/NVlabs/SoL-Pi
 - direction: Coding Agent / Harness / Token Efficiency
 - first_seen: 2026-09-19
-- last_review: 2026-10-05
-- next_review: 2026-10-12
+- last_review: 2026-10-22
+- next_review: 2026-10-29
+- last_review_result: 2026-10-22 官方代码可访问，release仍为空；未确认独立成功率—成本复跑。
 - status: active
 - quality: B
 - personal_value: high
@@ -1680,14 +1741,15 @@
 - url: https://github.com/ai-dynamo/aiperf
 - direction: LLM Serving / Performance Benchmark / Production Trace Replay
 - first_seen: 2026-09-20
-- last_review: 2026-10-06
-- next_review: 2026-10-13
+- last_review: 2026-10-20
+- next_review: 2026-10-27
 - status: active
 - quality: A
 - personal_value: high
 - last_release: v0.13.0（2026-09-24）
 - last_commit_or_major_delta: 2026-09-24 v0.13.0：Kubernetes beta、推测解码接受率、首 chunk usage 修正、cache-bust 与服务端控制钩子
 - main_evidence:
+  - 2026-10-13 复评：官方 Releases 最新仍为 9 月 24 日 v0.13.0；尚未看到独立跨负载器对照，维持观察。
   - 多进程负载 worker、独立结果处理服务与 ZMQ 协调，直接处理高并发时客户端先成为瓶颈的问题。
   - 提供核心实现、测试、插件系统、Kubernetes operator、生产 trace 回放、SLA/goodput、服务端遥测与多次运行置信区间。
   - 0.13.0 版本说明对应具体 PR；按 chunk 统计 usage 修正首流式 chunk 合并导致的 TPS/user 偏高，并加入每请求推测解码接受率。
@@ -1709,6 +1771,7 @@
 - discovery_source: NVIDIA Technical Blog / 官方 GitHub / 官方文档
 
 ---
+- last_review_result: 2026-10-20 最新稳定版仍为 v0.13.0（09-24）；未确认新版本或足以改变等级的独立负载验证，维持 A。
 
 ## huggingface/tokbench
 
@@ -1716,8 +1779,9 @@
 - url: https://github.com/huggingface/tokbench
 - direction: LLM Systems / Tokenization / Benchmark
 - first_seen: 2026-09-22
-- last_review: 2026-10-05
-- next_review: 2026-10-12
+- last_review: 2026-10-22
+- next_review: 2026-10-25
+- last_review_result: 2026-10-22 核心实现与公共API测量规则可访问，release端点失败；不能断言无更新，短期复核。
 - status: active
 - quality: B
 - personal_value: high
@@ -1745,8 +1809,9 @@
 - url: https://github.com/NVIDIA/SWE-Serve
 - direction: Coding Agent / LLM Serving / Systems Benchmark / SGLang
 - first_seen: 2026-09-24
-- last_review: 2026-10-05
-- next_review: 2026-10-12
+- last_review: 2026-10-22
+- next_review: 2026-10-29
+- last_review_result: 2026-10-22 官方代码与arXiv已核，release页恢复可读且为空；未确认独立复跑或验证器审计。
 - status: active
 - quality: B
 - personal_value: high
@@ -1778,16 +1843,17 @@
 - url: https://github.com/NVIDIA/OpenShell
 - direction: Agent Runtime / Sandbox / Security / Policy Verification
 - first_seen: 2026-09-29
-- last_review: 2026-10-04
-- next_review: 2026-10-11
+- last_review: 2026-10-22
+- next_review: 2026-10-29
 - status: active
 - quality: B
 - personal_value: high
-- last_release: v0.1.2（GitHub release 页面标示 2026-09-28；此前状态记录的 0.1.0 为技术说明所介绍版本）
-- last_commit_or_major_delta: Gateway/Supervisor/Sandbox 外部策略执行、受控凭据代理、OPA/Rego 与 policy prover
+- last_release: v0.1.5（2026-10-21 北京时间；UTC10-20 17:28）
+- last_commit_or_major_delta: v0.1.5：主机名策略绑定supervisor DNS、pod元数据allowlist、broker失败拒绝、MicroVM关闭刷盘及opt-in配置推送；新技术增量A，项目评级维持B
 - main_evidence:
+  - 2026-10-18 复评：最新稳定 GitHub release 已到 v0.1.4（2026-10-14 北京时间），增加凭据检索与运行时修复；尚缺独立安全审计。
   - 官方仓库包含 Rust crates、Python/多语言 SDK、deploy、e2e、examples 与架构文档，不是 README 占位。
-  - 官方可运行示例验证无网络、GitHub 只读和拒绝 POST；策略更新与审计路径有具体说明。
+  - 官方可运行示例验证无网络、GitHub 只读和拒绝 POST；v0.1.3 的合并 PR 给出 MCP 版本选择、批量成员检查、转发前再次验证及测试边界。
 - missing_evidence:
   - 缺独立安全审计与多协议覆盖矩阵；跨 Agent 组合权限分析仍在开发。
   - BlueField-4/Sentry 属额外参考架构，不应计入纯软件部署的已验证能力。
@@ -1802,6 +1868,7 @@
   - policy prover 实际支持的安全性质和跨 Agent 组合权限
   - 0.1.x 版本稳定性与升级路径
 - discovery_source: NVIDIA 官方技术博客 / 官方 GitHub
+- last_review_result: 2026-10-22 正式版触发提前复评，已报告具体网络/元数据/恢复语义与兼容性；仍缺独立安全审计。
 
 ## NVIDIA/NeMo-Relay
 
@@ -1809,13 +1876,14 @@
 - url: https://github.com/NVIDIA/NeMo-Relay
 - direction: Agent / 执行运行时 / 可观测性 / 策略中间件
 - first_seen: 2026-10-01
-- last_review: 2026-10-10
-- next_review: 2026-10-17
+- last_review: 2026-10-21
+- next_review: 2026-10-28
+- last_review_result: 2026-10-21 新安全边界与观测修复触发提前复评；已简报 B 级增量，项目原有 A 级不因修复日志升级，仍缺独立审计。
 - status: active
 - quality: A
 - personal_value: high
-- last_release: v0.10.0（2026-10-08）
-- last_commit_or_major_delta: v0.10.0 从 beta 转为稳定版，增加跨平台资源指标插件和正式发布资产；未见足以单独成篇的独立评测。
+- last_release: 0.10.4（2026-10-21 北京时间；UTC10-20 17:53）
+- last_commit_or_major_delta: 0.10.4修复hook验证另一账户运行的daemon并更新Hono；本次仅轻检，不构成独立推荐或成熟度升级
 - main_evidence:
   - 共用 run/turn/tool/LLM/subagent scope、middleware 与事件流，导出 ATOF、ATIF、OpenTelemetry。
   - README 给出 Codex/Claude Code 包装、真实产物验证与缺失 LLM span/ATIF 的诊断条件。
@@ -1841,8 +1909,9 @@
 - url: https://github.com/allenai/Olmo-core
 - direction: MoE 训练 / 分布式系统 / GPU 并行
 - first_seen: 2026-10-02
-- last_review: 2026-10-10
-- next_review: 2026-10-17
+- last_review: 2026-10-17
+- next_review: 2026-10-24
+- last_review_result: 2026-10-17 定向核验未确认足以改变评级或单独推荐的新增证据。
 - status: active
 - quality: A
 - personal_value: high
@@ -1872,8 +1941,9 @@
 - url: https://github.com/ggml-org/llama.cpp
 - direction: 推理运行时 / 决策模型 / Agent 路由
 - first_seen: 2026-10-03
-- last_review: 2026-10-10
-- next_review: 2026-10-17
+- last_review: 2026-10-17
+- next_review: 2026-10-24
+- last_review_result: 2026-10-17 定向核验未确认足以改变评级或单独推荐的新增证据。
 - status: active
 - quality: B
 - personal_value: high
@@ -1919,20 +1989,121 @@
   - third-party reproduction
 -->
 
+## gemini-4-argon-model-card
+
+- type: project
+- title: Gemini 4 Argon model card and safety case
+- url: https://storage.googleapis.com/deepmind-media/Model-Cards/Gemini-4-Argon-Model-Card.pdf
+- direction: 前沿模型 / 多模态 MoE / Agent 安全评估
+- first_seen: 2026-10-15
+- last_review: 2026-10-22
+- next_review: 2026-10-29
+- status: watchlist
+- quality: A
+- maturity: M1
+- personal_value: high
+- watch_reason: 官方模型卡已能核验架构、局限、内部安全比较及前沿风险阈值措辞；更细训练规模、外部任务复跑和部署安全验证仍缺。
+- trigger_events:
+  - 独立长任务与代码修复评测
+  - 模型卡或安全报告实质更新
+  - 成本、延迟和工具行为的真实工作负载复跑
+- last_review_result: 2026-10-22 14页官方模型卡仍可访问；未识别可确认的实质新修订或独立长任务复跑，不将内部红队与自动评测当独立验证。
+
+## dsx-ai-factory/run-ai
+
+- type: github
+- title: NVIDIA Run:ai open-source GPU orchestration platform
+- url: https://github.com/dsx-ai-factory/run-ai
+- direction: Kubernetes GPU 调度 / 多租户资源治理 / 工作负载抽象
+- first_seen: 2026-10-14
+- last_review: 2026-10-21
+- next_review: 2026-10-28
+- status: watchlist
+- quality: A
+- maturity: M1
+- personal_value: medium-high
+- watch_reason: NVIDIA 于 2026-10-13 开放 Apache-2.0 单仓源码，含控制面、集群组件、安装器、本地 Kind 路径及规模测试；尚缺可复现的相对现有调度器的真实集群收益。
+- trigger_events:
+  - 第三方部署或性能复现
+  - 正式 release 与安装兼容矩阵
+  - Workload Map / GPU Fractioning 的生产反馈
+- last_review_result: 2026-10-21 官方代码与 release 已核，最新仍为 3.0.20（10-11）；新增材料主要是来源解读，未确认独立部署/平台级 benchmark，维持 A/M1。
+
+## vLLM bidirectional KV transfer
+
+- type: project
+- title: Bi-Directional KV Transfer for Multi-Turn Agentic Workloads
+- url: https://vllm.ai/blog/2026-10-12-bidirectional-kvxfer-multiturn-agentic-workload
+- direction: 多轮 Agent serving / KV 缓存 / prefill-decode 分离
+- first_seen: 2026-10-14
+- last_review: 2026-10-21
+- next_review: 2026-10-28
+- status: watchlist
+- quality: A
+- maturity: M1
+- personal_value: high
+- watch_reason: vLLM v0.21.0 实现与可复现实验显示长多轮提示 TTFT 改善，作者评测关闭 prefill 前缀缓存；仍须验证真实缓存命中、KV 保留显存与多节点失效。
+- trigger_events:
+  - 独立多会话复现
+  - 路由器与 KV TTL 生产改进
+  - 与高命中前缀缓存的对照
+- last_review_result: 2026-10-21 原始正文与实现线索仍可访问；定向发现的外部文章明确仅为来源解读而非复跑，未确认独立多会话、高前缀命中与失效复现，维持 A/M1。
+
+## 2610.13778 / ReplaySSM
+
+- type: paper / github
+- title: ReplaySSM: Cache SSM Inputs, Not State
+- url: https://arxiv.org/abs/2610.13778
+- direction: 混合模型推理 / SSM 状态 / 推测解码 / 低精度
+- first_seen: 2026-10-13
+- last_review: 2026-10-20
+- next_review: 2026-10-27
+- status: watchlist
+- quality: A
+- maturity: M1
+- personal_value: high
+- watch_reason: 作者论文、vLLM 研究 fork、benchmark 脚本和框架集成 PR 支持核心机制；batch 256 的 1.20～1.47 倍 decode step 加速来自作者指定的四模型单卡配置，batch 1 无增益。
+- trigger_events:
+  - 上游框架正式 release
+  - 独立跨硬件复跑
+  - 长生成低精度质量验证
+- last_review_result: 2026-10-20 arXiv 仍为 v1（10-09）；作者仓库列出 TensorRT-LLM/vLLM/FlashInfer 集成 PR，既有集成线索不作为首次采用。尚缺 release/revision 映射、长生成低精度与跨硬件独立完整链路验证，维持 A/M1。
+
+## google/embeddinggemma-2
+
+- type: project
+- title: EmbeddingGemma 2
+- url: https://huggingface.co/google/embeddinggemma-2
+- direction: 多模态嵌入 / 代码检索 / 端侧 RAG
+- first_seen: 2026-10-12
+- last_review: 2026-10-20
+- next_review: 2026-10-27
+- status: watchlist
+- quality: A
+- maturity: M1
+- personal_value: high
+- watch_reason: 官方开放 740M 模型权重与完整模型卡，代码检索、跨模态和向量维度对照可复测；缺独立真实语料与跨设备端到端验证，优先观察 256/128 维质量和数值精度问题。
+- trigger_events:
+  - independent retrieval benchmark
+  - device-level latency and memory reproduction
+  - framework integration or checkpoint revision
+- last_review_result: 2026-10-20 SGLang v0.5.22 已正式支持并提供 cookbook；外部 Strata2Signal 自报小语料检索（68 queries/2569 passages）有结果，但数据包未发布、内部多 Agent 审计不构成外部验证，维持 A/M1，待可复跑资产后再判断成熟度。
+
 ## openai/math
 
 - type: github
 - title: OpenAI mathematics manuscripts and proof artifacts
 - url: https://github.com/openai/math
 - direction: AI for science / 数学 / Lean 形式化验证
-- last_review: 2026-10-08
-- next_review: 2026-10-22
+- last_review: 2026-10-21
+- next_review: 2026-10-28
 - watch_reason: 2026-10-06 首次公开 722 份手稿、372 个家族和部分 Lean 形式化；公开产物可核验，但未形式化结果可能有错，独立数学审查与命题语义核对仍待积累。
 - trigger_events:
   - independent mathematical review
   - Lean formalization expansion
   - material corrections or retractions
   - independent build and proof audit
+- last_review_result: 2026-10-21 仓库历史 10-07 撤回三份手稿并修订另 14 份，此前未补报；目录为 719 份/372 家族，README 自报约 42% top-line formalized。按实质勘误提前复评，已于 10-21 补报，不提升独立验证成熟度。
 
 ## torch-spyre/torch-spyre
 
@@ -1940,14 +2111,63 @@
 - title: PyTorch backend for IBM Spyre AIU
 - url: https://github.com/torch-spyre/torch-spyre
 - direction: 异构加速器 / PyTorch PrivateUse1 / Inductor / 推理运行时
-- last_review: 2026-10-09
-- next_review: 2026-10-23
+- last_review: 2026-10-21
+- next_review: 2026-10-28
 - watch_reason: 2026-10-08 PyTorch 技术文章给出从二次建图到原生设备、驻留张量及有序队列的完整重构和 Granite 3.3 8B 对照；仓库有核心代码、文档与测试，但外部构建需 IBM 软件栈开发版本，缺独立复跑。
 - trigger_events:
   - reproducible public build
   - independent performance reproduction
   - operator or model coverage expansion
   - upstream integration or release
+- last_review_result: 2026-10-21 10-20 新技术文与 DataflowScheduler 代码补齐 KTIR→DataflowIR 边界，已按新技术增量单独推荐；V1 逐元素/广播/归约与局部启发式，matmul 与成本模型仍在推进，不能推断完整设备栈已可独立复跑。
+
+## Muse Spark Open
+
+- type: model
+- title: Meta Muse Spark Open 816B-A42B
+- url: https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B
+- direction: 多模态开放权重 / MoE / Agent Serving
+- first_seen: 2026-10-17
+- last_review: 2026-10-17
+- next_review: 2026-10-24
+- status: watchlist
+- quality: A
+- personal_value: high
+- main_evidence: 官方 BF16/NVFP4 权重、模型卡、评测方法及 HF 部署说明；816B/42B，文本/图像/音频/视频输入。
+- missing_evidence: 独立同条件代码 Agent 评测、长上下文成本/准确率、完整安全报告、真实多租户吞吐。
+- next_review_focus: 模型卡/许可更新、vLLM/SGLang 性能、第三方同口径复跑。
+
+## Beam 501B-A23B
+
+- type: model
+- title: Reflection Beam 501B-A23B
+- url: https://reflection.ai/beam-model-card
+- direction: 开放权重 / 文本 Agent / MoE / 后训练
+- first_seen: 2026-10-17
+- last_review: 2026-10-17
+- next_review: 2026-10-24
+- status: watchlist
+- quality: A
+- personal_value: high
+- main_evidence: 2026-10-16 权重正式发布；BF16/FP8/NVFP4、Apache 2.0、模型卡、部署和 TRL/Miles 配方。
+- missing_evidence: 独立同 harness 的代码任务/推理 token 成本对照、长上下文生产表现；自蒸馏配方尚待发布。
+- next_review_focus: 第三方复跑、自蒸馏配方实际交付、量化与 serving 成本。
+
+## Zephon
+
+- type: paper
+- title: Elastic Determinism for Online, Stateful Foundation Model Data Loading Pipelines
+- url: https://arxiv.org/abs/2610.03087
+- direction: 分布式训练 / 数据加载 / 弹性确定性
+- first_seen: 2026-10-17
+- last_review: 2026-10-17
+- next_review: 2026-10-24
+- status: watchlist
+- quality: A
+- personal_value: high
+- main_evidence: 论文与 PyTorch 技术文章、TorchTitan 集成代码；16→8/32/64 GPU 恢复时全局 batch hash 一致，DCLM/FineWeb 消融跨度明显缩小。
+- missing_evidence: 独立大规模复跑、复杂动态课程/多模态 pipeline 的吞吐与恢复成本。
+- next_review_focus: 主线上游集成、不同集群配置的恢复成本和外部复现。
 
 ## jerrysfls/HyQuant
 
@@ -1955,8 +2175,9 @@
 - url: https://github.com/jerrysfls/HyQuant
 - direction: LLM Serving / Attention / KV cache / Triton
 - first_seen: 2026-09-12
-- last_review: 2026-10-03
-- next_review: 2026-10-17
+- last_review: 2026-10-17
+- next_review: 2026-10-24
+- last_review_result: 2026-10-17 定向核验未确认足以改变评级或单独推荐的新增证据。
 - status: watchlist
 - quality: B
 - personal_value: high
@@ -1986,13 +2207,13 @@
 - url: https://github.com/openai/NavierStokesAndEuler
 - direction: AI Scientist / 形式化验证 / 数学
 - first_seen: 2026-09-10
-- last_review: 2026-10-02
-- next_review: 2026-10-16
+- last_review: 2026-10-16
+- next_review: 2026-10-30
 - status: watchlist
 - quality: B
 - personal_value: high
 - last_release: 未发现稳定 release
-- last_commit_or_major_delta: 2026-10-02 仍见两次公开提交，未确认独立数学审查或新版正式发布
+- last_commit_or_major_delta: 2026-10-16 复查仍为 2026-09-08 与 09-10 两次公开提交，未发现新版正式发布或可核验的独立数学审查
 - main_evidence:
   - 仓库包含 Lean 4.34.0-rc2 工程，按 NavierStokes、Euler 与 ComparatorChallenges 组织核心形式化内容。
   - 提供 Mathlib 缓存和完整构建路径，可由外部研究者独立运行 proof kernel 检查。
@@ -2030,14 +2251,15 @@
 - title: TensorRT Model Connect
 - url: https://github.com/NVIDIA/TensorRT-Model-Connect
 - direction: C++ 推理运行时 / 模型接入 / TensorRT / 验证契约
-- last_review: 2026-10-08
-- next_review: 2026-10-22
+- last_review: 2026-10-22
+- next_review: 2026-11-05
 - watch_reason: 已公开核心代码、Qwen 端到端路径、模型 family 描述符、C++ runtime DSO 与 E2E oracle；截至 2026-10-08 未确认新的稳定 release 或独立硬件复跑，继续低频观察。
 - trigger_events:
   - stable release
   - broader model qualification
   - independent hardware reproduction
   - ABI or bundle contract change
+- last_review_result: 2026-10-22 release仍仅见TRTMC Nightly 75e25af75499（08-14），不作稳定版；未确认独立硬件复现。
 
 ## one2piece2hello/faibench_Frontier_InfraBench
 
@@ -2059,14 +2281,94 @@
 - title: Helion vLLM Linear Backend
 - url: https://github.com/redhat-et/vllm-helion
 - direction: LLM Serving / GPU Kernel / AOT Autotuning
-- last_review: 2026-10-04
-- next_review: 2026-10-11
-- watch_reason: 作者 fork 已开放 Helion 线性后端、预调配置与 benchmark 工具；H100 下部分端到端负载吞吐提升超过 10%，但尚未合入 vLLM 主线，逐形状调优和配置维护成本待验证。
+- last_review: 2026-10-18
+- next_review: 2026-10-25
+- watch_reason: 2026-10-11 复评未确认上游合入、独立端到端 benchmark 或跨硬件结果；作者 fork 已开放 Helion 线性后端、预调配置与 benchmark 工具，逐形状调优及维护成本仍待验证。 2026-10-18 复评仍未确认上游合入或独立同配置端到端复现。
 - trigger_events:
   - vLLM upstream merge
   - independent benchmark
   - Blackwell or AMD end-to-end result
   - autotuning cost reduction
+
+---
+
+## nvidia/Nemotron-3.5-Super-VL
+
+- type: project
+- title: NVIDIA Nemotron 3.5 Super VL
+- url: https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Super-VL-120B-A12B-NVFP4
+- direction: 开放多模态 MoE / Agent 推理 / 量化与缓存
+- first_seen: 2026-10-16
+- last_review: 2026-10-16
+- next_review: 2026-10-23
+- status: watchlist
+- quality: A
+- maturity: M1
+- personal_value: high
+- watch_reason: 120B-A12B 权重、技术报告、NVFP4 与服务配方已公开；需要独立同任务的质量/延迟/成本分层复现。
+- trigger_events:
+  - 独立 Agent 与视觉任务复跑
+  - 量化、LiLiCorr、Dynamo 的消融与跨硬件结果
+  - 权重、模型卡或许可实质变更
+
+## huggingface/tokenizers#2508
+
+- type: project
+- title: BERT / Unicode normalizer optimization
+- url: https://github.com/huggingface/tokenizers/pull/2508
+- direction: tokenizer / CPU 性能 / 检索服务
+- first_seen: 2026-10-16
+- last_review: 2026-10-21
+- next_review: 2026-10-28
+- status: watchlist
+- quality: A
+- maturity: M1
+- personal_value: high
+- watch_reason: 原团队提供待合并 PR、分语种性能矩阵和复现代码；中文及短文本有回退，需确认合并与正式发布。
+- trigger_events:
+  - PR merge 与稳定版发布
+  - 独立语种/长度矩阵复跑
+  - 中文性能回退修复
+- last_review_result: 2026-10-21 PR 仍为 Draft，16 commits、未合并；release 最新为 v1.0.0-rc.3，不能推断本优化已正式交付。外部 tokenizer 成本比较不等于该 PR 加速复现，维持 A/M1。
+
+## vllm/push-kv-and-adaptive-verification
+
+- type: project
+- title: vLLM Push KV connector and online Adaptive Verification
+- url: https://vllm.ai/blog/2026-10-14-nixl-push-connector
+- direction: prefill-decode 分离 / 推测解码 / 在线校准
+- first_seen: 2026-10-16
+- last_review: 2026-10-16
+- next_review: 2026-10-23
+- status: watchlist
+- quality: A
+- maturity: M1
+- personal_value: high
+- watch_reason: 两项 10 月 14 日漏报实现均有原团队技术文和代码；Push 的极端加速限定 1P1D/EFA 且关闭 decode 前缀缓存，AV 的收益限定可变长验证与合适 batch。
+- trigger_events:
+  - 独立真实生产负载复跑
+  - 与前缀缓存、动态路由及双向 KV 的对照
+  - AV 对更多模型对与 batch 的收益验证
+
+
+## 2610.22367
+
+- type: paper
+- title: Discovering state-of-the-art quantum circuits with large language models
+- url: https://arxiv.org/abs/2610.22367
+- direction: AI for science / verifiable search / quantum circuits
+- first_seen: 2026-10-18
+- last_review: 2026-10-18
+- next_review: 2026-10-23
+- status: watchlist
+- quality: A
+- maturity: M0
+- personal_value: medium
+- watch_reason: 八类基元有作者论文、程序校验和模逆 Lean 证明；仍需核查公开证明/电路资产、独立资源重算与物理门开销。
+- trigger_events:
+  - proof or circuit code release
+  - independent resource recount
+  - fault-tolerant cost analysis
 
 ---
 
@@ -2092,6 +2394,200 @@
 
 ---
 
+## helion-compileiq-20261019
+
+- type: systems / compiler
+- title: Helion × NVIDIA CompileIQ 联合搜索
+- url: https://pytorch.org/blog/one-search-two-layers-compiler-controls-inside-pytorch-helion-using-nvidia-compileiq/
+- archived_at: 2026-10-20
+- quality: A
+- maturity: M1
+- personal_value: extremely high
+- key_conclusion: 有配置接口与预调优 kernel；GB200/CUDA13.3/Triton3.8 作者重测的 kernel 收益约 4.8%/6.9%，非端到端或独立结果；保留无 ACF 基线并逐环境校验。
+- reconsider_if: 新架构独立复跑、工具链兼容性变化或完整模型收益公开。
+
+## mlir-static-memory-planner-20261019
+
+- type: compiler
+- title: MLIR Static Memory Planner
+- url: https://blog.llvm.org/posts/2026-08-24-gsoc-2026-static-memory-planner/
+- archived_at: 2026-10-20
+- quality: A
+- maturity: M1
+- personal_value: extremely high
+- key_conclusion: 10-19 技术复盘，基础/控制流修正代码此前已合并；别名、嵌套释放与保守生命周期是主要学习价值，未证实通用性能收益。
+- reconsider_if: 动态形状、复杂控制流支持或独立系统基准交付。
+
+## anthropic-scion
+
+- type: systems
+- title: Scion source control
+- url: https://www.anthropic.com/engineering/redesigning-source-control
+- archived_at: 2026-10-20
+- quality: A
+- maturity: M0
+- personal_value: high
+- key_conclusion: 正文 10-13 发布、10-15 更新，列表 10-19 不作首发日；changeset/派生数据/在线客户端/不可变缓存值得学习，200 倍基础设施缩减为内部自报，未开源。
+- reconsider_if: 实现交付、独立工作负载验证或故障恢复细节公布。
+
+## sglang-v0.5.22
+
+- type: github
+- title: SGLang v0.5.22
+- url: https://github.com/sgl-project/sglang/releases/tag/v0.5.22
+- archived_at: 2026-10-20
+- quality: A
+- maturity: M1
+- personal_value: high
+- key_conclusion: 10-19 正式版；prefill_complete KV 分配为 opt-in，early 仍默认；特定压力负载 26.8% 吞吐/48.9% p95 TTFT 为作者结果，后续 rebase 验证仍需补齐。另修正混合模型推测解码与结构化输出的 Mamba 状态追踪边界。
+- reconsider_if: 独立 PD 复跑、默认策略变化或状态恢复回归。
+
+## torchtpu-20261020
+
+- type: systems / github
+- title: TorchTPU and vLLM TorchTPU
+- url: https://github.com/google-pytorch/torch_tpu
+- archived_at: 2026-10-21
+- quality: A
+- maturity: M1
+- personal_value: extremely high
+- key_conclusion: 10-20 新原生后端；公开 0.2.0 安装与文档，eager/StableHLO/PjRT 与插件路径可审查；无崩溃与数值容差检查不等价，vLLM 插件 Python3.12/v7x 与其他代际实验支持有边界。
+- reconsider_if: 独立数值/成本复跑、动态形状及 RL colocation 支持变化。
+
+## spyre-dataflow-scheduler
+
+- type: compiler / github
+- title: Spyre DataflowScheduler
+- url: https://github.com/torch-spyre/dataflow-scheduler
+- archived_at: 2026-10-21
+- quality: A
+- maturity: M1
+- personal_value: extremely high
+- key_conclusion: 10-20 技术文和 Apache-2.0 核心/测试/CLI；固定 LLVM22.1.3，KTIR→ScheduleIR→DFIR，以架构图合法化数据搬运，V1 局部启发式，matmul 尚待完善。
+- reconsider_if: matmul、成本模型、独立端到端或其他硬件 backend 交付。
+
+## vllm-elastic-ep-20261019
+
+- type: systems
+- title: vLLM Elastic EP near-zero downtime
+- url: https://vllm.ai/blog/2026-10-19-elastic-ep-near-zero-downtime
+- archived_at: 2026-10-21
+- quality: A
+- maturity: M1
+- personal_value: high
+- key_conclusion: 10-19 漏报已补；异步准备+NIXL EP 保持 CUDA Graph 地址/布局，指定 DeepSeekV4Pro/GB200 的扩容暂停0.82s、总耗时92.34s；v0.30.0 有四 GPU 扩缩容/准确率测试，非独立复现。
+- reconsider_if: 独立跨拓扑复跑、失败恢复与控制面集成。
+
+## mps-2.15-20261020
+
+- type: systems
+- title: MPS in PyTorch 2.15
+- url: https://huggingface.co/blog/mps-pytorch-2-15
+- archived_at: 2026-10-21
+- quality: A
+- maturity: M1
+- personal_value: high
+- key_conclusion: 10-20 HF 团队复盘，相关 grouped_mm/padding PR 9 月已合入；当前为候选版试用，2.16 另算。正文 MoE 5～6.5倍与小节1.3倍口径不同，日报不复述统一模型加速承诺；重点 GPU 偏移、driver memory 与 stream 生命周期。
+- reconsider_if: 正式版、独立硬件/模型复跑与2.16交付。
+
+## minilangbench-20261019
+
+- type: evaluation / github
+- title: MultiLangBench
+- url: https://github.com/openai/MultiLangBench
+- archived_at: 2026-10-21
+- quality: B
+- maturity: M1
+- personal_value: high
+- key_conclusion: 10-19 公开，10-21 补报；SQLite3.40.1 数据库状态接口，约24k转换测试、标准272子集、隔离/去SQLite约束明确。模型分数作者自报，不能等同完整SQL/并发行为或通用工程成功率。
+- reconsider_if: 独立跨 harness 复跑、测试覆盖/污染审计。
+
+## torchneuron-native-beta
+
+- type: systems / github
+- title: TorchNeuron native backend delivery
+- url: https://github.com/aws-neuron/torch-neuronx
+- archived_at: 2026-10-21
+- quality: B
+- maturity: M1
+- personal_value: high
+- key_conclusion: 10-21 核验代码、示例和安装已公开，torch2.14/torch-neuronx2.14.*需配套；旧同名包是XLA路径。静态shape/连续tensor限制、float64降为float32、TorchAO未交付需明确。
+- reconsider_if: 独立构建/正确性/性能复现与动态形状或数值支持改变。
+
+## mamba2-cutile-20261019
+
+- type: systems / kernel
+- title: cuTile Mamba-2 forward
+- url: https://developer.nvidia.com/blog/accelerating-mamba-2-with-high-performance-forward-pass-kernels-in-nvidia-cuda-tile/
+- archived_at: 2026-10-21
+- quality: A
+- maturity: M1
+- personal_value: high
+- key_conclusion: 10-19 技术文，10-21 正文恢复可读并补报；三kernel、布局/TensorMemory/自动调优和TileGym测试入口，B300前向1.14～1.82倍为作者自测，无反向/整训练收益。
+- reconsider_if: 独立复跑、反向实现与完整训练benchmark。
+
+
+## humming-20261021
+
+- type: github / kernel
+- title: Humming quantized inference kernels
+- url: https://github.com/vllm-project/humming
+- archived_at: 2026-10-22
+- quality: A
+- maturity: M1
+- personal_value: extremely high
+- key_conclusion: 10-21完整技术发布；此前已存在。量化表示、三类配置与JIT可审查；8H20端到端14%～43%包含BF16→FP8激活变化，不能全归因内核；autotune仍计划。
+- reconsider_if: 独立同精度与质量复跑、autotune交付或重要硬件支持变化。
+
+## flint-vllm-20261021
+
+- type: systems / model backend
+- title: Flint low-latency vLLM implementation
+- url: https://github.com/vllm-project/vllm/pull/62938
+- archived_at: 2026-10-22
+- quality: A
+- maturity: M1
+- personal_value: high
+- key_conclusion: 10-21专用镜像可用，模型PR仍Open；单Blackwell TP1小batch，NVFP4 GGUF实际W4A16/BF16KV；作者固定tree测试267passed1skip，非独立与非逐位数值验证。
+- reconsider_if: 主线合并/稳定release、独立数值或多租户成本复跑。
+
+## specter-v2-20261020
+
+- type: paper / github
+- title: Specter quantization-enabled speculative offloading
+- url: https://arxiv.org/abs/2511.14102
+- archived_at: 2026-10-22
+- quality: A
+- maturity: M1
+- personal_value: high
+- key_conclusion: 初版2025-11-18，v2于2026-10-20修订并有artifact；draft路由预测+FP16目标验证，单请求相对SpecMoEOff均值1.50x/最高1.88x为作者A100测量。公开包batch1，与论文额外batch实验分开；依赖锁定/资产哈希/状态边界可审查。
+- reconsider_if: 独立A100与其他硬件复现、批量artifact交付或长上下文质量审计。
+
+
+## nemotron-35-retriever-20261021
+
+- type: model / retrieval
+- title: Nemotron 3.5 Embed, Rerank and Parse
+- url: https://huggingface.co/blog/nvidia/nemotron-retriever-world-class-agentic-retrieval
+- archived_at: 2026-10-22
+- quality: A
+- maturity: M1
+- personal_value: high
+- key_conclusion: 10-21技术文；8B Embed卡标10-20、Parse标10-17。冻结语言部分保留对应BF16文本嵌入；新视觉能力、重排与结构解析各有独立成本。NVFP4需Blackwell/vLLM，量化不可沿用相同向量假设；Agent token减少不等于总GPU成本下降。Parse单遍72.74/16.1页秒、三遍75.20/10.5为不同H100配置。权重OpenMDW1.1。
+- reconsider_if: 独立任务召回—全链成本评估、量化索引兼容验证或重要后端更新。
+
+## torchneuron-profiling-20261021
+
+- type: systems / tutorial
+- title: Profiling TorchNeuron Part 1
+- url: https://huggingface.co/blog/amazon/profiling-torchneuron-part-1
+- archived_at: 2026-10-22
+- quality: A
+- maturity: M1
+- personal_value: high
+- key_conclusion: 10-21教程正文有可审查示例；PrivateUse1+Neuron trace对齐框架/运行时/硬件，循环内同步避免空设备计时。BF16[4,512]单active iteration中朴素/融合/compile设备时间2355/403/376us，不能当整模型或生产尾延迟。外链examples本次不可访问，不据此声称独立复跑。
+- reconsider_if: 后续设备级分析或独立多负载复跑。
+
 # Low-value / Deferred
 
 > 低价值或当前证据不足的条目只保留最小状态，避免重复扫描和重复深评。
@@ -2104,7 +2600,104 @@
 
 ---
 
+- id: minimax-m31-flash / https://www.minimax.cn/blog/minimax-m31f
+  reason: 10-20 已报 B；API 已上线但权重尚待开放，自报速度/成本与成绩缺完整同条件复跑，待模型卡与可部署资产。
+  reconsider_after: 2026-10-23
+- id: 2610.23328 / Peak-Memory Schedules You Can Trust
+  reason: 10-16 新论文，内存规划方向匹配；仅初筛摘要，代码与可复跑资产待核实，不提前深评。
+  reconsider_after: 2026-10-23
+- id: 2610.23044 / Where Does Performance Go? C-to-Rust
+  reason: 10-16 新论文，迁移后性能归因方向匹配；仅初筛，独立复跑与资产待核实。
+  reconsider_after: 2026-10-23
+- id: 2610.23787 / DLite
+  reason: 10-16 新论文，无历史 draft KV 的推测解码；自报收益缺完整代码/checkpoint 与训练成本验证，先观察。
+  reconsider_after: 2026-10-23
+- id: xiaomi/mimo-v2.6-pro-ultraspeed
+  reason: 10-19 阿里云平台上架，速度主张缺公开基线和复测方法；不因平台展示直接推荐。
+  reconsider_after: 2026-10-23
+
+- id: 2610.26632 / When the harness decides success
+  reason: 10-19 新论文；合成重观察探针有预注册/跨provider复制，ARC四游戏单次运行局限明显；初筛后待核验代码、成本及独立复现。
+  reconsider_after: 2026-10-26
+- id: 2610.26693 / Parallel Language Models via Variational Decoding
+  reason: 10-19 新论文；摘要称1.3B对照与2.3～5.7倍，代码仍写will release；默认观察，未深评。
+  reconsider_after: 2026-10-26
+- id: 2610.22791 / Harness-Policy Optimization
+  reason: HF10-20发现；新论文先初筛，待公开代码/轨迹与同预算、留出集证据核验。
+  reconsider_after: 2026-10-26
+- id: FairStress / https://huggingface.co/blog/allenai/fairstress
+  reason: Ai2 Enterprise Article属定向研究发现，不是HF官方Tier1；300场景/50K核心与成对扰动值得观察，待原报告和独立验证。
+  reconsider_after: 2026-10-26
+- id: ALTK-Evolve customer-service / https://huggingface.co/blog/ibm-research/altk-evolve-bc
+  reason: IBM Enterprise Article仅定向候选；40/20测试任务、simulator及更多guideline token的收益边界需审计，不因榜单自称领先当天推荐。
+  reconsider_after: 2026-10-26
+- id: AnyLanguageModel 1.0 / https://huggingface.co/blog/anylanguagemodel-1-0
+  reason: HF官方1.0发布与跨provider接口可信，当前Swift应用开发直接投入价值较低，保留低频；避免重复把已支持模型当新模型。
+  reconsider_after: 2026-11-03
+
+- id: 2610.28595 / RTLRepairBench
+  reason: 10-20 v1；作者数据、formal/simulation与离线证据代码已公开；新论文先观察，待reset/首周期语义及完整复现实审。
+  reconsider_after: 2026-10-26
+- id: 2610.28576 / Token-Energy Law
+  reason: 10-20 v1；三模型BF16与校准时间模型，仅初筛；跨配置外推与测量资产待核实。
+  reconsider_after: 2026-10-27
+- id: 2610.28369 / Dont Skip the Baseline
+  reason: 10-20 v1；等专家计算预算的静态k对照值得关注，不能未读全文就判ACE已被证伪。
+  reconsider_after: 2026-10-26
+- id: 2610.28577 / AKV
+  reason: 10-20 v1；thu-nics/AKV代码已公开，缓存操作历史决定状态的正确性重要；先观察，待评测/重定位语义与复跑核验。
+  reconsider_after: 2026-10-26
+- id: 2610.28441 / Stratified Sparse Attention
+  reason: 10-20 v1；摘要称有CUDA代码与1M上下文加速，未深评同预算质量/成本和独立证据。
+  reconsider_after: 2026-10-27
+- id: 2610.28619 / Adaptive Multi-Token Prediction
+  reason: 10-20 v1；在线horizon控制且保持verifier，摘要最佳相对固定窗约10%；新论文先观察。
+  reconsider_after: 2026-10-27
+- id: 2610.24648 / EdgeKernelBench
+  reason: 10-17 v1、HF10-21发现；TVM/LEKA代码公开，但one-shot/引擎实验drivers、调优基线库及历史运行输出未包含，待核验复现覆盖。
+  reconsider_after: 2026-10-26
+- id: RFD4-Proteina / https://developer.nvidia.com/blog/design-proteins-with-rfd4-proteina-using-reward-guided-inference-time-search/
+  reason: 10-21原始教程与代码入口已见，联合序列结构及reward-guided搜索；未核验完整湿实验/基线和独立成本证据，先观察。
+  reconsider_after: 2026-10-26
+- id: SynthID-Bio / https://deepmind.google/blog/introducing-synthid-bio/
+  reason: 09-30历史候选正文已读，有三靶点作者湿实验与方法论文/代码交付声明；Nature正文不可访问，证据/对抗篡改与资产仍待核验，不推进DeepMind全源cursor。
+  reconsider_after: 2026-10-26
+- id: Raschka-classifier-history-and-jev / https://magazine.sebastianraschka.com/p/classifier-history-and-jev
+  reason: 09-29教程已核原始日期及正文，主要为分类与校准解释，非新独立benchmark；当前投入优先级较低。
+  reconsider_after: 2026-11-05
+
+- id: granite-speech-5 / https://huggingface.co/blog/ibm-granite/granite-speech-5
+  reason: 10-21 IBM Enterprise正文已核，2B ASR/翻译及470M CTC、4.1 Plus更新真实；现阶段语音工程投入优先级低，WER/RTFx作者测量，暂不推荐。
+  reconsider_after: 2026-11-05
+- id: kumo-forecast / https://huggingface.co/blog/nvidia/kumo-forecast
+  reason: 10-21 NVIDIA Enterprise正文已核，340M MOMENT编码器+检索增强预测头及代码/权重；当前用户价值较低，未核实完整量化强baseline，暂不推荐。
+  reconsider_after: 2026-11-05
+- id: hf-train-agents-curriculum / https://huggingface.co/blog/huggingface/train-agents
+  reason: 10-20 HF团队作者课程整合，虽为Community模板但作者官方；主要归纳既有学习材料，未识别足以改变当前判断的新技术，暂缓。
+  reconsider_after: 2026-11-05
+
 # Maintenance Notes
+
+- 2026-10-22 用户要求新增订阅源：已在 PROMPT.md 纳入 DeepSeek 官方知乎 https://www.zhihu.com/org/deepseek-75/posts 与 X https://x.com/deepseek_ai，每日25h及独立cursor补漏；原API日志/官网路径保留。仅完成过知乎单篇与X单个发布串的未登录正文核验，尚未完成账号列表初始化，故两个新cursor保持未初始化。首次扫描须检查近期历史，并优先处理尚未写入日报的DeepInfer事件：知乎 https://zhuanlan.zhihu.com/p/2095560295930508953 （页面编辑于10-20 19:30，不当成首次发布时间）、X发布串 https://x.com/deepseek_ai/status/2112476496283775135 （10-20发布）。不能因已在对话解释而认定日报已补报。
+
+- 2026-10-22（补核 2026-10-22T01:17:01+08:00）：HF列表发现的TorchNeuron profiling作为高价值后端作者定向证据入选；Nemotron3.5按重大Hub资产检测核验BF16/NVFP4/Parse模型卡，分别标注原始资产日期与公告日期。Granite Speech、Kumo Forecast及HF课程只保留最小待办；未扩展Community全量扫描。
+
+- 2026-10-22（保存 2026-10-22T01:11:16+08:00）：先写2026-10-22.md再保存本状态；25h窗口为2026-10-20T23:57:13+08:00至2026-10-22T00:57:13+08:00。已访问全部固定源并对照各自旧cursor，处理可访问新增与漏项；当日此前无日报。22篇到期论文核对arXiv版本及定向资产，5个到期GitHub、2个到期Watchlist已复核；新论文仅初筛并列最小待办。OpenShell新正式版触发提前复评，Relay0.10.4仅轻检。
+- 2026-10-22 cursor：OpenAI Security已跨Daybreak旧值，09-30推理提取与10-21Patch均已处理；Global Affairs六项历史候选正文核对后以政策/地区/培训/采用类为主，不构成当前技术推荐，闭合至10-14。Engineering新广告架构已报。Raschka通过archive恢复枚举，09-29教程已处理。PyTorch列表首项TorchTPU与旧Nine Members同日，均已处理，校正latest为TorchTPU。
+- 2026-10-22 保留边界：OpenAI News/Index/Product/Research列表仍未跨旧cursor，Safety入口404；DeepMind SynthID/PrivateAI等正文可读但完整历史资产核验未闭合，PrivateAI按B级方案补报，SynthID留待办；Claude分页未跨旧值。Qwen主站/ModelScope/Seed/混元空动态页、智谱超时、MiniMax Blog/News本次仅导航，均不推进。HF主页经分页参数恢复可见Enterprise与Community列表，10-21三篇Enterprise及HF团队10-20课程已处理；定向发现Nemotron3.5资产后深核并报告，但未跨旧cursor，不能宣称官方历史已完整枚举；LMSYS空列表，Lattner无稳定日期列表；LLVM release notes不可访问，Linux主页7.2.12与目录仍仅7.2.11不一致，历史未闭合，均保留cursor。
+- 2026-10-22 GitHub/Watchlist轻检：Active release和Watchlist模型/代码入口均访问；Codex稳定仍0.163.0、alpha9非正式，cuda-rust仍cuTile0.4/oxide0.2.1，其他可核验版本无重大新推荐。torch-spyre release与tokbench release失败，不将失败记为无更新。Flint模型PR62938仍Open，页面Merged字样属于关联博客PR，不混淆。Specter论文批量实验与公开batch1包明确分开。
+- 2026-10-22 额度：官方News/Help与官方社交检索已执行；banked仍09-03/04及09-07既有规则，付费reset页面未确认实质新规则。社区Day16的12h caching/effective usage链接指向官方X但403，Day15仅截图。Help更新时间及auto-review免费现行说明不足以确定新公告日期；无可确认满足条件的新事件，monitor四字段保持，不提醒。ai-2本地为ACTIVE每日01:00 heartbeat；仅发现此一份日报automation配置，未设置模型或推理覆盖。
+
+- 2026-10-21（保存 2026-10-21T01:11:54+08:00）：已先写 2026-10-21.md；25h 窗口为 2026-10-20T00:03:05+08:00 至 2026-10-21T01:03:05+08:00。固定源逐个访问并对照旧 cursor；PyTorch/vLLM 新文、OpenAI MultiLangBench 和 Mamba-2 漏项已核验报告。到期 Run:ai、双向 KV、tokenizers PR 维持观察并移至10-28；TorchNeuron交付和Mamba待办已处理。新日论文只做发现/初筛，不占满Active后强行新增。
+- 2026-10-21 来源边界：OpenAI Research/Product 列表仍未跨旧值，Safety入口404；Engineering已遇旧cursor，Security与Global Affairs历史候选待完整处理，其余OpenAI cursor保留。DeepMind/Claude旧cursor补漏尚未闭合；HF列表混合官方和Enterprise/Community，未完整跨旧cursor。Qwen/ModelScope/Seed/混元动态页与智谱访问不全，Raschka/Lattner缺可确认最新枚举；LLVM release/Linux历史未闭合，LMSYS列表不完整。上述源不推进。NVIDIA正文访问恢复解决Mamba项，但全源仍未跨旧cursor，不推进。
+- 2026-10-21 GitHub轻检：核验Active release及Watchlist代码/模型入口；Codex稳定版仍0.163.0，新alpha不作正式版。open-code-review1.13.2仅语言/路径维护；Relay0.10.3有凭据边界修复并简报。部分release访问失败（tokbench、SWE-Serve、torch-spyre），不声称这些仓库无更新。math历史发现10-07实质勘误，按触发规则提前复评并补报。
+- 2026-10-21 额度：News/Help及官方社交定向查找已执行；社区提示Day12 effective usage和Day15 reset，但官方原帖未能直接核实，Help页更新时间本身不构成新公告。维持monitor四字段，待核实；无符合提醒条件的已确认新事件，不提醒。单纯已发生reset也不能自动等同未来预告或可领取banked reset。
+
+- 2026-10-20（保存 2026-10-20T01:11:12+08:00）：日报已先写入 2026-10-20.md；扫描窗口 2026-10-19T00:01:27+08:00 至 2026-10-20T01:01:27+08:00。25h、逐源补漏、arXiv/HF Papers/OpenReview/ACL、GitHub/Watchlist 已执行可访问内容检查；7 个到期项维持评级并移至 10-27，Codex 新稳定版触发复评。新高价值技术复盘压缩归档，不突破 Active 容量。
+- 2026-10-20 cursor 边界：仅对已确认 latest→old 范围全部检查的来源推进。OpenAI 分类页返回通用有限列表；DeepMind 历史候选仍缺关联原始论文/资产核验（SynthID Bio、Private AI Compute 等）；Claude/HF 列表未跨旧 cursor；Qwen/Seed/混元等动态页不完整；NVIDIA 新文正文失败；LLVM release/Linux release 历史未完整跨越旧值。上述源原值保留，继续补漏；不能把访问尝试视为全源成功。
+- 2026-10-20 额度监控：官方 News/Help 的付费 reset 与 banked reset 说明未出现可确认的新预告；社交原帖当前不可核实，last_successful_scan、last_seen 和 last_alerted 均不推进，不发提醒。
+
+- 2026-10-19 01:04 北京时间：完成 25h 与逐来源 cursor 扫描。DeepSeek 更新日志新增 10-17 模型与 Search/Fetch，已补报并推进该源 cursor；其他动态页或未完整跨越旧 cursor 的源保持原值。论文到期项核对 arXiv 修订，GitHub 到期项核对仓库和可访问 release；证据不足者维持等级并安排短期复核。Codex reset 仅见已发生消息，未发现符合提醒条件的可核验新预告。
 
 ## 可提前触发复评的事件
 

@@ -126,7 +126,9 @@ if (auto add = llvm::dyn_cast<mlir::arith::AddIOp>(op)) {
 - `cast<T>(x)`：断言/假设一定匹配；不满足时会触发断言或其他失败，不适合未检查的输入。
 - MLIR 常结合 LLVM 支持库使用这些转换；具体命名空间/API 按类型和版本而定。
 
-类型化 Op wrapper 不是新的 IR 节点，也不是所有者。对 wrapper 取出的 Operand/Result 仍是 Value 句柄；读取前要知道操作类型约束，改写时要保证 Operation 仍合法。
+这些 `isa` / `dyn_cast` / `cast` **不是 Dialect，也不是 Builtin 操作**。它们是 LLVM 支持库里的通用 C++ 类型转换模板，定义在 `llvm/Support/Casting.h`；MLIR 的 `mlir/Support/LLVM.h` 会把它们引入 `mlir` 命名空间，因此代码中常见 `isa<T>(x)`，也可以明确写 `llvm::isa<T>(x)`。MLIR Operation wrapper 等类型提供了配合这套机制使用的类型判别接口。
+
+调用时，`T` 才是要检查的 MLIR 类型。例如 `T = arith::AddIOp` 指向 Arith Dialect 的具体 Op wrapper；转换机制本身仍是 LLVM 的通用 C++ 工具，不属于 Arith Dialect。类型化 Op wrapper 不是新的 IR 节点，也不是所有者。对 wrapper 取出的 Operand/Result 仍是 Value 句柄；读取前要知道操作类型约束，改写时要保证 Operation 仍合法。
 
 ## 7. OpBuilder 与插入点：创建操作就要知道“放在哪里”
 
@@ -183,9 +185,91 @@ builder.create<mlir::func::ReturnOp>(loc, delta);
 
 ## 10. PatternRewriter 的边界
 
-本章练习中的遍历计数是只读操作，可直接 walk。创建初始 Module/Function 也适合用 OpBuilder。
+### 它解决什么问题？
 
-当任务是“匹配某种 Operation 结构并替换成等价结构”时，优先写 Rewrite Pattern 并通过 PatternRewriter 执行。它提供变换框架需要的通知和更新机制，方便与 greedy rewrite、fold、canonicalization 等系统配合。不要在 Pattern 内直接绕开 rewriter 的修改 API；否则驱动流程可能不知道 IR 已改变。Pattern 细节与 canonicalization 在第 11 章系统讲解。
+当你在编写编译变换时，常见任务不是“无条件创建一个 Operation”，而是：**找到符合某个结构的 Operation，在满足条件时把它改写成另一种 IR**。例如：
+
+```mlir
+%zero = arith.constant 0 : i32
+%sum = arith.addi %x, %zero : i32
+func.return %sum : i32
+```
+
+如果确认第二个 operand 确实是整数 0，那么 `%sum` 的值等于 `%x`。期望结果是让 return 直接使用 `%x`，并移除不再需要的 `arith.addi`：
+
+```mlir
+func.return %x : i32
+```
+
+这里要做的不只是删一行文本：原 Operation 可能有多个 SSA uses；删掉它前需要把这些 uses 改接到替代值；rewrite driver 也需要知道哪些 IR 节点被新增、替换、修改或删除，以便继续处理受影响的操作。`PatternRewriter` 是 Pattern 执行时使用的改写接口，它把这些修改通知给驱动器。
+
+### 三个角色要分开
+
+| 角色 | 做什么 | 类比 |
+| --- | --- | --- |
+| **Rewrite Pattern** | 描述“匹配什么 Operation、条件是什么、怎么改写” | 一条变换规则 |
+| **PatternRewriter** | 提供创建、替换、删除、原地修改等接口，并向驱动器报告变化 | 受跟踪的修改工具 |
+| **Pattern driver** | 遍历 IR、挑选并应用规则；决定是否重访变化节点、何时停止 | 规则执行引擎 |
+
+Pattern 通常实现 `matchAndRewrite(root, rewriter)`：
+
+1. 检查 root 是否符合模式及额外条件。
+2. 若不匹配，返回 `failure()`，此时不能已经改动 IR。
+3. 若匹配，使用传入的 `rewriter` 修改 IR。
+4. 改写完成后返回 `success()`；必须“有修改才 success”，不能无变化却报告成功。
+
+概念伪代码（`isKnownZero` 是省略实现的示意 helper，不是可直接编译的完整 Pattern）：
+
+```cpp
+LogicalResult matchAndRewrite(arith::AddIOp op,
+                              PatternRewriter &rewriter) const {
+  if (!isKnownZero(op.getRhs()))
+    return failure();
+
+  rewriter.replaceOp(op, op.getLhs());
+  return success();
+}
+```
+
+`replaceOp(op, replacementValue)` 会把 root Operation 的结果替换为给定 Value，并移除 root。此例假定已正确证明 RHS 为 0，且替换值类型兼容。**PatternRewriter 不负责证明代数变换正确**；变换作者仍须证明语义等价，正确处理类型、副作用、溢出规则和使用关系。
+
+### 为什么不直接 `op.erase()` 或随手改 operand？
+
+Pattern driver 可能维护 worklist、遍历状态或其他依赖 IR 结构的状态。Pattern 内若绕开 rewriter 直接创建/删除/修改 Operation，driver 可能不知道 IR 已变化，后续处理就会漏掉新节点或继续使用失效状态。因此 MLIR 要求 Pattern 中的所有 IR 修改（包括创建）都经由传入的 `PatternRewriter`；不匹配时不能先改一部分再返回失败。[Pattern Rewriter：Pattern restrictions](https://mlir.llvm.org/docs/PatternRewriter/#matchandrewrite-implementation)
+
+常见接口包括：
+
+- `rewriter.create<OpTy>(...)`：创建并插入新 Operation。
+- `rewriter.replaceOp(...)` / `replaceOpWithNewOp(...)`：用 Value 或新 Operation 替换原 Operation。
+- `rewriter.eraseOp(...)`：删除无结果或所有结果都无 uses 的 Operation。
+- `rewriter.modifyOpInPlace(...)`：通过通知框架对 Operation 做原地修改。
+
+这些方法处理的是“如何让 IR 结构变化被正确报告和应用”的机制，不是安全性/等价性的自动证明。
+
+### 它和 OpBuilder 的关系
+
+`OpBuilder` 是一般的 IR 构造工具：你给它类型、Location、operands 和插入点，它创建 Operation。它适合初始化 IR、生成函数体等常规构造。
+
+`PatternRewriter` 继承 `OpBuilder`，因此也能创建 Operation；它另外提供 rewrite 专用的替换、删除、原地修改和驱动通知接口。简单记忆：
+
+> 造初始 IR 通常用 OpBuilder；在 Pattern 里匹配并改变已有 IR，使用传入的 PatternRewriter。
+
+PatternRewriter 不是“另一个 Dialect”，也不是一个 pass。它是 Pattern 重写框架中的 API/对象。Pattern 集合要交给具体 driver 执行。[MLIR Pattern Rewriting](https://mlir.llvm.org/docs/PatternRewriter/)
+
+### Driver 为什么重要？
+
+定义 Pattern 不代表它会自动运行。需要把 Pattern 放进 `RewritePatternSet`，然后交给 driver。不同 driver 有不同遍历和重访策略：Greedy Pattern Rewrite Driver 会维护 worklist，并重复应用规则，直到达到不动点或迭代上限；它也是 canonicalization 使用的 driver。并非所有 driver 都会重新访问新建/替换的节点，所以要根据变换需求选择执行方式。[Pattern Application 与 Greedy Driver](https://mlir.llvm.org/docs/PatternRewriter/#pattern-application)
+
+例如，给 `mlir-opt` 的 `--canonicalize` 会运行框架中已注册的 canonicalization/fold 规则；它不会凭空推导任意 C++ 变换。自定义 Pattern 则需要由自定义 Pass 或其他 driver 收集并应用。
+
+### 什么时候不用 PatternRewriter？
+
+- **只读统计/检查**：用 walk，不需要 PatternRewriter。
+- **从空白创建 IR**：用 OpBuilder。
+- **基于局部结构匹配和替换**：用 Rewrite Pattern + PatternRewriter。
+- **全局分析或多阶段转换**：在 Pass 中组织分析/控制流程，需要局部改写时再调用 Pattern 机制；不要强行把整项工作塞成一个 pattern。
+
+第 11 章会真正实现 Pattern，并逐步连接 `RewritePatternSet`、driver、fold 和 canonicalization。本章先记住：Pattern 描述规则，PatternRewriter 执行并报告修改，driver 负责调度规则；这三者不可混为一谈。
 
 ## 11. 本章的结论分层
 
